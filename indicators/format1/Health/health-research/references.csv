@@ -461,7 +461,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-20,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1125345/000112534525000042/mgnx-20241231.htm#:~:text=orphan%20drug,Life Sciences,MACROGENICS INC,1125345
 2025-03-21,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1117480/000111748025000004/cmrx-20241231.htm#:~:text=orphan%20drug,Life Sciences,CHIMERIX INC,1117480
 2025-03-26,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1509745/000141057825000454/lptx-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"LEAP THERAPEUTICS, INC.",1509745
-2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1651308/000165130825000031/bgne-20241231.htm#:~:text=orphan%20drug,Life Sciences,"BeiGene, Ltd.",1651308
+2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1651308/000165130825000031/bgne-20241231.htm#:~:text=orphan%20drug,Life Sciences,BeOne Medicines Ltd.,1651308
 2024-09-26,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1385818/000143774924030062/aytu20240630_10k.htm#:~:text=orphan%20drug,Life Sciences,"AYTU BIOPHARMA, INC",1385818
 2025-02-14,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/318154/000031815425000010/amgn-20241231.htm#:~:text=orphan%20drug,Life Sciences,AMGEN INC,318154
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1468748/000095017025046098/kod-20241231.htm#:~:text=orphan%20drug,Life Sciences,Kodiak Sciences Inc.,1468748
@@ -645,7 +645,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-28,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1674930/000095017025029512/flgt-20241231.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,"Fulgent Genetics, Inc.",1674930
 2024-08-22,genomic_domestic,https://www.sec.gov/Archives/edgar/data/842023/000155837024012430/tech-20240630x10k.htm#:~:text=genomic&text=genomic%20research,Life Sciences,BIO-TECHNE Corp,842023
 2024-10-10,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1527728/000173112224001578/e5986_10-k.htm#:~:text=genomic&text=genomic%20research,Life Sciences,RENOVARO INC.,1527728
-2025-02-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1651308/000165130825000031/bgne-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"BeiGene, Ltd.",1651308
+2025-02-27,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1651308/000165130825000031/bgne-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,BeOne Medicines Ltd.,1651308
 2024-06-28,genomic_domestic,https://www.sec.gov/Archives/edgar/data/724004/000143774924021606/mlab20240331_10k.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,MESA LABORATORIES INC /CO/,724004
 2024-12-20,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1090872/000109087224000049/a-20241031.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,"AGILENT TECHNOLOGIES, INC.",1090872
 2025-02-20,genomic_domestic,https://www.sec.gov/Archives/edgar/data/313616/000031361625000043/dhr-20241231.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,DANAHER CORP /DE/,313616

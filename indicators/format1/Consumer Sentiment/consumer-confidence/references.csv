@@ -371,7 +371,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-03,domestic,https://www.sec.gov/Archives/edgar/data/1857816/000185781625000015/gct-20241231.htm#:~:text=consumer%20confidence,Trade & Services,GigaCloud Technology Inc,1857816
 2025-02-19,domestic,https://www.sec.gov/Archives/edgar/data/1180262/000095017025023207/hlf-20241231.htm#:~:text=consumer%20confidence,Trade & Services,HERBALIFE LTD.,1180262
 2025-03-03,domestic,https://www.sec.gov/Archives/edgar/data/837465/000083746525000024/modg-20241231.htm#:~:text=consumer%20confidence,Manufacturing,Topgolf Callaway Brands Corp.,837465
-2024-05-28,domestic,https://www.sec.gov/Archives/edgar/data/317788/000162828024025455/apps-20240331.htm#:~:text=consumer%20confidence,Real Estate & Construction,"Digital Turbine, Inc.",317788
 2024-10-16,domestic,https://www.sec.gov/Archives/edgar/data/1951276/000095017024114772/srbk-20240630.htm#:~:text=consumer%20confidence,Finance,"SR Bancorp, Inc.",1951276
 2025-03-12,domestic,https://www.sec.gov/Archives/edgar/data/1818093/000162828025012407/skin-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,Beauty Health Co,1818093
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1856485/000185648525000008/syl-20241231.htm#:~:text=consumer%20confidence,Manufacturing,Sylvamo Corp,1856485
@@ -394,7 +393,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-12-13,domestic,https://www.sec.gov/Archives/edgar/data/1297937/000149315224049988/form10-k.htm#:~:text=consumer%20confidence,Trade & Services,"PARKS AMERICA, INC",1297937
 2025-03-04,domestic,https://www.sec.gov/Archives/edgar/data/1236275/000162828025009626/qxo-20241231.htm#:~:text=consumer%20confidence,Trade & Services,"QXO, Inc.",1236275
 2024-12-23,domestic,https://www.sec.gov/Archives/edgar/data/1301991/000109690624002294/smme-20240630.htm#:~:text=consumer%20confidence,Manufacturing,"SmartMetric, Inc.",1301991
-2024-05-28,domestic,https://www.sec.gov/Archives/edgar/data/1411688/000162828024025287/tcs-20240330.htm#:~:text=consumer%20confidence,Trade & Services,"Container Store Group, Inc.",1411688
 2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/313927/000095017025019801/chd-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,CHURCH & DWIGHT CO INC /DE/,313927
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/1474098/000147409825000039/peb-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,Pebblebrook Hotel Trust,1474098
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/1771515/000177151525000017/go-20241228.htm#:~:text=consumer%20confidence,Trade & Services,Grocery Outlet Holding Corp.,1771515
@@ -648,7 +646,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/897077/000089707725000007/alg-20241231.htm#:~:text=consumer%20confidence,Technology,ALAMO GROUP INC,897077
 2024-05-31,domestic,https://www.sec.gov/Archives/edgar/data/1617867/000143774924018932/amix20240331_10k.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"Autonomix Medical, Inc.",1617867
 2025-03-14,domestic,https://www.sec.gov/Archives/edgar/data/1646614/000095017025039264/ck0001646614-20241231.htm#:~:text=consumer%20confidence,,Silver Point Specialty Lending Fund,1646614
-2024-05-28,domestic,https://www.sec.gov/Archives/edgar/data/1805521/000162828024025420/ffie-20231231.htm#:~:text=consumer%20confidence,Manufacturing,FARADAY FUTURE INTELLIGENT ELECTRIC INC.,1805521
 2024-07-01,domestic,https://www.sec.gov/Archives/edgar/data/1868640/000095017024079647/rdzn-20240331.htm#:~:text=consumer%20confidence,Finance,Roadzen Inc.,1868640
 2025-02-24,domestic,https://www.sec.gov/Archives/edgar/data/805676/000080567625000014/prk-20241231.htm#:~:text=consumer%20confidence,Finance,PARK NATIONAL CORP /OH/,805676
 2025-02-14,domestic,https://www.sec.gov/Archives/edgar/data/1552275/000155227525000019/sun-20241231.htm#:~:text=consumer%20confidence,Energy & Transportation,Sunoco LP,1552275
@@ -921,7 +918,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-25,domestic,https://www.sec.gov/Archives/edgar/data/1851909/000164117225000421/form10-k.htm#:~:text=consumer%20confidence,Real Estate & Construction,Compass Digital Acquisition Corp.,1851909
 2025-02-06,domestic,https://www.sec.gov/Archives/edgar/data/38009/000003800925000007/fmcc-20241231.htm#:~:text=consumer%20confidence,Finance,FORD MOTOR CREDIT CO LLC,38009
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1475115/000147511525000026/eb-20241231.htm#:~:text=consumer%20confidence,Technology,"Eventbrite, Inc.",1475115
-2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1819994/000162828025008724/rklb-20241231.htm#:~:text=consumer%20confidence,Manufacturing,"Rocket Lab USA, Inc.",1819994
+2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1819994/000162828025008724/rklb-20241231.htm#:~:text=consumer%20confidence,Manufacturing,Rocket Lab Corp,1819994
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1647088/000164708825000009/wsc-20241231.htm#:~:text=consumer%20confidence,Trade & Services,WillScot Holdings Corp,1647088
 2024-11-18,domestic,https://www.sec.gov/Archives/edgar/data/1670541/000167054124000109/adnt-20240930.htm#:~:text=consumer%20confidence,Manufacturing,Adient plc,1670541
 2025-03-21,domestic,https://www.sec.gov/Archives/edgar/data/1947210/000143774925008652/hrol20241231_10k.htm#:~:text=consumer%20confidence,Trade & Services,"High Roller Technologies, Inc.",1947210
