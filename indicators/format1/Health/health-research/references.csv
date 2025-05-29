@@ -88,7 +88,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-03,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1590750/000159075025000004/vrdn-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Viridian Therapeutics, Inc.\DE",1590750
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1763950/000164117225000926/form10-k.htm#:~:text=orphan%20drug,Life Sciences,Lantern Pharma Inc.,1763950
 2025-02-20,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1773427/000177342725000010/swtx-20241231.htm#:~:text=orphan%20drug,Life Sciences,"SpringWorks Therapeutics, Inc.",1773427
-2024-05-29,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/724445/000155837024008731/bzyr-20240229x10k.htm#:~:text=orphan%20drug,Life Sciences,BURZYNSKI RESEARCH INSTITUTE INC,724445
 2025-02-25,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1845337/000095017025026654/dawn-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Day One Biopharmaceuticals, Inc.",1845337
 2025-02-10,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/914475/000091447525000037/nbix-20241231.htm#:~:text=orphan%20drug,Life Sciences,NEUROCRINE BIOSCIENCES INC,914475
 2025-03-31,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1137883/000141057825000545/bcli-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,BRAINSTORM CELL THERAPEUTICS INC.,1137883
@@ -306,7 +305,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-09-19,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1262104/000095017024108185/meip-20240630.htm#:~:text=orphan%20drug,Life Sciences,"MEI Pharma, Inc.",1262104
 2025-02-25,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1724521/000172452125000040/rcus-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Arcus Biosciences, Inc.",1724521
 2025-03-03,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1935979/000193597925000015/bhvn-20241231.htm#:~:text=orphan%20drug,Life Sciences,Biohaven Ltd.,1935979
-2024-05-29,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1764013/000176401324000109/imvt-20240331.htm#:~:text=orphan%20drug,Life Sciences,"Immunovant, Inc.",1764013
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1746466/000095017025045726/eq-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Equillium, Inc.",1746466
 2025-03-25,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1860782/000186078225000024/tsvt-20241231.htm#:~:text=orphan%20drug,Life Sciences,"2seventy bio, Inc.",1860782
 2025-03-12,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/2022626/000095017025037621/upb-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Upstream Bio, Inc.",2022626
@@ -676,7 +674,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-13,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1535955/000149315225010146/form10-k.htm#:~:text=genomic&text=genomic%20research,Life Sciences,Lipocine Inc.,1535955
 2025-03-18,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1703647/000095017025040759/krro-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Korro Bio, Inc.",1703647
 2025-03-05,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1434316/000095017025033510/fate-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,FATE THERAPEUTICS INC,1434316
-2024-05-29,genomic_domestic,https://www.sec.gov/Archives/edgar/data/724445/000155837024008731/bzyr-20240229x10k.htm#:~:text=genomic&text=genomic%20research,Life Sciences,BURZYNSKI RESEARCH INSTITUTE INC,724445
 2025-03-03,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1109354/000095017025030897/brkr-20241231.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,BRUKER CORP,1109354
 2025-03-31,genomic_domestic,https://www.sec.gov/Archives/edgar/data/883107/000199937125003471/solesence_10k-123124.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,"SOLESENCE, INC.",883107
 2025-03-10,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1637715/000095017025036252/okur-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"OnKure Therapeutics, Inc.",1637715
