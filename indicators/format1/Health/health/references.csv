@@ -136,7 +136,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-25,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1649094/000164909425000028/pcvx-20241231.htm#:~:text=Alzheimer,Life Sciences,"Vaxcyte, Inc.",1649094
 2025-03-11,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/2012593/000095017025036828/rapp-20241231.htm#:~:text=Alzheimer,Life Sciences,"Rapport Therapeutics, Inc.",2012593
 2025-03-18,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125002786/tnxp-10k_123124.htm#:~:text=Alzheimer,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
-2024-05-30,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1804591/000180459124000038/me-20240331.htm#:~:text=Alzheimer,Life Sciences,23andMe Holding Co.,1804591
 2025-03-28,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1966394/000196639425000025/fnlr-20241231.htm#:~:text=Alzheimer,Real Estate & Construction,Fortress Net Lease REIT,1966394
 2025-03-07,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1854401/000185440125000062/brdg-20241231.htm#:~:text=Alzheimer,Finance,Bridge Investment Group Holdings Inc.,1854401
 2024-11-07,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1713863/000121390024095111/ea0217275-10k_rafael.htm#:~:text=Alzheimer,Life Sciences,"Rafael Holdings, Inc.",1713863
@@ -618,7 +617,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-11-19,h1n1-swine_international,https://www.sec.gov/Archives/edgar/data/1808110/000121390024099916/ea0221768-6k_ddcenter.htm#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Manufacturing,DDC Enterprise Ltd,1808110
 2024-06-27,h1n1-swine_international,https://www.sec.gov/Archives/edgar/data/1038683/000155837024009522/tmb-20231231xex99d1.pdf#:~:text=h1n1&text=swine%20flu&text=swine%20influenza,Energy & Transportation,RYANAIR HOLDINGS PLC,1038683
 2024-09-16,mpox_international,https://www.sec.gov/Archives/edgar/data/1681348/000149315224036308/ex99-1.htm#:~:text=mpox&text=monkeypox,Energy & Transportation,VivoPower International PLC,1681348
-2024-05-30,mpox_international,https://www.sec.gov/Archives/edgar/data/1776985/000177698524000047/ex99_120240529xcepixprxenx.htm#:~:text=mpox&text=monkeypox,Life Sciences,BioNTech SE,1776985
 2024-12-17,mpox_international,https://www.sec.gov/Archives/edgar/data/1885827/000095017024136922/vrax-ex99_1.htm#:~:text=mpox&text=monkeypox,Life Sciences,Virax Biolabs Group Ltd,1885827
 2024-08-27,mpox_international,https://www.sec.gov/Archives/edgar/data/888721/000117891324002804/exhibit_99-1.htm#:~:text=mpox&text=monkeypox,Life Sciences,TRINITY BIOTECH PLC,888721
 2024-11-15,mpox_international,https://www.sec.gov/Archives/edgar/data/1789299/000121390024099095/ea0221159-6k_utime.htm#:~:text=mpox&text=monkeypox,Manufacturing,UTime Ltd,1789299

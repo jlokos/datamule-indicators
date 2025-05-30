@@ -227,7 +227,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-04,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1367644/000136764425000021/ebs-20241231.htm#:~:text=orphan%20drug,Life Sciences,Emergent BioSolutions Inc.,1367644
 2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1888886/000155837025001826/gpcr-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,Structure Therapeutics Inc.,1888886
 2025-03-17,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/791908/000155837025003131/xoma-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,XOMA Royalty Corp,791908
-2024-05-30,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1635088/000114036124028145/ef20026301_10k.htm#:~:text=orphan%20drug,Life Sciences,Roivant Sciences Ltd.,1635088
 2025-02-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1601830/000160183025000035/rxrx-20241231.htm#:~:text=orphan%20drug,Life Sciences,"RECURSION PHARMACEUTICALS, INC.",1601830
 2025-03-21,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1615219/000161521925000037/flks-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Salarius Pharmaceuticals, Inc.",1615219
 2024-08-15,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1175680/000155837024012328/cydy-20240531x10k.htm#:~:text=orphan%20drug,Life Sciences,CytoDyn Inc.,1175680
@@ -289,7 +288,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-17,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1053691/000143774925007829/crvo20241231_10k.htm#:~:text=orphan%20drug,Life Sciences,CervoMed Inc.,1053691
 2025-02-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1760542/000155837025001853/hook-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,HOOKIPA Pharma Inc.,1760542
 2025-03-17,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/2007919/000200791925000019/inbx-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Inhibrx Biosciences, Inc.",2007919
-2024-05-30,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1804591/000180459124000038/me-20240331.htm#:~:text=orphan%20drug,Life Sciences,23andMe Holding Co.,1804591
 2025-03-31,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1130598/000155837025004165/tmb-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"Traws Pharma, Inc.",1130598
 2025-03-13,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1652935/000168316825001581/actuate_i10k-123124.htm#:~:text=orphan%20drug,Life Sciences,"ACTUATE THERAPEUTICS, INC.",1652935
 2025-02-28,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1341235/000095017025030102/aldx-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Aldeyra Therapeutics, Inc.",1341235
