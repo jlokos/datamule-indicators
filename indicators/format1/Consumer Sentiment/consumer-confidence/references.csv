@@ -606,7 +606,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1915657/000191565725000019/dino-20241231.htm#:~:text=consumer%20confidence,Energy & Transportation,HF Sinclair Corp,1915657
 2025-03-26,domestic,https://www.sec.gov/Archives/edgar/data/2015502/000101376225002822/ea0233709-10k_launch.htm#:~:text=consumer%20confidence,Real Estate & Construction,Launch One Acquisition Corp.,2015502
 2024-06-27,domestic,https://www.sec.gov/Archives/edgar/data/1368622/000155837024009515/avav-20240430x10k.htm#:~:text=consumer%20confidence,Manufacturing,AeroVironment Inc,1368622
-2024-05-31,domestic,https://www.sec.gov/Archives/edgar/data/1497253/000095017024067301/onvo-20240331.htm#:~:text=consumer%20confidence,Life Sciences,"VivoSim Labs, INC.",1497253
 2024-10-08,domestic,https://www.sec.gov/Archives/edgar/data/1481504/000147793224006252/xeri_10k.htm#:~:text=consumer%20confidence,Manufacturing,"XERIANT, INC.",1481504
 2024-07-23,domestic,https://www.sec.gov/Archives/edgar/data/1853047/000121390024063651/ea0203194-10k_hudson1.htm#:~:text=consumer%20confidence,Real Estate & Construction,Hudson Acquisition I Corp.,1853047
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1030469/000103046925000007/ofg-20241231.htm#:~:text=consumer%20confidence,Finance,OFG BANCORP,1030469
@@ -641,7 +640,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-01-28,domestic,https://www.sec.gov/Archives/edgar/data/804269/000080426925000007/acf-20241231.htm#:~:text=consumer%20confidence,Finance,"General Motors Financial Company, Inc.",804269
 2024-08-30,domestic,https://www.sec.gov/Archives/edgar/data/1638290/000095017024102002/mcft-20240630.htm#:~:text=consumer%20confidence,Manufacturing,"MasterCraft Boat Holdings, Inc.",1638290
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/897077/000089707725000007/alg-20241231.htm#:~:text=consumer%20confidence,Technology,ALAMO GROUP INC,897077
-2024-05-31,domestic,https://www.sec.gov/Archives/edgar/data/1617867/000143774924018932/amix20240331_10k.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"Autonomix Medical, Inc.",1617867
 2025-03-14,domestic,https://www.sec.gov/Archives/edgar/data/1646614/000095017025039264/ck0001646614-20241231.htm#:~:text=consumer%20confidence,,Silver Point Specialty Lending Fund,1646614
 2024-07-01,domestic,https://www.sec.gov/Archives/edgar/data/1868640/000095017024079647/rdzn-20240331.htm#:~:text=consumer%20confidence,Finance,Roadzen Inc.,1868640
 2025-02-24,domestic,https://www.sec.gov/Archives/edgar/data/805676/000080567625000014/prk-20241231.htm#:~:text=consumer%20confidence,Finance,PARK NATIONAL CORP /OH/,805676

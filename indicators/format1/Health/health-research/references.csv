@@ -427,7 +427,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-14,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1187953/000147793225001736/celz_10k.htm#:~:text=orphan%20drug,Life Sciences,"CREATIVE MEDICAL TECHNOLOGY HOLDINGS, INC.",1187953
 2025-02-05,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/872589/000180422025000011/regn-20241231.htm#:~:text=orphan%20drug,Life Sciences,"REGENERON PHARMACEUTICALS, INC.",872589
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1576885/000157688525000049/abos-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Acumen Pharmaceuticals, Inc.",1576885
-2025-03-17,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1512762/000155837025003126/chrs-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"Coherus BioSciences, Inc.",1512762
+2025-03-17,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1512762/000155837025003126/chrs-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"Coherus Oncology, Inc.",1512762
 2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1817713/000095017025029177/janx-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Janux Therapeutics, Inc.",1817713
 2025-03-12,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1400118/000155837025002747/sgmt-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,Sagimet Biosciences Inc.,1400118
 2025-03-31,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1585608/000095017025047184/jagx-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Jaguar Health, Inc.",1585608
@@ -935,7 +935,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-14,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/763563/000076356325000058/chmg-20241231.htm#:~:text=healthcare%20blockchain,Finance,CHEMUNG FINANCIAL CORP,763563
 2025-02-26,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1691421/000169142125000031/lmnd-20241231.htm#:~:text=healthcare%20blockchain,Finance,"Lemonade, Inc.",1691421
 2024-10-15,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1325670/000155837024013277/frst-20231231x10k.htm#:~:text=healthcare%20blockchain,Finance,Primis Financial Corp.,1325670
-2024-05-31,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1845942/000173112224000909/e5696_10-k.htm#:~:text=healthcare%20blockchain,Technology,Bannix Acquisition Corp.,1845942
 2025-02-24,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1086222/000108622225000028/akam-20241231.htm#:~:text=healthcare%20blockchain,Trade & Services,AKAMAI TECHNOLOGIES INC,1086222
 2025-02-06,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1571949/000157194925000003/ice-20241231.htm#:~:text=healthcare%20blockchain,Crypto Assets,"Intercontinental Exchange, Inc.",1571949
 2025-03-17,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1754226/000155837025003120/tmb-20241231x10k.htm#:~:text=healthcare%20blockchain,Finance,"Orange County Bancorp, Inc. /DE/",1754226
