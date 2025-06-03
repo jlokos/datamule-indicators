@@ -678,7 +678,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-06-20,domestic,https://www.sec.gov/Archives/edgar/data/864270/000086427024000003/ahfc-20240331.htm#:~:text=consumer%20confidence,Finance,AMERICAN HONDA FINANCE CORP,864270
 2024-06-05,domestic,https://www.sec.gov/Archives/edgar/data/1083490/000141057824000987/srre-20231231x10k.htm#:~:text=consumer%20confidence,Real Estate & Construction,SUNRISE REAL ESTATE GROUP INC,1083490
 2025-03-11,domestic,https://www.sec.gov/Archives/edgar/data/1337013/000162828025012095/infu-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"InfuSystem Holdings, Inc",1337013
-2024-06-03,domestic,https://www.sec.gov/Archives/edgar/data/1819574/000181957424000025/bark-20240331.htm#:~:text=consumer%20confidence,Trade & Services,"Bark, Inc.",1819574
 2025-01-21,domestic,https://www.sec.gov/Archives/edgar/data/876167/000087616725000010/prgs-20241130.htm#:~:text=consumer%20confidence,Technology,PROGRESS SOFTWARE CORP /MA,876167
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/1158449/000115844925000064/aap-20241228.htm#:~:text=consumer%20confidence,Trade & Services,ADVANCE AUTO PARTS INC,1158449
 2024-10-10,domestic,https://www.sec.gov/Archives/edgar/data/74046/000007404624000061/odc-20240731.htm#:~:text=consumer%20confidence,Manufacturing,Oil-Dri Corp of America,74046
@@ -864,7 +863,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/708955/000070895525000012/ffbc-20241231_d2.htm#:~:text=consumer%20confidence,Finance,FIRST FINANCIAL BANCORP /OH/,708955
 2025-03-17,domestic,https://www.sec.gov/Archives/edgar/data/1499832/000149983225000040/tsq-20241231.htm#:~:text=consumer%20confidence,Technology,"Townsquare Media, Inc.",1499832
 2024-11-25,domestic,https://www.sec.gov/Archives/edgar/data/1589526/000158952624000119/blbd-20240928.htm#:~:text=consumer%20confidence,Manufacturing,Blue Bird Corp,1589526
-2024-06-03,domestic,https://www.sec.gov/Archives/edgar/data/1293818/000182912624003930/opgeninc_10k.htm#:~:text=consumer%20confidence,Industrial Applications and Services,OPGEN INC,1293818
 2024-06-10,domestic,https://www.sec.gov/Archives/edgar/data/1002047/000095017024071327/ntap-20240426.htm#:~:text=consumer%20confidence,Technology,"NetApp, Inc.",1002047
 2025-02-21,domestic,https://www.sec.gov/Archives/edgar/data/821130/000082113025000023/usm-20241231.htm#:~:text=consumer%20confidence,Technology,UNITED STATES CELLULAR CORP,821130
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/62234/000006223425000006/mcs-20241226.htm#:~:text=consumer%20confidence,Trade & Services,MARCUS CORP,62234
