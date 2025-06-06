@@ -688,7 +688,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-28,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1831915/000162828025008780/ctkb-20241231.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,"Cytek Biosciences, Inc.",1831915
 2025-03-17,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1770121/000095017025040254/sana-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Sana Biotechnology, Inc.",1770121
 2025-02-26,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1812364/000095017025027756/rlay-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,"Relay Therapeutics, Inc.",1812364
-2024-06-06,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1812360/000121390024050377/ea0206840-10k_foxotech.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,FOXO TECHNOLOGIES INC.,1812360
 2025-03-20,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1790340/000179034025000042/imrx-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,Immuneering Corp,1790340
 2024-09-26,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1631282/000121390024082285/ea0214480-10k_datasea.htm#:~:text=genomic&text=genomic%20research,Technology,DATASEA INC.,1631282
 2025-03-13,genomic_domestic,https://www.sec.gov/Archives/edgar/data/1739410/000173941025000040/rlyb-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,Rallybio Corp,1739410
@@ -801,7 +800,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-03,genomic_international,https://www.sec.gov/Archives/edgar/data/1131399/000113139925000007/gsk-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,GSK plc,1131399
 2025-02-13,genomic_international,https://www.sec.gov/Archives/edgar/data/1121404/000112140425000010/sny-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,Sanofi,1121404
 2025-02-28,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1554859/000155485925000011/smlr-20241231x10k.htm#:~:text=healthcare%20blockchain,Industrial Applications and Services,"Semler Scientific, Inc.",1554859
-2024-06-06,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1580490/000149315224022975/form10-k.htm#:~:text=healthcare%20blockchain,Manufacturing,I-ON Digital Corp.,1580490
 2025-03-20,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1436229/000149315225010973/form10-k.htm#:~:text=healthcare%20blockchain,Crypto Assets,BTCS Inc.,1436229
 2025-03-31,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1690080/000121390025026273/ea0235286-10k_180life.htm#:~:text=healthcare%20blockchain,Life Sciences,180 Life Sciences Corp.,1690080
 2025-03-28,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1895618/000101376225004271/ea0234668-10k_gaxosai.htm#:~:text=healthcare%20blockchain,Technology,GAXOS.AI INC.,1895618
