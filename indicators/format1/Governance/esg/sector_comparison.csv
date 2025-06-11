@@ -9,8 +9,8 @@ Industrial Applications and Services,0,206,environmental_domestic
 Industrial Applications and Services,1,234,environmental_domestic
 Life Sciences,0,89,environmental_domestic
 Life Sciences,1,109,environmental_domestic
-Manufacturing,0,396,environmental_domestic
-Manufacturing,1,481,environmental_domestic
+Manufacturing,0,394,environmental_domestic
+Manufacturing,1,482,environmental_domestic
 Real Estate & Construction,0,317,environmental_domestic
 Real Estate & Construction,1,369,environmental_domestic
 Technology,0,204,environmental_domestic
@@ -28,7 +28,7 @@ Industrial Applications and Services,1,170,social_domestic
 Life Sciences,0,104,social_domestic
 Life Sciences,1,127,social_domestic
 Manufacturing,0,253,social_domestic
-Manufacturing,1,308,social_domestic
+Manufacturing,1,307,social_domestic
 Real Estate & Construction,0,163,social_domestic
 Real Estate & Construction,1,189,social_domestic
 Technology,0,168,social_domestic
@@ -45,8 +45,8 @@ Industrial Applications and Services,0,95,governance_domestic
 Industrial Applications and Services,1,109,governance_domestic
 Life Sciences,0,111,governance_domestic
 Life Sciences,1,138,governance_domestic
-Manufacturing,0,125,governance_domestic
-Manufacturing,1,152,governance_domestic
+Manufacturing,0,124,governance_domestic
+Manufacturing,1,153,governance_domestic
 Real Estate & Construction,0,71,governance_domestic
 Real Estate & Construction,1,105,governance_domestic
 Technology,0,125,governance_domestic
@@ -64,7 +64,7 @@ Industrial Applications and Services,1,21,environmental_international
 Life Sciences,0,21,environmental_international
 Life Sciences,1,35,environmental_international
 Manufacturing,0,55,environmental_international
-Manufacturing,1,109,environmental_international
+Manufacturing,1,108,environmental_international
 Real Estate & Construction,0,8,environmental_international
 Real Estate & Construction,1,16,environmental_international
 Technology,0,35,environmental_international
@@ -82,7 +82,7 @@ Industrial Applications and Services,1,23,social_international
 Life Sciences,0,30,social_international
 Life Sciences,1,44,social_international
 Manufacturing,0,48,social_international
-Manufacturing,1,97,social_international
+Manufacturing,1,96,social_international
 Real Estate & Construction,0,9,social_international
 Real Estate & Construction,1,14,social_international
 Technology,0,31,social_international
@@ -100,7 +100,7 @@ Industrial Applications and Services,1,36,governance_international
 Life Sciences,0,42,governance_international
 Life Sciences,1,87,governance_international
 Manufacturing,0,47,governance_international
-Manufacturing,1,102,governance_international
+Manufacturing,1,101,governance_international
 Real Estate & Construction,0,8,governance_international
 Real Estate & Construction,1,15,governance_international
 Technology,0,47,governance_international
