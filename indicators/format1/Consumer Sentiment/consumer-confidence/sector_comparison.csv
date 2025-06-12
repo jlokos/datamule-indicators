@@ -15,8 +15,8 @@ Real Estate & Construction,0,215,domestic
 Real Estate & Construction,1,256,domestic
 Technology,0,133,domestic
 Technology,1,171,domestic
-Trade & Services,0,257,domestic
-Trade & Services,1,336,domestic
+Trade & Services,0,255,domestic
+Trade & Services,1,338,domestic
 Crypto Assets,0,1,international
 Crypto Assets,1,4,international
 Energy & Transportation,0,11,international
@@ -32,6 +32,6 @@ Manufacturing,1,74,international
 Real Estate & Construction,0,7,international
 Real Estate & Construction,1,17,international
 Technology,0,28,international
-Technology,1,53,international
+Technology,1,52,international
 Trade & Services,0,27,international
 Trade & Services,1,61,international

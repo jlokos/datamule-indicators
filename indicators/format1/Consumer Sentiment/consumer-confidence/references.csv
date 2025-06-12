@@ -451,7 +451,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-06-14,domestic,https://www.sec.gov/Archives/edgar/data/50292/000121390024052905/ea0207042-10k_iehcorp.htm#:~:text=consumer%20confidence,Manufacturing,IEH Corp,50292
 2024-10-23,domestic,https://www.sec.gov/Archives/edgar/data/1703073/000149315224042140/form10-k.htm#:~:text=consumer%20confidence,Trade & Services,VIVIC CORP.,1703073
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/21344/000002134425000011/ko-20241231.htm#:~:text=consumer%20confidence,Manufacturing,COCA COLA CO,21344
-2024-06-12,domestic,https://www.sec.gov/Archives/edgar/data/1338929/000147793224003655/ahro_10k.htm#:~:text=consumer%20confidence,Trade & Services,"Authentic Holdings, Inc.",1338929
 2025-01-29,domestic,https://www.sec.gov/Archives/edgar/data/1083743/000149315225004175/form10-k.htm#:~:text=consumer%20confidence,Manufacturing,"Flux Power Holdings, Inc.",1083743
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1345016/000134501625000007/yelp-20241231.htm#:~:text=consumer%20confidence,Trade & Services,YELP INC,1345016
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/1424929/000142492925000007/foxf-20250103.htm#:~:text=consumer%20confidence,Manufacturing,FOX FACTORY HOLDING CORP,1424929
@@ -1083,7 +1082,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-01-31,domestic,https://www.sec.gov/Archives/edgar/data/1283699/000128369925000012/tmus-20241231.htm#:~:text=consumer%20confidence,Technology,"T-Mobile US, Inc.",1283699
 2024-07-01,domestic,https://www.sec.gov/Archives/edgar/data/1053369/000149315224025829/form10-k.htm#:~:text=consumer%20confidence,Life Sciences,ELITE PHARMACEUTICALS INC /NV/,1053369
 2025-03-03,domestic,https://www.sec.gov/Archives/edgar/data/1528115/000095017025030849/annx-20241231.htm#:~:text=consumer%20confidence,Life Sciences,"Annexon, Inc.",1528115
-2024-06-12,domestic,https://www.sec.gov/Archives/edgar/data/1499717/000149315224023534/form10-k.htm#:~:text=consumer%20confidence,Trade & Services,"Staffing 360 Solutions, Inc.",1499717
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1582313/000095017025029149/xene-20241231.htm#:~:text=consumer%20confidence,Life Sciences,Xenon Pharmaceuticals Inc.,1582313
 2025-03-07,domestic,https://www.sec.gov/Archives/edgar/data/1163668/000114036125007609/ef20039031_10k.htm#:~:text=consumer%20confidence,Finance,"SOUTH PLAINS FINANCIAL, INC.",1163668
 2025-03-27,domestic,https://www.sec.gov/Archives/edgar/data/1360214/000164117225000925/form10-k.htm#:~:text=consumer%20confidence,Life Sciences,"HARROW, INC.",1360214

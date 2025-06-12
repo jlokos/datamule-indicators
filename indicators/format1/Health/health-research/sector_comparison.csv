@@ -25,7 +25,7 @@ Trade & Services,0,2,orphan-drug_domestic
 Trade & Services,1,1,orphan-drug_domestic
 Industrial Applications and Services,0,2,orphan-drug_international
 Industrial Applications and Services,1,2,orphan-drug_international
-Life Sciences,0,42,orphan-drug_international
+Life Sciences,0,41,orphan-drug_international
 Life Sciences,1,89,orphan-drug_international
 Trade & Services,1,1,orphan-drug_international
 Industrial Applications and Services,0,50,genomic_domestic
@@ -41,8 +41,8 @@ Trade & Services,0,4,genomic_domestic
 Trade & Services,1,5,genomic_domestic
 Industrial Applications and Services,0,4,genomic_international
 Industrial Applications and Services,1,9,genomic_international
-Life Sciences,0,14,genomic_international
-Life Sciences,1,21,genomic_international
+Life Sciences,0,13,genomic_international
+Life Sciences,1,22,genomic_international
 Manufacturing,0,3,genomic_international
 Manufacturing,1,4,genomic_international
 Technology,0,3,genomic_international

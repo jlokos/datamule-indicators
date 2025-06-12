@@ -572,7 +572,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-08-15,orphan-drug_international,https://www.sec.gov/Archives/edgar/data/1946399/000121390024069344/ea0210595-20f_lakeshore.htm#:~:text=orphan%20drug,Life Sciences,"LakeShore Biopharma Co., Ltd.",1946399
 2025-02-12,orphan-drug_international,https://www.sec.gov/Archives/edgar/data/1434265/000155837025000846/gmab-20241231x20f.htm#:~:text=orphan%20drug,Life Sciences,GENMAB A/S,1434265
 2024-08-30,orphan-drug_international,https://www.sec.gov/Archives/edgar/data/1815620/000095017024102094/opt-20240630.htm#:~:text=orphan%20drug,Life Sciences,Opthea Ltd,1815620
-2024-06-12,orphan-drug_international,https://www.sec.gov/Archives/edgar/data/1135951/000157587224000660/rdy-20240331.htm#:~:text=orphan%20drug,Life Sciences,DR REDDYS LABORATORIES LTD,1135951
 2025-03-31,orphan-drug_international,https://www.sec.gov/Archives/edgar/data/1962738/000155837025004086/casi-20241231x20f.htm#:~:text=orphan%20drug,Life Sciences,"CASI Pharmaceuticals, Inc.",1962738
 2025-02-18,orphan-drug_international,https://www.sec.gov/Archives/edgar/data/901832/000110465925014750/azn-20241231xex15d1.htm#:~:text=orphan%20drug,Life Sciences,ASTRAZENECA PLC,901832
 2025-03-27,orphan-drug_international,https://www.sec.gov/Archives/edgar/data/1898416/000162828025015052/alvo-20241231.htm#:~:text=orphan%20drug,Life Sciences,Alvotech,1898416
@@ -778,7 +777,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-27,genomic_international,https://www.sec.gov/Archives/edgar/data/1574565/000117891325001092/zk2532892.htm#:~:text=genomic&text=genomic%20research,Industrial Applications and Services,Evogene Ltd.,1574565
 2025-02-18,genomic_international,https://www.sec.gov/Archives/edgar/data/901832/000110465925014750/azn-20241231xex15d1.htm#:~:text=genomic&text=genomic%20research,Life Sciences,ASTRAZENECA PLC,901832
 2025-03-11,genomic_international,https://www.sec.gov/Archives/edgar/data/1801198/000180119825000012/exhibit4_241.htm#:~:text=genomic&text=genomic%20research,Life Sciences,Legend Biotech Corp,1801198
-2024-06-12,genomic_international,https://www.sec.gov/Archives/edgar/data/1355736/000149315224023571/form20-f.htm#:~:text=genomic&text=genomic%20research,Life Sciences,Avricore Health Inc.,1355736
 2024-09-30,genomic_international,https://www.sec.gov/Archives/edgar/data/1166272/000149315224038693/form20-f.htm#:~:text=genomic&text=genomic%20research,Life Sciences,GENETIC TECHNOLOGIES LTD,1166272
 2025-03-19,genomic_international,https://www.sec.gov/Archives/edgar/data/1648257/000141057825000377/hcm-20241231x20f.htm#:~:text=genomic&text=genomic%20research,Life Sciences,HUTCHMED (China) Ltd,1648257
 2025-03-14,genomic_international,https://www.sec.gov/Archives/edgar/data/1627281/000095017025039038/clls-20241231.htm#:~:text=genomic&text=genomic%20research,Life Sciences,Cellectis S.A.,1627281
