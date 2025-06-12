@@ -28,7 +28,7 @@ Industrial Applications and Services,1,183,equity_domestic
 Life Sciences,0,164,equity_domestic
 Life Sciences,1,219,equity_domestic
 Manufacturing,0,176,equity_domestic
-Manufacturing,1,236,equity_domestic
+Manufacturing,1,235,equity_domestic
 Real Estate & Construction,0,159,equity_domestic
 Real Estate & Construction,1,245,equity_domestic
 Technology,0,161,equity_domestic
@@ -45,8 +45,8 @@ Industrial Applications and Services,0,88,inclusion_domestic
 Industrial Applications and Services,1,96,inclusion_domestic
 Life Sciences,0,59,inclusion_domestic
 Life Sciences,1,71,inclusion_domestic
-Manufacturing,0,122,inclusion_domestic
-Manufacturing,1,154,inclusion_domestic
+Manufacturing,0,121,inclusion_domestic
+Manufacturing,1,155,inclusion_domestic
 Real Estate & Construction,0,65,inclusion_domestic
 Real Estate & Construction,1,77,inclusion_domestic
 Technology,0,123,inclusion_domestic
@@ -95,7 +95,7 @@ Finance,0,14,inclusion_international
 Finance,1,15,inclusion_international
 Industrial Applications and Services,0,6,inclusion_international
 Industrial Applications and Services,1,7,inclusion_international
-Life Sciences,0,6,inclusion_international
+Life Sciences,0,5,inclusion_international
 Life Sciences,1,8,inclusion_international
 Manufacturing,0,9,inclusion_international
 Manufacturing,1,18,inclusion_international
