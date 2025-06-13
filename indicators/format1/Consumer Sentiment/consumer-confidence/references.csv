@@ -503,7 +503,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-11,domestic,https://www.sec.gov/Archives/edgar/data/95574/000143774925007055/sgc20241231_10k.htm#:~:text=consumer%20confidence,Manufacturing,"SUPERIOR GROUP OF COMPANIES, INC.",95574
 2024-06-24,domestic,https://www.sec.gov/Archives/edgar/data/726958/000072695824000046/casy-20240430.htm#:~:text=consumer%20confidence,Trade & Services,CASEYS GENERAL STORES INC,726958
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/1552493/000155837025001957/tmb-20241231x10k.htm#:~:text=consumer%20confidence,Finance,CNH Industrial Capital LLC,1552493
-2024-06-13,domestic,https://www.sec.gov/Archives/edgar/data/764630/000149315224023724/form10-k.htm#:~:text=consumer%20confidence,Manufacturing,SHOREPOWER TECHNOLOGIES INC.,764630
 2024-09-06,domestic,https://www.sec.gov/Archives/edgar/data/1308027/000149315224035353/form10-k.htm#:~:text=consumer%20confidence,Manufacturing,Vystar Corp,1308027
 2025-03-26,domestic,https://www.sec.gov/Archives/edgar/data/1496443/000168316825001888/paysign_i10k-123124.htm#:~:text=consumer%20confidence,Trade & Services,"Paysign, Inc.",1496443
 2024-08-26,domestic,https://www.sec.gov/Archives/edgar/data/779152/000077915224000079/jkhy-20240630.htm#:~:text=consumer%20confidence,Technology,JACK HENRY & ASSOCIATES INC,779152
@@ -564,7 +563,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-09-27,domestic,https://www.sec.gov/Archives/edgar/data/787253/000143774924030208/naii20240630_10k.htm#:~:text=consumer%20confidence,Life Sciences,NATURAL ALTERNATIVES INTERNATIONAL INC,787253
 2025-03-13,domestic,https://www.sec.gov/Archives/edgar/data/80035/000162828025012640/plpc-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,PREFORMED LINE PRODUCTS CO,80035
 2025-03-06,domestic,https://www.sec.gov/Archives/edgar/data/918541/000091854125000018/nnbr-20241231.htm#:~:text=consumer%20confidence,Technology,NN INC,918541
-2024-06-13,domestic,https://www.sec.gov/Archives/edgar/data/1616262/000095017024072997/rmcf-20240229.htm#:~:text=consumer%20confidence,Manufacturing,"Rocky Mountain Chocolate Factory, Inc.",1616262
 2025-02-18,domestic,https://www.sec.gov/Archives/edgar/data/910329/000162828025006094/med-20241231.htm#:~:text=consumer%20confidence,Manufacturing,MEDIFAST INC,910329
 2025-03-27,domestic,https://www.sec.gov/Archives/edgar/data/2186/000143774925009464/bkti20241231_10k.htm#:~:text=consumer%20confidence,Manufacturing,BK Technologies Corp,2186
 2025-03-06,domestic,https://www.sec.gov/Archives/edgar/data/1327978/000155837025002411/are-20241231x10k.htm#:~:text=consumer%20confidence,Real Estate & Construction,Ares Real Estate Income Trust Inc.,1327978
@@ -763,7 +761,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1573516/000157351625000010/musa-20241231.htm#:~:text=consumer%20confidence,Trade & Services,Murphy USA Inc.,1573516
 2025-03-20,domestic,https://www.sec.gov/Archives/edgar/data/1137547/000113754725000039/ubfo-20241231.htm#:~:text=consumer%20confidence,Finance,UNITED SECURITY BANCSHARES,1137547
 2025-03-11,domestic,https://www.sec.gov/Archives/edgar/data/891482/000089148225000009/fll-20241231x10k.htm#:~:text=consumer%20confidence,Real Estate & Construction,FULL HOUSE RESORTS INC,891482
-2024-06-13,domestic,https://www.sec.gov/Archives/edgar/data/1015383/000149315224023731/form10-k.htm#:~:text=consumer%20confidence,Manufacturing,Outdoor Holding Co,1015383
 2024-07-15,domestic,https://www.sec.gov/Archives/edgar/data/1883788/000095017024083628/dhai-20240331.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"DIH HOLDING US, INC.",1883788
 2024-08-28,domestic,https://www.sec.gov/Archives/edgar/data/1287032/000128703224000280/psec-20240630.htm#:~:text=consumer%20confidence,,PROSPECT CAPITAL CORP,1287032
 2025-03-06,domestic,https://www.sec.gov/Archives/edgar/data/1901037/000155837025002420/tmb-20241231x10k.htm#:~:text=consumer%20confidence,,Stellus Private Credit BDC,1901037
@@ -1547,7 +1544,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-10,international,https://www.sec.gov/Archives/edgar/data/1837493/000121390025022325/ea0233226-20f_inspira.htm#:~:text=consumer%20confidence,Industrial Applications and Services,Inspira Technologies OXY B.H.N. Ltd,1837493
 2025-02-28,international,https://www.sec.gov/Archives/edgar/data/1809691/000121390025018782/ea0231719-20f_amtd.htm#:~:text=consumer%20confidence,Finance,AMTD Digital Inc.,1809691
 2024-12-30,international,https://www.sec.gov/Archives/edgar/data/1889823/000106299324021234/form20f.htm#:~:text=consumer%20confidence,Technology,KWESST Micro Systems Inc.,1889823
-2024-06-13,international,https://www.sec.gov/Archives/edgar/data/1828102/000121390024052510/ea0207672-20f_karooooo.htm#:~:text=consumer%20confidence,Technology,Karooooo Ltd.,1828102
 2025-02-21,international,https://www.sec.gov/Archives/edgar/data/844150/000110465925016029/nwg-20241231xex15d2.htm#:~:text=consumer%20confidence,Finance,NatWest Group plc,844150
 2025-03-27,international,https://www.sec.gov/Archives/edgar/data/1584371/000101376225003010/ea0235090-20f_icecure.htm#:~:text=consumer%20confidence,Industrial Applications and Services,IceCure Medical Ltd.,1584371
 2025-03-27,international,https://www.sec.gov/Archives/edgar/data/1584371/000101376225003012/ea0235090-20f_icecure.htm#:~:text=consumer%20confidence,Industrial Applications and Services,IceCure Medical Ltd.,1584371
