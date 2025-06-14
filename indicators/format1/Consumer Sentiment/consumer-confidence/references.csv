@@ -78,7 +78,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-11-26,domestic,https://www.sec.gov/Archives/edgar/data/1605331/000166357724000297/abqq10k_083124.htm#:~:text=consumer%20confidence,Real Estate & Construction,AB INTERNATIONAL GROUP CORP.,1605331
 2025-03-26,domestic,https://www.sec.gov/Archives/edgar/data/18498/000095017025044864/gco-20250201.htm#:~:text=consumer%20confidence,Trade & Services,GENESCO INC,18498
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/945841/000094584125000032/pool-20241231.htm#:~:text=consumer%20confidence,Trade & Services,POOL CORP,945841
-2024-06-14,domestic,https://www.sec.gov/Archives/edgar/data/14693/000001469324000086/bfb-20240430.htm#:~:text=consumer%20confidence,Manufacturing,BROWN FORMAN CORP,14693
 2025-03-14,domestic,https://www.sec.gov/Archives/edgar/data/701985/000070198525000011/bbwi-20250201.htm#:~:text=consumer%20confidence,Trade & Services,"Bath & Body Works, Inc.",701985
 2025-03-19,domestic,https://www.sec.gov/Archives/edgar/data/764478/000076447825000007/bby-20250201x10k.htm#:~:text=consumer%20confidence,Trade & Services,BEST BUY CO INC,764478
 2025-03-20,domestic,https://www.sec.gov/Archives/edgar/data/919012/000095017025042746/aeo-20250201.htm#:~:text=consumer%20confidence,Trade & Services,AMERICAN EAGLE OUTFITTERS INC,919012
@@ -295,7 +294,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-12-30,domestic,https://www.sec.gov/Archives/edgar/data/836690/000155837024016501/issc-20240930x10k.htm#:~:text=consumer%20confidence,Technology,INNOVATIVE SOLUTIONS & SUPPORT INC,836690
 2025-03-26,domestic,https://www.sec.gov/Archives/edgar/data/935703/000093570325000015/dltr-20250201.htm#:~:text=consumer%20confidence,Trade & Services,"DOLLAR TREE, INC.",935703
 2025-02-14,domestic,https://www.sec.gov/Archives/edgar/data/851310/000085131025000021/hlit-20241231.htm#:~:text=consumer%20confidence,Manufacturing,HARMONIC INC,851310
-2024-06-14,domestic,https://www.sec.gov/Archives/edgar/data/1040130/000104013024000046/pets-20240331.htm#:~:text=consumer%20confidence,Trade & Services,PETMED EXPRESS INC,1040130
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/851968/000085196825000023/mhk-20241231.htm#:~:text=consumer%20confidence,Manufacturing,MOHAWK INDUSTRIES INC,851968
 2024-09-25,domestic,https://www.sec.gov/Archives/edgar/data/1576942/000157694224000099/sfix-20240803.htm#:~:text=consumer%20confidence,Trade & Services,"Stitch Fix, Inc.",1576942
 2025-03-24,domestic,https://www.sec.gov/Archives/edgar/data/724742/000155837025003553/tphs-20241231x10k.htm#:~:text=consumer%20confidence,Real Estate & Construction,Trinity Place Holdings Inc.,724742
@@ -448,7 +446,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1360565/000149315225007682/form10-k.htm#:~:text=consumer%20confidence,Technology,"Where Food Comes From, Inc.",1360565
 2024-09-11,domestic,https://www.sec.gov/Archives/edgar/data/763532/000143774924028964/lyts20240630_10k.htm#:~:text=consumer%20confidence,Manufacturing,LSI INDUSTRIES INC,763532
 2025-03-13,domestic,https://www.sec.gov/Archives/edgar/data/1827087/000095017025038329/vigl-20241231.htm#:~:text=consumer%20confidence,Life Sciences,"Vigil Neuroscience, Inc.",1827087
-2024-06-14,domestic,https://www.sec.gov/Archives/edgar/data/50292/000121390024052905/ea0207042-10k_iehcorp.htm#:~:text=consumer%20confidence,Manufacturing,IEH Corp,50292
 2024-10-23,domestic,https://www.sec.gov/Archives/edgar/data/1703073/000149315224042140/form10-k.htm#:~:text=consumer%20confidence,Trade & Services,VIVIC CORP.,1703073
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/21344/000002134425000011/ko-20241231.htm#:~:text=consumer%20confidence,Manufacturing,COCA COLA CO,21344
 2025-01-29,domestic,https://www.sec.gov/Archives/edgar/data/1083743/000149315225004175/form10-k.htm#:~:text=consumer%20confidence,Manufacturing,"Flux Power Holdings, Inc.",1083743
@@ -697,7 +694,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-13,domestic,https://www.sec.gov/Archives/edgar/data/1463972/000155837025002903/vuzi-20241231x10k.htm#:~:text=consumer%20confidence,Manufacturing,Vuzix Corp,1463972
 2025-03-19,domestic,https://www.sec.gov/Archives/edgar/data/1847367/000184736725000012/tmb-20241231x10k.htm#:~:text=consumer%20confidence,Life Sciences,ALUMIS INC.,1847367
 2025-02-21,domestic,https://www.sec.gov/Archives/edgar/data/1099590/000109959025000007/meli-20241231.htm#:~:text=consumer%20confidence,Trade & Services,MERCADOLIBRE INC,1099590
-2024-06-14,domestic,https://www.sec.gov/Archives/edgar/data/924805/000092480524000041/frhc-20240331.htm#:~:text=consumer%20confidence,Crypto Assets,Freedom Holding Corp.,924805
 2025-03-20,domestic,https://www.sec.gov/Archives/edgar/data/2036042/000203604225000005/a2025_sionnatherapeuticsin.htm#:~:text=consumer%20confidence,Life Sciences,"Sionna Therapeutics, Inc.",2036042
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/1834543/000095017025030054/ck0001834543-20241231.htm#:~:text=consumer%20confidence,,BlackRock Direct Lending Corp.,1834543
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1486159/000148615925000005/chrd-20241231.htm#:~:text=consumer%20confidence,Energy & Transportation,Chord Energy Corp,1486159
