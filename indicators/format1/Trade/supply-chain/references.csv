@@ -3,9 +3,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-21,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1094285/000109428525000053/tdy-ex1012_performanceplan.htm#:~:text=Supply%20chain%20constraints,Manufacturing,TELEDYNE TECHNOLOGIES INC,1094285
 2024-08-21,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1633978/000162828024038024/lite-20240629.htm#:~:text=Supply%20chain%20constraints,Manufacturing,Lumentum Holdings Inc.,1633978
 2025-02-13,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1334036/000133403625000009/crox-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,"Crocs, Inc.",1334036
-2024-06-13,constraints_domestic,https://www.sec.gov/Archives/edgar/data/350868/000035086824000016/iti-20240331.htm#:~:text=Supply%20chain%20constraints,Manufacturing,"ITERIS, INC.",350868
 2025-02-03,constraints_domestic,https://www.sec.gov/Archives/edgar/data/12927/000001292725000015/ba-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,BOEING CO,12927
-2024-06-13,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1126741/000155837024009139/gsit-20240331x10k.htm#:~:text=Supply%20chain%20constraints,Manufacturing,GSI TECHNOLOGY INC,1126741
 2024-10-29,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1702744/000170274424000089/atk-20240831.htm#:~:text=Supply%20chain%20constraints,Manufacturing,Simply Good Foods Co,1702744
 2025-02-21,constraints_domestic,https://www.sec.gov/Archives/edgar/data/61986/000095017025024838/mtw-20241231.htm#:~:text=Supply%20chain%20constraints,Technology,MANITOWOC CO INC,61986
 2025-03-24,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1017303/000114036125010065/ef20039038_10k.htm#:~:text=Supply%20chain%20constraints,Technology,TRANSACT TECHNOLOGIES INC,1017303
@@ -343,7 +341,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-13,constraints_domestic,https://www.sec.gov/Archives/edgar/data/101594/000143774925007375/useg20241231_10k.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,US ENERGY CORP,101594
 2025-03-21,constraints_domestic,https://www.sec.gov/Archives/edgar/data/727207/000162828025014205/axdx-20241231.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,"Accelerate Diagnostics, Inc",727207
 2025-02-21,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1043604/000104360425000025/jnpr-20241231.htm#:~:text=Supply%20chain%20constraints,Technology,JUNIPER NETWORKS INC,1043604
-2024-06-14,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1707753/000170775324000014/estc-20240430.htm#:~:text=Supply%20chain%20constraints,Technology,Elastic N.V.,1707753
 2025-02-24,constraints_domestic,https://www.sec.gov/Archives/edgar/data/880266/000088026625000011/agco-20241231.htm#:~:text=Supply%20chain%20constraints,Technology,AGCO CORP /DE,880266
 2025-02-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1210677/000095017025029067/fa-20241231.htm#:~:text=Supply%20chain%20constraints,Technology,FIRST ADVANTAGE CORP,1210677
 2025-02-14,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1317630/000131763025000002/itc-20241231.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,ITC Holdings Corp.,1317630

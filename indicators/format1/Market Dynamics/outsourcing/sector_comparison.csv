@@ -9,11 +9,11 @@ Industrial Applications and Services,0,112,domestic
 Industrial Applications and Services,1,128,domestic
 Life Sciences,0,222,domestic
 Life Sciences,1,274,domestic
-Manufacturing,0,133,domestic
+Manufacturing,0,131,domestic
 Manufacturing,1,139,domestic
 Real Estate & Construction,0,78,domestic
-Real Estate & Construction,1,87,domestic
-Technology,0,162,domestic
+Real Estate & Construction,1,88,domestic
+Technology,0,161,domestic
 Technology,1,187,domestic
 Trade & Services,0,121,domestic
 Trade & Services,1,141,domestic
@@ -26,12 +26,12 @@ Finance,1,7,international
 Industrial Applications and Services,0,8,international
 Industrial Applications and Services,1,11,international
 Life Sciences,0,20,international
-Life Sciences,1,38,international
+Life Sciences,1,37,international
 Manufacturing,0,15,international
 Manufacturing,1,34,international
 Real Estate & Construction,0,2,international
 Real Estate & Construction,1,4,international
-Technology,0,31,international
-Technology,1,54,international
+Technology,0,29,international
+Technology,1,55,international
 Trade & Services,0,13,international
 Trade & Services,1,39,international
