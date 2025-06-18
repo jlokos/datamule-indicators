@@ -377,7 +377,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-07-30,domestic,https://www.sec.gov/Archives/edgar/data/66382/000006638224000053/mlkn-20240601.htm#:~:text=consumer%20confidence,Manufacturing,"MILLERKNOLL, INC.",66382
 2025-03-06,domestic,https://www.sec.gov/Archives/edgar/data/1653558/000165355825000039/prth-20241231.htm#:~:text=consumer%20confidence,Trade & Services,"Priority Technology Holdings, Inc.",1653558
 2024-11-21,domestic,https://www.sec.gov/Archives/edgar/data/1666138/000166613824000164/atkr-20240930.htm#:~:text=consumer%20confidence,Manufacturing,Atkore Inc.,1666138
-2024-06-18,domestic,https://www.sec.gov/Archives/edgar/data/891024/000089102424000008/pdco-20240427.htm#:~:text=consumer%20confidence,Trade & Services,"PATTERSON COMPANIES, INC.",891024
 2024-09-09,domestic,https://www.sec.gov/Archives/edgar/data/1888654/000095017024104782/feam-20240630.htm#:~:text=consumer%20confidence,Energy & Transportation,"5E Advanced Materials, Inc.",1888654
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/1534675/000149315225008697/form10-k.htm#:~:text=consumer%20confidence,Manufacturing,Tecnoglass Inc.,1534675
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1593222/000095017025023714/cio-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"City Office REIT, Inc.",1593222
@@ -873,7 +872,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/350852/000114036125006428/ef20038948_10k.htm#:~:text=consumer%20confidence,Finance,COMMUNITY TRUST BANCORP INC /KY/,350852
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/800240/000095017025027569/odp-20241228.htm#:~:text=consumer%20confidence,Trade & Services,ODP Corp,800240
 2025-03-11,domestic,https://www.sec.gov/Archives/edgar/data/1490281/000149028125000005/grpn-20241231.htm#:~:text=consumer%20confidence,Trade & Services,"Groupon, Inc.",1490281
-2024-06-18,domestic,https://www.sec.gov/Archives/edgar/data/91419/000009141924000054/sjm-20240430.htm#:~:text=consumer%20confidence,Manufacturing,J M SMUCKER Co,91419
 2025-03-27,domestic,https://www.sec.gov/Archives/edgar/data/1680367/000168036725000012/sttk-20241231.htm#:~:text=consumer%20confidence,Life Sciences,"Shattuck Labs, Inc.",1680367
 2024-10-17,domestic,https://www.sec.gov/Archives/edgar/data/22444/000002244424000140/cmc-20240831.htm#:~:text=consumer%20confidence,Manufacturing,COMMERCIAL METALS Co,22444
 2025-03-19,domestic,https://www.sec.gov/Archives/edgar/data/1042642/000155837025003292/ddbs-20241231x10k.htm#:~:text=consumer%20confidence,Technology,DISH DBS CORP,1042642
@@ -1311,7 +1309,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-26,domestic,https://www.sec.gov/Archives/edgar/data/1719714/000095017025044787/mreo-20241231.htm#:~:text=consumer%20confidence,Life Sciences,Mereo BioPharma Group plc,1719714
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1464423/000095017025024124/pmt-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,PennyMac Mortgage Investment Trust,1464423
 2025-03-27,domestic,https://www.sec.gov/Archives/edgar/data/1534133/000095017025046035/ck0001534133-20241231.htm#:~:text=consumer%20confidence,Life Sciences,"CalciMedica, Inc.",1534133
-2024-06-18,domestic,https://www.sec.gov/Archives/edgar/data/837852/000162828024028863/idex-20231231.htm#:~:text=consumer%20confidence,Manufacturing,"IDEANOMICS, INC.",837852
 2025-02-25,domestic,https://www.sec.gov/Archives/edgar/data/1932591/000095017025026600/ck0001932591-20241231.htm#:~:text=consumer%20confidence,,SLR Private Credit BDC II LLC,1932591
 2025-03-10,domestic,https://www.sec.gov/Archives/edgar/data/1668243/000143774925006842/urgn20241231_10k.htm#:~:text=consumer%20confidence,Life Sciences,UroGen Pharma Ltd.,1668243
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/1831828/000095017025029969/vera-20241231.htm#:~:text=consumer%20confidence,Life Sciences,"Vera Therapeutics, Inc.",1831828
@@ -1529,7 +1526,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-12,international,https://www.sec.gov/Archives/edgar/data/1835654/000117891325000817/zk2532805.htm#:~:text=consumer%20confidence,Manufacturing,Innoviz Technologies Ltd.,1835654
 2025-03-21,international,https://www.sec.gov/Archives/edgar/data/1841209/000182912625001963/microcloud_20f.htm#:~:text=consumer%20confidence,Technology,MicroCloud Hologram Inc.,1841209
 2024-11-07,international,https://www.sec.gov/Archives/edgar/data/1672886/000107997324001482/zhybf_20f.htm#:~:text=consumer%20confidence,Life Sciences,Zhong Yuan Bio-Technology Holdings Ltd,1672886
-2024-06-18,international,https://www.sec.gov/Archives/edgar/data/1819704/000155837024009293/mrm-20231231x20f.htm#:~:text=consumer%20confidence,Trade & Services,Medirom Healthcare Technologies Inc.,1819704
 2024-08-15,international,https://www.sec.gov/Archives/edgar/data/1816319/000121390024069682/ea0211100-20f_lytustech.htm#:~:text=consumer%20confidence,Technology,Lytus Technologies Holdings PTV. Ltd.,1816319
 2025-03-14,international,https://www.sec.gov/Archives/edgar/data/1834489/000095017025039412/geni-20241231.htm#:~:text=consumer%20confidence,Trade & Services,Genius Sports Ltd,1834489
 2024-08-22,international,https://www.sec.gov/Archives/edgar/data/1962845/000121390024071835/ea0208335-20f_pixiedust.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"PIXIE DUST TECHNOLOGIES, INC.",1962845

@@ -416,7 +416,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-06,obesity_international,https://www.sec.gov/Archives/edgar/data/1849853/000095017025034633/stvn-20241231.htm#:~:text=Obesity,Industrial Applications and Services,Stevanato Group S.p.A.,1849853
 2025-03-13,obesity_international,https://www.sec.gov/Archives/edgar/data/1612940/000155837025002851/tmb-20241231x20f.htm#:~:text=Obesity,Life Sciences,ProQR Therapeutics N.V.,1612940
 2025-03-20,obesity_international,https://www.sec.gov/Archives/edgar/data/1857190/000141057825000398/nyxh-20241231x20f.htm#:~:text=Obesity,Industrial Applications and Services,Nyxoah SA,1857190
-2024-06-18,obesity_international,https://www.sec.gov/Archives/edgar/data/1819704/000155837024009293/mrm-20231231x20f.htm#:~:text=Obesity,Trade & Services,Medirom Healthcare Technologies Inc.,1819704
 2025-03-03,obesity_international,https://www.sec.gov/Archives/edgar/data/1131399/000113139925000007/gsk-20241231.htm#:~:text=Obesity,Life Sciences,GSK plc,1131399
 2025-03-10,obesity_international,https://www.sec.gov/Archives/edgar/data/845982/000155837025002550/snn-20241231x20f.htm#:~:text=Obesity,Industrial Applications and Services,SMITH & NEPHEW PLC,845982
 2024-10-31,obesity_international,https://www.sec.gov/Archives/edgar/data/1023514/000162828024044479/fy24_exhibit151iar2024.htm#:~:text=Obesity,Energy & Transportation,HARMONY GOLD MINING CO LTD,1023514
@@ -561,7 +560,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-07-01,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/16160/000156276224000171/exhibit991.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Industrial Applications and Services,CAL-MAINE FOODS INC,16160
 2024-09-09,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/16160/000156276224000220/exhibit991.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Industrial Applications and Services,CAL-MAINE FOODS INC,16160
 2024-09-17,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1130598/000110465924100709/tm2424247d1_ex99-1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,"Traws Pharma, Inc.",1130598
-2024-06-18,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/72444/000143774924020543/ex_689659.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,"Vaxart, Inc.",72444
 2024-08-12,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1360565/000149315224031189/ex99-2.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Technology,"Where Food Comes From, Inc.",1360565
 2024-11-12,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1213809/000143774924034551/ex_721715.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,DYADIC INTERNATIONAL INC,1213809
 2024-08-01,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1530950/000153095024000209/ex99-1q32024er.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Manufacturing,"Post Holdings, Inc.",1530950
