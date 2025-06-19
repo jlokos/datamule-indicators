@@ -419,7 +419,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-21,domestic,https://www.sec.gov/Archives/edgar/data/1879270/000118518525000206/tcrg10k123124.htm#:~:text=consumer%20confidence,Life Sciences,Cannaisseur Group Inc.,1879270
 2024-08-08,domestic,https://www.sec.gov/Archives/edgar/data/21076/000002107624000030/clx-20240630.htm#:~:text=consumer%20confidence,Industrial Applications and Services,CLOROX CO /DE/,21076
 2025-02-24,domestic,https://www.sec.gov/Archives/edgar/data/1944048/000194404825000033/kvue-20241229.htm#:~:text=consumer%20confidence,Life Sciences,Kenvue Inc.,1944048
-2024-07-25,domestic,https://www.sec.gov/Archives/edgar/data/1674440/000149315224028975/form10-k.htm#:~:text=consumer%20confidence,Manufacturing,Connexa Sports Technologies Inc.,1674440
+2024-07-25,domestic,https://www.sec.gov/Archives/edgar/data/1674440/000149315224028975/form10-k.htm#:~:text=consumer%20confidence,Technology,Connexa Sports Technologies Inc.,1674440
 2025-03-14,domestic,https://www.sec.gov/Archives/edgar/data/1802156/000095017025039541/xpof-20241231.htm#:~:text=consumer%20confidence,Trade & Services,"Xponential Fitness, Inc.",1802156
 2024-11-25,domestic,https://www.sec.gov/Archives/edgar/data/1346022/000106299324019582/form10k.htm#:~:text=consumer%20confidence,Energy & Transportation,Enertopia Corp.,1346022
 2025-03-20,domestic,https://www.sec.gov/Archives/edgar/data/1368757/000095017025042607/gttj-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"GTJ REIT, INC.",1368757
@@ -711,7 +711,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-20,domestic,https://www.sec.gov/Archives/edgar/data/1758009/000121390025025561/ea0234742-10k_quantum.htm#:~:text=consumer%20confidence,Technology,Quantum Computing Inc.,1758009
 2024-07-24,domestic,https://www.sec.gov/Archives/edgar/data/1679273/000167927324000036/lw-20240526.htm#:~:text=consumer%20confidence,Manufacturing,"Lamb Weston Holdings, Inc.",1679273
 2025-02-19,domestic,https://www.sec.gov/Archives/edgar/data/1590714/000159071425000022/esi-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,Element Solutions Inc,1590714
-2025-03-12,domestic,https://www.sec.gov/Archives/edgar/data/842517/000084251725000053/isba-20241231.htm#:~:text=consumer%20confidence,Finance,ISABELLA BANK Corp,842517
+2025-03-12,domestic,https://www.sec.gov/Archives/edgar/data/842517/000084251725000053/isba-20241231.htm#:~:text=consumer%20confidence,Finance,ISABELLA BANK CORP,842517
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/935036/000093503625000006/aciw-20241231.htm#:~:text=consumer%20confidence,Technology,"ACI WORLDWIDE, INC.",935036
 2024-07-11,domestic,https://www.sec.gov/Archives/edgar/data/65270/000095017024082852/mei-20240427.htm#:~:text=consumer%20confidence,Manufacturing,METHODE ELECTRONICS INC,65270
 2024-09-20,domestic,https://www.sec.gov/Archives/edgar/data/1001907/000143774924029650/astc20240630_10k.htm#:~:text=consumer%20confidence,Industrial Applications and Services,ASTROTECH Corp,1001907
