@@ -300,7 +300,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-18,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1128928/000095017025022243/flo-20241228.htm#:~:text=Obesity,Manufacturing,FLOWERS FOODS INC,1128928
 2025-03-24,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1799011/000164117225000205/form10-k.htm#:~:text=Obesity,Industrial Applications and Services,Lucid Diagnostics Inc.,1799011
 2025-02-21,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1618756/000161875625000087/qsr-20241231.htm#:~:text=Obesity,Trade & Services,Restaurant Brands International Inc.,1618756
-2024-06-20,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1613103/000161310324000072/mdt-20240426.htm#:~:text=Obesity,Industrial Applications and Services,Medtronic plc,1613103
 2025-03-24,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1624326/000164117225000364/form10-k.htm#:~:text=Obesity,Industrial Applications and Services,PAVmed Inc.,1624326
 2024-12-04,obesity_domestic,https://www.sec.gov/Archives/edgar/data/720154/000162828024049947/notv-20240930.htm#:~:text=Obesity,Industrial Applications and Services,"Inotiv, Inc.",720154
 2025-02-25,obesity_domestic,https://www.sec.gov/Archives/edgar/data/884624/000095017025026066/ofix-20241231.htm#:~:text=Obesity,Industrial Applications and Services,Orthofix Medical Inc.,884624
@@ -525,7 +524,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-07,zika_domestic,https://www.sec.gov/Archives/edgar/data/1642159/000149315225009462/ex99-1.htm#:~:text=zika,Industrial Applications and Services,"Sigyn Therapeutics, Inc.",1642159
 2024-11-13,zika_domestic,https://www.sec.gov/Archives/edgar/data/882291/000168316824007972/aethlon_ex9901.htm#:~:text=zika,Industrial Applications and Services,AETHLON MEDICAL INC,882291
 2024-08-14,zika_domestic,https://www.sec.gov/Archives/edgar/data/882291/000168316824005697/aethlon_ex9901.htm#:~:text=zika,Industrial Applications and Services,AETHLON MEDICAL INC,882291
-2024-06-20,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1412486/000149315224024430/ex99-1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,"Cocrystal Pharma, Inc.",1412486
 2024-10-31,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1412486/000149315224043141/ex99-1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,"Cocrystal Pharma, Inc.",1412486
 2025-02-07,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/946644/000149315225005310/ex99-1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,AIM ImmunoTech Inc.,946644
 2025-02-12,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1938046/000149315225006040/ex99-1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Industrial Applications and Services,"MANGOCEUTICALS, INC.",1938046
