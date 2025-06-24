@@ -1,5 +1,4 @@
 filing_date,component,url,ownerOrg,name,cik
-2024-06-24,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1326205/000118518524000650/igcpharma20240331_10k.htm#:~:text=Alzheimer,Life Sciences,"IGC Pharma, Inc.",1326205
 2025-03-03,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1069530/000143774925005919/sava20241231c_10k.htm#:~:text=Alzheimer,Life Sciences,CASSAVA SCIENCES INC,1069530
 2024-07-30,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1677077/000121465924013191/x71924010k.htm#:~:text=Alzheimer,Life Sciences,"Alzamend Neuro, Inc.",1677077
 2024-12-23,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1314052/000173112224002041/e6219_10-k.htm#:~:text=Alzheimer,Life Sciences,ANAVEX LIFE SCIENCES CORP.,1314052
@@ -180,7 +179,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-18,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125002786/tnxp-10k_123124.htm#:~:text=Obesity,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2025-02-28,obesity_domestic,https://www.sec.gov/Archives/edgar/data/865752/000141057825000248/mnst-20241231x10k.htm#:~:text=Obesity,Manufacturing,Monster Beverage Corp,865752
 2025-03-28,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1638097/000117891325001112/zk2532895.htm#:~:text=Obesity,Life Sciences,Entera Bio Ltd.,1638097
-2024-06-24,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1357878/000147237524000045/ixform10k.htm#:~:text=Obesity,Life Sciences,"REGENEREX PHARMA, INC.",1357878
 2025-03-03,obesity_domestic,https://www.sec.gov/Archives/edgar/data/944809/000143774925005811/opk20241231_10k.htm#:~:text=Obesity,Life Sciences,"OPKO HEALTH, INC.",944809
 2025-03-07,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1062822/000106282225000013/lxrx-20241231.htm#:~:text=Obesity,Life Sciences,"LEXICON PHARMACEUTICALS, INC.",1062822
 2025-02-12,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1933414/000193341425000009/mlys-20241231.htm#:~:text=Obesity,Life Sciences,"Mineralys Therapeutics, Inc.",1933414
@@ -516,7 +514,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-08-06,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1367644/000136764424000142/ebs2024-06x30deckfinal.htm#:~:text=mpox&text=monkeypox,Life Sciences,Emergent BioSolutions Inc.,1367644
 2024-12-20,mpox_domestic,https://www.sec.gov/Archives/edgar/data/743238/000095010324018087/dp222354_ex0201.htm#:~:text=mpox&text=monkeypox,Technology,"SHYFT GROUP, INC.",743238
 2024-08-23,mpox_domestic,https://www.sec.gov/Archives/edgar/data/91767/000110465924092158/tm2422481d1_ex2-1.htm#:~:text=mpox&text=monkeypox,Manufacturing,SONOCO PRODUCTS CO,91767
-2024-06-24,mpox_domestic,https://www.sec.gov/Archives/edgar/data/91767/000110465924074118/tm2418068d1_ex2-2.htm#:~:text=mpox&text=monkeypox,Manufacturing,SONOCO PRODUCTS CO,91767
 2025-01-21,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1819810/000181981025000016/exhibit21-agreementandpl.htm#:~:text=mpox&text=monkeypox,Manufacturing,Redwire Corp,1819810
 2024-09-30,mpox_domestic,https://www.sec.gov/Archives/edgar/data/62709/000006270924000079/bulldog-mergeragreementx.htm#:~:text=mpox&text=monkeypox,Finance,"MARSH & MCLENNAN COMPANIES, INC.",62709
 2024-12-09,mpox_domestic,https://www.sec.gov/Archives/edgar/data/354190/000119312524272811/d885381dex21.htm#:~:text=mpox&text=monkeypox,Finance,Arthur J. Gallagher & Co.,354190
@@ -638,7 +635,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-06-27,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000117184324003667/exh_991.htm#:~:text=zika,Life Sciences,Valneva SE,1836564
 2024-12-04,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000117184324006720/exh_991.htm#:~:text=zika,Life Sciences,Valneva SE,1836564
 2024-10-21,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000117184324005718/exh_991.htm#:~:text=zika,Life Sciences,Valneva SE,1836564
-2024-06-24,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000117184324003577/exh_991.htm#:~:text=zika,Life Sciences,Valneva SE,1836564
 2024-11-26,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000117184324006606/exh_991.htm#:~:text=zika,Life Sciences,Valneva SE,1836564
 2024-07-01,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000117184324003722/exh_991.htm#:~:text=zika,Life Sciences,Valneva SE,1836564
 2024-08-01,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000117184324004340/exh_991.htm#:~:text=zika,Life Sciences,Valneva SE,1836564

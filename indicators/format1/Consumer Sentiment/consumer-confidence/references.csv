@@ -494,7 +494,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-03,domestic,https://www.sec.gov/Archives/edgar/data/80661/000008066125000007/pgr-20241231.htm#:~:text=consumer%20confidence,Finance,PROGRESSIVE CORP/OH/,80661
 2024-08-21,domestic,https://www.sec.gov/Archives/edgar/data/703351/000070335124000030/eat-20240626.htm#:~:text=consumer%20confidence,Trade & Services,"BRINKER INTERNATIONAL, INC",703351
 2025-03-11,domestic,https://www.sec.gov/Archives/edgar/data/95574/000143774925007055/sgc20241231_10k.htm#:~:text=consumer%20confidence,Manufacturing,"SUPERIOR GROUP OF COMPANIES, INC.",95574
-2024-06-24,domestic,https://www.sec.gov/Archives/edgar/data/726958/000072695824000046/casy-20240430.htm#:~:text=consumer%20confidence,Trade & Services,CASEYS GENERAL STORES INC,726958
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/1552493/000155837025001957/tmb-20241231x10k.htm#:~:text=consumer%20confidence,Finance,CNH Industrial Capital LLC,1552493
 2024-09-06,domestic,https://www.sec.gov/Archives/edgar/data/1308027/000149315224035353/form10-k.htm#:~:text=consumer%20confidence,Manufacturing,Vystar Corp,1308027
 2025-03-26,domestic,https://www.sec.gov/Archives/edgar/data/1496443/000168316825001888/paysign_i10k-123124.htm#:~:text=consumer%20confidence,Trade & Services,"Paysign, Inc.",1496443
@@ -914,7 +913,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-08-13,domestic,https://www.sec.gov/Archives/edgar/data/1636519/000163651924000015/msgs-20240630.htm#:~:text=consumer%20confidence,Trade & Services,Madison Square Garden Sports Corp.,1636519
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/1331875/000133187525000013/fnf-20241231.htm#:~:text=consumer%20confidence,Finance,"Fidelity National Financial, Inc.",1331875
 2025-03-03,domestic,https://www.sec.gov/Archives/edgar/data/763901/000119312525043848/d924089d10k.htm#:~:text=consumer%20confidence,Finance,"POPULAR, INC.",763901
-2024-06-24,domestic,https://www.sec.gov/Archives/edgar/data/1569340/000149315224024903/form10-k.htm#:~:text=consumer%20confidence,Life Sciences,"Cell Source, Inc.",1569340
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1370755/000095017025028389/tcpc-20241231.htm#:~:text=consumer%20confidence,,BlackRock TCP Capital Corp.,1370755
 2024-09-18,domestic,https://www.sec.gov/Archives/edgar/data/1725430/000149315224036953/form10-k.htm#:~:text=consumer%20confidence,Industrial Applications and Services,INTELLIGENT BIO SOLUTIONS INC.,1725430
 2025-03-12,domestic,https://www.sec.gov/Archives/edgar/data/1562463/000156246325000022/inbk-20241231.htm#:~:text=consumer%20confidence,Finance,First Internet Bancorp,1562463
