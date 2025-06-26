@@ -20,8 +20,8 @@ Industrial Applications and Services,0,48,obesity_domestic
 Industrial Applications and Services,1,56,obesity_domestic
 Life Sciences,0,97,obesity_domestic
 Life Sciences,1,102,obesity_domestic
-Manufacturing,0,23,obesity_domestic
-Manufacturing,1,25,obesity_domestic
+Manufacturing,0,22,obesity_domestic
+Manufacturing,1,26,obesity_domestic
 Real Estate & Construction,0,1,obesity_domestic
 Real Estate & Construction,1,1,obesity_domestic
 Technology,1,2,obesity_domestic
@@ -48,8 +48,8 @@ Trade & Services,1,2,ptsd_domestic
 Energy & Transportation,1,1,alzheimer_international
 Finance,0,1,alzheimer_international
 Industrial Applications and Services,1,2,alzheimer_international
-Life Sciences,0,13,alzheimer_international
-Life Sciences,1,22,alzheimer_international
+Life Sciences,0,12,alzheimer_international
+Life Sciences,1,23,alzheimer_international
 Manufacturing,0,1,alzheimer_international
 Technology,0,1,alzheimer_international
 Technology,1,1,alzheimer_international
