@@ -331,7 +331,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-03,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1395937/000095017025030394/sndx-20241231.htm#:~:text=Supply%20chain%20constraints,Life Sciences,Syndax Pharmaceuticals Inc,1395937
 2025-02-19,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1607939/000160793925000011/udmy-20241231.htm#:~:text=Supply%20chain%20constraints,Trade & Services,"Udemy, Inc.",1607939
 2025-03-06,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1832483/000183248325000010/patr-20241231.htm#:~:text=Supply%20chain%20constraints,Technology,Serve Robotics Inc. /DE/,1832483
-2024-06-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1630113/000149315224025344/form10-k.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,BIOTRICITY INC.,1630113
 2025-03-14,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1643953/000121390025023815/ea0230077-10k_purpleinnov.htm#:~:text=Supply%20chain%20constraints,Manufacturing,"Purple Innovation, Inc.",1643953
 2025-02-25,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1274494/000127449425000010/fslr-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,"FIRST SOLAR, INC.",1274494
 2025-02-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/744218/000141057825000216/cldx-20241231x10k.htm#:~:text=Supply%20chain%20constraints,Life Sciences,"Celldex Therapeutics, Inc.",744218
@@ -435,7 +434,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-26,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1792580/000095017025027914/ovv-20241231.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,Ovintiv Inc.,1792580
 2024-11-15,constraints_domestic,https://www.sec.gov/Archives/edgar/data/109177/000010917724000047/spb-20240930.htm#:~:text=Supply%20chain%20constraints,Manufacturing,"Spectrum Brands Holdings, Inc.",109177
 2025-02-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/101382/000095017025028420/umbf-20241231.htm#:~:text=Supply%20chain%20constraints,Finance,UMB FINANCIAL CORP,101382
-2024-06-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1368622/000155837024009515/avav-20240430x10k.htm#:~:text=Supply%20chain%20constraints,Manufacturing,AeroVironment Inc,1368622
 2025-02-12,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1590717/000162828025005118/ctre-20241231.htm#:~:text=Supply%20chain%20constraints,Real Estate & Construction,"CareTrust REIT, Inc.",1590717
 2025-03-07,constraints_domestic,https://www.sec.gov/Archives/edgar/data/2028686/000202868625000012/slic-20241231.htm#:~:text=Supply%20chain%20constraints,,SL Investment Fund II LLC,2028686
 2025-03-03,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1964789/000155837025001996/hut-20241231x10k.htm#:~:text=Supply%20chain%20constraints,Crypto Assets,Hut 8 Corp.,1964789
@@ -549,7 +547,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-27,constraints_intl,https://www.sec.gov/Archives/edgar/data/1041934/000155837025003828/edap-20241231x20f.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,EDAP TMS SA,1041934
 2025-03-26,constraints_intl,https://www.sec.gov/Archives/edgar/data/1708441/000162828025014832/mynd-20241231.htm#:~:text=Supply%20chain%20constraints,Technology,"Mynd.ai, Inc.",1708441
 2025-01-30,constraints_intl,https://www.sec.gov/Archives/edgar/data/1967822/000121390025008172/ea0227461-20f_creative.htm#:~:text=Supply%20chain%20constraints,Trade & Services,Creative Global Technology Holdings Ltd,1967822
-2024-06-27,constraints_intl,https://www.sec.gov/Archives/edgar/data/1022837/000119312524169683/d799693d20f.htm#:~:text=Supply%20chain%20constraints,Finance,"SUMITOMO MITSUI FINANCIAL GROUP, INC.",1022837
 2025-03-20,constraints_intl,https://www.sec.gov/Archives/edgar/data/1140625/000114062525000062/exhibit154equinor2024ann.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,EQUINOR ASA,1140625
 2025-03-27,constraints_intl,https://www.sec.gov/Archives/edgar/data/897322/000117891325001071/zk2532800.htm#:~:text=Supply%20chain%20constraints,Manufacturing,GILAT SATELLITE NETWORKS LTD,897322
 2025-03-12,constraints_intl,https://www.sec.gov/Archives/edgar/data/1835654/000117891325000817/zk2532805.htm#:~:text=Supply%20chain%20constraints,Manufacturing,Innoviz Technologies Ltd.,1835654
