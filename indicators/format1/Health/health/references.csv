@@ -10,7 +10,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-27,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1559053/000155905325000009/prta-20241231.htm#:~:text=Alzheimer,Life Sciences,PROTHENA CORP PUBLIC LTD CO,1559053
 2025-03-28,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1720893/000155837025003985/btai-20241231x10k.htm#:~:text=Alzheimer,Life Sciences,"BioXcel Therapeutics, Inc.",1720893
 2025-03-28,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1514183/000101376225004139/ea0234891-10k_silopharma.htm#:~:text=Alzheimer,Life Sciences,"Silo Pharma, Inc.",1514183
-2025-03-27,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1571934/000141057825000518/snpx-20241231x10k.htm#:~:text=Alzheimer,Life Sciences,"Synaptogenix, Inc.",1571934
+2025-03-27,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1571934/000141057825000518/snpx-20241231x10k.htm#:~:text=Alzheimer,Life Sciences,TAO Synergies Inc.,1571934
 2025-01-28,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/793171/000149315225003942/form10-k.htm#:~:text=Alzheimer,Life Sciences,"Vitro Biopharma, Inc.",793171
 2025-02-28,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1721484/000095017025029968/lgvn-20241231.htm#:~:text=Alzheimer,Life Sciences,Longeveron Inc.,1721484
 2025-02-26,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1521036/000162828025007970/lnth-20241231.htm#:~:text=Alzheimer,Life Sciences,"Lantheus Holdings, Inc.",1521036
@@ -379,7 +379,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-27,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1711754/000101376225003354/ea0229965-10k_inmune.htm#:~:text=PTSD,Life Sciences,"Inmune Bio, Inc.",1711754
 2024-11-06,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/804328/000080432824000075/qcom-20240929.htm#:~:text=PTSD,Manufacturing,QUALCOMM INC/DE,804328
 2025-03-06,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1909747/000162828025010947/jush-20241231.htm#:~:text=PTSD,Life Sciences,Jushi Holdings Inc.,1909747
-2025-03-27,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1571934/000141057825000518/snpx-20241231x10k.htm#:~:text=PTSD,Life Sciences,"Synaptogenix, Inc.",1571934
+2025-03-27,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1571934/000141057825000518/snpx-20241231x10k.htm#:~:text=PTSD,Life Sciences,TAO Synergies Inc.,1571934
 2025-02-21,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1677576/000155837025001322/iipr-20241231x10k.htm#:~:text=PTSD,Real Estate & Construction,INNOVATIVE INDUSTRIAL PROPERTIES INC,1677576
 2025-02-21,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1070985/000095017025024745/cxw-20241231.htm#:~:text=PTSD,Real Estate & Construction,"CoreCivic, Inc.",1070985
 2024-07-30,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1731348/000143774924023774/tlry20240531c_10k.htm#:~:text=PTSD,Life Sciences,"Tilray Brands, Inc.",1731348
