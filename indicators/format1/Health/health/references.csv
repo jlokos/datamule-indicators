@@ -369,7 +369,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-09-16,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1411057/000168316824006402/cannabisbio_i10k-053124.htm#:~:text=PTSD,Industrial Applications and Services,"Cannabis Bioscience International Holdings, Inc.",1411057
 2025-03-28,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/890821/000164117225001296/form10-k.htm#:~:text=PTSD,Life Sciences,"Enveric Biosciences, Inc.",890821
 2025-03-03,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1708331/000173112225000316/e6385_10k.htm#:~:text=PTSD,Life Sciences,"Virpax Pharmaceuticals, Inc.",1708331
-2024-07-01,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1572565/000149315224025827/form10-k.htm#:~:text=PTSD,Technology,Indoor Harvest Corp,1572565
 2025-03-12,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1560258/000121390025023259/ecor-20241231.htm#:~:text=PTSD,Industrial Applications and Services,"electroCore, Inc.",1560258
 2025-03-28,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1720893/000155837025003985/btai-20241231x10k.htm#:~:text=PTSD,Life Sciences,"BioXcel Therapeutics, Inc.",1720893
 2025-02-27,ptsd_domestic,https://www.sec.gov/Archives/edgar/data/1754195/000162828025008421/tcnnf-20241231.htm#:~:text=PTSD,Life Sciences,Trulieve Cannabis Corp.,1754195
@@ -547,7 +546,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-07-23,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/16160/000156276224000175/exhibit991.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Industrial Applications and Services,CAL-MAINE FOODS INC,16160
 2024-10-01,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/16160/000156276224000228/exhibit991.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Industrial Applications and Services,CAL-MAINE FOODS INC,16160
 2025-03-26,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1213809/000143774925009351/ex_727220.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,DYADIC INTERNATIONAL INC,1213809
-2024-07-01,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/16160/000156276224000171/exhibit991.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Industrial Applications and Services,CAL-MAINE FOODS INC,16160
 2024-09-09,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/16160/000156276224000220/exhibit991.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Industrial Applications and Services,CAL-MAINE FOODS INC,16160
 2024-09-17,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1130598/000110465924100709/tm2424247d1_ex99-1.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Life Sciences,"Traws Pharma, Inc.",1130598
 2024-08-12,h5n1-avian_domestic,https://www.sec.gov/Archives/edgar/data/1360565/000149315224031189/ex99-2.htm#:~:text=H5N1&text=avian%20influenza&text=avian%20flu,Technology,"Where Food Comes From, Inc.",1360565
@@ -628,7 +626,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-12-04,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000117184324006720/exh_991.htm#:~:text=zika,Life Sciences,Valneva SE,1836564
 2024-10-21,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000117184324005718/exh_991.htm#:~:text=zika,Life Sciences,Valneva SE,1836564
 2024-11-26,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000117184324006606/exh_991.htm#:~:text=zika,Life Sciences,Valneva SE,1836564
-2024-07-01,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000117184324003722/exh_991.htm#:~:text=zika,Life Sciences,Valneva SE,1836564
 2024-08-01,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000117184324004340/exh_991.htm#:~:text=zika,Life Sciences,Valneva SE,1836564
 2024-09-18,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000117184324005246/exh_991.htm#:~:text=zika,Life Sciences,Valneva SE,1836564
 2024-12-03,zika_international,https://www.sec.gov/Archives/edgar/data/1836564/000117184324006682/exh_991.htm#:~:text=zika,Life Sciences,Valneva SE,1836564

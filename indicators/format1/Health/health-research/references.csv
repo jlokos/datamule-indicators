@@ -202,7 +202,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1819133/000095017025028353/tngx-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Tango Therapeutics, Inc.",1819133
 2025-03-24,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1374690/000095017025043925/lrmr-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Larimar Therapeutics, Inc.",1374690
 2025-02-11,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1674416/000095017025017899/crsp-20241231.htm#:~:text=orphan%20drug,Life Sciences,CRISPR Therapeutics AG,1674416
-2025-02-13,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1253689/000155837025000948/glyc-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,GLYCOMIMETICS INC,1253689
+2025-02-13,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1253689/000155837025000948/glyc-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"CRESCENT BIOPHARMA, INC.",1253689
 2025-03-24,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1662774/000166277425000012/qncx-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Quince Therapeutics, Inc.",1662774
 2025-03-10,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/876343/000095017025036309/lctx-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Lineage Cell Therapeutics, Inc.",876343
 2025-03-07,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1754068/000095017025035143/alvr-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Kalaris Therapeutics, Inc.",1754068
@@ -323,7 +323,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-26,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1082554/000108255425000005/uthr-20241231.htm#:~:text=orphan%20drug,Life Sciences,UNITED THERAPEUTICS Corp,1082554
 2025-03-17,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1006281/000155837025003039/plx-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"Protalix BioTherapeutics, Inc.",1006281
 2024-07-30,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1752828/000095017024087886/celu-20231231.htm#:~:text=orphan%20drug,Life Sciences,Celularity Inc,1752828
-2024-07-01,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1622057/000147793224004020/nbio_10k.htm#:~:text=orphan%20drug,Life Sciences,Nascent Biotech Inc.,1622057
 2025-03-14,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1824293/000182429325000050/ck0001824293-20241231.htm#:~:text=orphan%20drug,Life Sciences,"GRI Bio, Inc.",1824293
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1293971/000129397125000009/blue-20241231.htm#:~:text=orphan%20drug,Life Sciences,"bluebird bio, Inc.",1293971
 2025-02-11,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1655759/000165575925000016/arvn-20241231.htm#:~:text=orphan%20drug,Life Sciences,"ARVINAS, INC.",1655759
@@ -890,7 +889,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-03,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1108134/000110813425000003/bhlb-20241231.htm#:~:text=healthcare%20blockchain,Finance,BERKSHIRE HILLS BANCORP INC,1108134
 2025-02-28,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1424929/000142492925000007/foxf-20250103.htm#:~:text=healthcare%20blockchain,Manufacturing,FOX FACTORY HOLDING CORP,1424929
 2025-02-28,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1622536/000162828025008786/tln-20241231.htm#:~:text=healthcare%20blockchain,Energy & Transportation,Talen Energy Corp,1622536
-2024-07-01,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1171838/000149315224025765/form10-k.htm#:~:text=healthcare%20blockchain,Finance,"Sundance Strategies, Inc.",1171838
 2024-12-26,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1998781/000149315224051972/form10-k.htm#:~:text=healthcare%20blockchain,Real Estate & Construction,IB Acquisition Corp.,1998781
 2024-09-27,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1948455/000121390024082378/ea0213350-10k_ispire.htm#:~:text=healthcare%20blockchain,Manufacturing,Ispire Technology Inc.,1948455
 2025-03-21,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1884046/000141057825000411/spkl-20241231x10k.htm#:~:text=healthcare%20blockchain,Real Estate & Construction,Spark I Acquisition Corp,1884046
