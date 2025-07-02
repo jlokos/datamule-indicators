@@ -430,7 +430,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-11,domestic,https://www.sec.gov/Archives/edgar/data/1506492/000114036125008124/ef20039019_10k.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"Nuwellis, Inc.",1506492
 2025-03-25,domestic,https://www.sec.gov/Archives/edgar/data/1873835/000164117225000387/form10-k.htm#:~:text=consumer%20confidence,Life Sciences,"Immix Biopharma, Inc.",1873835
 2024-11-20,domestic,https://www.sec.gov/Archives/edgar/data/829224/000082922424000057/sbux-20240929.htm#:~:text=consumer%20confidence,Trade & Services,STARBUCKS CORP,829224
-2024-07-02,domestic,https://www.sec.gov/Archives/edgar/data/1990446/000168316824004606/transaqua_i10k-123123.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"Trans American Aquaculture, Inc",1990446
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1360565/000149315225007682/form10-k.htm#:~:text=consumer%20confidence,Technology,"Where Food Comes From, Inc.",1360565
 2024-09-11,domestic,https://www.sec.gov/Archives/edgar/data/763532/000143774924028964/lyts20240630_10k.htm#:~:text=consumer%20confidence,Manufacturing,LSI INDUSTRIES INC,763532
 2025-03-13,domestic,https://www.sec.gov/Archives/edgar/data/1827087/000095017025038329/vigl-20241231.htm#:~:text=consumer%20confidence,Life Sciences,"Vigil Neuroscience, Inc.",1827087
@@ -1553,7 +1552,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-28,international,https://www.sec.gov/Archives/edgar/data/932470/000110465925019133/teo-20241231x20f.htm#:~:text=consumer%20confidence,Technology,TELECOM ARGENTINA SA,932470
 2024-08-15,international,https://www.sec.gov/Archives/edgar/data/1946399/000121390024069344/ea0210595-20f_lakeshore.htm#:~:text=consumer%20confidence,Life Sciences,"LakeShore Biopharma Co., Ltd.",1946399
 2024-10-31,international,https://www.sec.gov/Archives/edgar/data/1945711/000194571124000044/lvro-20240630.htm#:~:text=consumer%20confidence,Trade & Services,Lavoro Ltd,1945711
-2024-07-02,international,https://www.sec.gov/Archives/edgar/data/1495153/000095017024080082/mmyt-20240331.htm#:~:text=consumer%20confidence,Energy & Transportation,MakeMyTrip Ltd,1495153
 2025-03-14,international,https://www.sec.gov/Archives/edgar/data/1855612/000185561225000013/ck0001855612-20241231.htm#:~:text=consumer%20confidence,Trade & Services,Grab Holdings Ltd,1855612
 2025-03-20,international,https://www.sec.gov/Archives/edgar/data/1857190/000141057825000398/nyxh-20241231x20f.htm#:~:text=consumer%20confidence,Industrial Applications and Services,Nyxoah SA,1857190
 2025-02-14,international,https://www.sec.gov/Archives/edgar/data/1303523/000130352325000021/bti-20241231.htm#:~:text=consumer%20confidence,Manufacturing,British American Tobacco p.l.c.,1303523

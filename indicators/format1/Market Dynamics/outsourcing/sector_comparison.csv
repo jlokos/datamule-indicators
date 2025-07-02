@@ -7,8 +7,8 @@ Finance,0,97,domestic
 Finance,1,104,domestic
 Industrial Applications and Services,0,110,domestic
 Industrial Applications and Services,1,128,domestic
-Life Sciences,0,221,domestic
-Life Sciences,1,273,domestic
+Life Sciences,0,220,domestic
+Life Sciences,1,274,domestic
 Manufacturing,0,126,domestic
 Manufacturing,1,140,domestic
 Real Estate & Construction,0,78,domestic
@@ -18,8 +18,8 @@ Technology,1,187,domestic
 Trade & Services,0,118,domestic
 Trade & Services,1,143,domestic
 Crypto Assets,1,9,international
-Energy & Transportation,0,10,international
-Energy & Transportation,1,15,international
+Energy & Transportation,0,9,international
+Energy & Transportation,1,16,international
 Finance,0,1,international
 Finance,1,7,international
 Industrial Applications and Services,0,8,international
