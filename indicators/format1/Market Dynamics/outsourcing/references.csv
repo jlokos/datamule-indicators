@@ -81,7 +81,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1656472/000165647225000014/cron-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Life Sciences,Cronos Group Inc.,1656472
 2025-02-21,domestic,https://www.sec.gov/Archives/edgar/data/30697/000003069725000003/wen-20241229.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Trade & Services,Wendy's Co,30697
 2025-03-17,domestic,https://www.sec.gov/Archives/edgar/data/1712463/000162828025012927/pack-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Manufacturing,Ranpak Holdings Corp.,1712463
-2024-07-02,domestic,https://www.sec.gov/Archives/edgar/data/704562/000168316824004610/avid_i10k-043024.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Life Sciences,"Avid Bioservices, Inc.",704562
 2025-02-19,domestic,https://www.sec.gov/Archives/edgar/data/1441683/000144168325000017/appn-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Technology,APPIAN CORP,1441683
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/1534675/000149315225008697/form10-k.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Manufacturing,Tecnoglass Inc.,1534675
 2025-02-21,domestic,https://www.sec.gov/Archives/edgar/data/1288847/000128884725000028/fivn-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Technology,"Five9, Inc.",1288847
@@ -1104,7 +1103,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-10-29,international,https://www.sec.gov/Archives/edgar/data/1815021/000121390024091726/ea0217975-20f_boqii.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Trade & Services,Boqii Holding Ltd,1815021
 2024-08-29,international,https://www.sec.gov/Archives/edgar/data/1345099/000134509924000063/meso-20240630.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Life Sciences,MESOBLAST LTD,1345099
 2025-03-14,international,https://www.sec.gov/Archives/edgar/data/1627281/000095017025039038/clls-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Life Sciences,Cellectis S.A.,1627281
-2024-07-02,international,https://www.sec.gov/Archives/edgar/data/1495153/000095017024080082/mmyt-20240331.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Energy & Transportation,MakeMyTrip Ltd,1495153
 2025-03-25,international,https://www.sec.gov/Archives/edgar/data/1723690/000119312525061847/d930276d20f.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Technology,Bilibili Inc.,1723690
 2025-03-27,international,https://www.sec.gov/Archives/edgar/data/1722608/000095017025045691/iq-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Trade & Services,"iQIYI, Inc.",1722608
 2025-03-24,international,https://www.sec.gov/Archives/edgar/data/1956827/000195682725000010/abvx-20241231.htm#:~:text=we%20rely%20on%20third-party&text=we%20engage%20third-party,Life Sciences,Abivax S.A.,1956827
