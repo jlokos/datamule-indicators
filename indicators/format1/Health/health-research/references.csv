@@ -73,7 +73,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-01-13,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/725363/000165495425000288/cvm_10k.htm#:~:text=orphan%20drug,Life Sciences,CEL SCI CORP,725363
 2025-03-04,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1658551/000095017025031309/amlx-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Amylyx Pharmaceuticals, Inc.",1658551
 2025-03-10,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1693011/000095017025035940/inzy-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Inozyme Pharma, Inc.",1693011
-2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1919246/000175392625000503/g084720_10k.htm#:~:text=orphan%20drug,Life Sciences,Channel Therapeutics Corp,1919246
+2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1919246/000175392625000503/g084720_10k.htm#:~:text=orphan%20drug,Life Sciences,Pelthos Therapeutics Inc.,1919246
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1680367/000168036725000012/sttk-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Shattuck Labs, Inc.",1680367
 2025-03-11,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1690585/000095017025037131/dnth-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Dianthus Therapeutics, Inc. /DE/",1690585
 2025-03-31,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1095981/000095017025047698/pstv-20241231.htm#:~:text=orphan%20drug,Industrial Applications and Services,"PLUS THERAPEUTICS, INC.",1095981
@@ -95,7 +95,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-13,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1740279/000095017025038738/inab-20241231.htm#:~:text=orphan%20drug,Life Sciences,"IN8BIO, INC.",1740279
 2024-11-26,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/879407/000162828024049277/arwr-20240930.htm#:~:text=orphan%20drug,Life Sciences,"ARROWHEAD PHARMACEUTICALS, INC.",879407
 2025-02-13,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1597264/000155837025000953/bpmc-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,Blueprint Medicines Corp,1597264
-2024-07-03,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/822370/000095017024080918/emma-20231231.htm#:~:text=orphan%20drug,Life Sciences,"Emmaus Life Sciences, Inc.",822370
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1701108/000095017025046125/spro-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Spero Therapeutics, Inc.",1701108
 2025-02-25,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1730430/000155837025001505/knsa-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"Kiniksa Pharmaceuticals International, plc",1730430
 2025-03-18,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1534525/000168316825001686/xenetic_i10k-123124.htm#:~:text=orphan%20drug,Life Sciences,"Xenetic Biosciences, Inc.",1534525
@@ -804,7 +803,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-05,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1980994/000143774925006260/bit20241231_10k.htm#:~:text=healthcare%20blockchain,Crypto Assets,iShares Bitcoin Trust ETF,1980994
 2025-02-18,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1050446/000095017025021814/mstr-20241231.htm#:~:text=healthcare%20blockchain,Crypto Assets,MICROSTRATEGY Inc,1050446
 2024-08-30,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1144879/000114487924000216/apld-20240531.htm#:~:text=healthcare%20blockchain,Technology,Applied Digital Corp.,1144879
-2024-07-03,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1011060/000149315224026126/form10-k.htm#:~:text=healthcare%20blockchain,Trade & Services,Nordicus Partners Corp,1011060
 2025-03-31,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1838163/000183816325000005/bnai-20241231.htm#:~:text=healthcare%20blockchain,Technology,Brand Engagement Network Inc.,1838163
 2025-03-31,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1682149/000141057825000600/dvlt-20241231x10k.htm#:~:text=healthcare%20blockchain,Manufacturing,Datavault AI Inc.,1682149
 2025-02-12,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1130464/000095017025018647/bkh-20241231.htm#:~:text=healthcare%20blockchain,Energy & Transportation,BLACK HILLS CORP /SD/,1130464

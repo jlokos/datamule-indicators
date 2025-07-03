@@ -13,10 +13,10 @@ Manufacturing,0,377,environmental_domestic
 Manufacturing,1,481,environmental_domestic
 Real Estate & Construction,0,316,environmental_domestic
 Real Estate & Construction,1,370,environmental_domestic
-Technology,0,199,environmental_domestic
-Technology,1,252,environmental_domestic
-Trade & Services,0,260,environmental_domestic
-Trade & Services,1,311,environmental_domestic
+Technology,0,198,environmental_domestic
+Technology,1,253,environmental_domestic
+Trade & Services,0,259,environmental_domestic
+Trade & Services,1,312,environmental_domestic
 Crypto Assets,0,51,social_domestic
 Crypto Assets,1,51,social_domestic
 Energy & Transportation,0,239,social_domestic
@@ -63,8 +63,8 @@ Industrial Applications and Services,0,18,environmental_international
 Industrial Applications and Services,1,21,environmental_international
 Life Sciences,0,18,environmental_international
 Life Sciences,1,34,environmental_international
-Manufacturing,0,50,environmental_international
-Manufacturing,1,110,environmental_international
+Manufacturing,0,49,environmental_international
+Manufacturing,1,111,environmental_international
 Real Estate & Construction,0,8,environmental_international
 Real Estate & Construction,1,16,environmental_international
 Technology,0,33,environmental_international
