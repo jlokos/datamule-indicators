@@ -48,8 +48,8 @@ Manufacturing,1,4,genomic_international
 Technology,0,3,genomic_international
 Technology,1,3,genomic_international
 Trade & Services,0,1,genomic_international
-Crypto Assets,0,20,healthcare-blockchain_domestic
-Crypto Assets,1,17,healthcare-blockchain_domestic
+Crypto Assets,0,21,healthcare-blockchain_domestic
+Crypto Assets,1,18,healthcare-blockchain_domestic
 Energy & Transportation,0,5,healthcare-blockchain_domestic
 Energy & Transportation,1,4,healthcare-blockchain_domestic
 Finance,0,60,healthcare-blockchain_domestic
@@ -61,9 +61,9 @@ Life Sciences,1,11,healthcare-blockchain_domestic
 Manufacturing,0,7,healthcare-blockchain_domestic
 Manufacturing,1,12,healthcare-blockchain_domestic
 Real Estate & Construction,0,11,healthcare-blockchain_domestic
-Real Estate & Construction,1,24,healthcare-blockchain_domestic
-Technology,0,28,healthcare-blockchain_domestic
-Technology,1,34,healthcare-blockchain_domestic
+Real Estate & Construction,1,23,healthcare-blockchain_domestic
+Technology,0,27,healthcare-blockchain_domestic
+Technology,1,33,healthcare-blockchain_domestic
 Trade & Services,0,23,healthcare-blockchain_domestic
 Trade & Services,1,28,healthcare-blockchain_domestic
 Crypto Assets,0,1,healthcare-blockchain_international
