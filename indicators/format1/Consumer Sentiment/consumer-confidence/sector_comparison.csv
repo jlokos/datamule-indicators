@@ -12,7 +12,7 @@ Life Sciences,1,233,domestic
 Manufacturing,0,213,domestic
 Manufacturing,1,308,domestic
 Real Estate & Construction,0,214,domestic
-Real Estate & Construction,1,258,domestic
+Real Estate & Construction,1,257,domestic
 Technology,0,133,domestic
 Technology,1,169,domestic
 Trade & Services,0,249,domestic
@@ -30,7 +30,7 @@ Manufacturing,0,30,international
 Manufacturing,1,74,international
 Real Estate & Construction,0,7,international
 Real Estate & Construction,1,17,international
-Technology,0,27,international
-Technology,1,52,international
+Technology,0,26,international
+Technology,1,53,international
 Trade & Services,0,25,international
 Trade & Services,1,60,international
