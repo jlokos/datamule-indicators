@@ -47,7 +47,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-06,domestic,https://www.sec.gov/Archives/edgar/data/216085/000162828025010869/hvt-20241231.htm#:~:text=consumer%20confidence,Trade & Services,HAVERTY FURNITURE COMPANIES INC,216085
 2024-08-14,domestic,https://www.sec.gov/Archives/edgar/data/1618673/000095017024097033/pfgc-20240629.htm#:~:text=consumer%20confidence,Trade & Services,Performance Food Group Co,1618673
 2024-12-20,domestic,https://www.sec.gov/Archives/edgar/data/1938109/000149315224051101/form10-k.htm#:~:text=consumer%20confidence,Finance,Pineapple Financial Inc.,1938109
-2024-07-11,domestic,https://www.sec.gov/Archives/edgar/data/23217/000155837024009764/tmb-20240526x10k.htm#:~:text=consumer%20confidence,Manufacturing,CONAGRA BRANDS INC.,23217
 2025-02-13,domestic,https://www.sec.gov/Archives/edgar/data/21665/000002166525000008/cl-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,COLGATE PALMOLIVE CO,21665
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/1285550/000095017025027934/clpt-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"ClearPoint Neuro, Inc.",1285550
 2025-03-21,domestic,https://www.sec.gov/Archives/edgar/data/895447/000095017025043195/scvl-20250201.htm#:~:text=consumer%20confidence,Trade & Services,SHOE CARNIVAL INC,895447
@@ -694,7 +693,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-19,domestic,https://www.sec.gov/Archives/edgar/data/1590714/000159071425000022/esi-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,Element Solutions Inc,1590714
 2025-03-12,domestic,https://www.sec.gov/Archives/edgar/data/842517/000084251725000053/isba-20241231.htm#:~:text=consumer%20confidence,Finance,ISABELLA BANK CORP,842517
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/935036/000093503625000006/aciw-20241231.htm#:~:text=consumer%20confidence,Technology,"ACI WORLDWIDE, INC.",935036
-2024-07-11,domestic,https://www.sec.gov/Archives/edgar/data/65270/000095017024082852/mei-20240427.htm#:~:text=consumer%20confidence,Manufacturing,METHODE ELECTRONICS INC,65270
 2024-09-20,domestic,https://www.sec.gov/Archives/edgar/data/1001907/000143774924029650/astc20240630_10k.htm#:~:text=consumer%20confidence,Industrial Applications and Services,ASTROTECH Corp,1001907
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1022652/000102265225000005/insg-20241231.htm#:~:text=consumer%20confidence,Manufacturing,INSEEGO CORP.,1022652
 2024-11-22,domestic,https://www.sec.gov/Archives/edgar/data/63296/000006329624000094/matw-20240930.htm#:~:text=consumer%20confidence,Manufacturing,MATTHEWS INTERNATIONAL CORP,63296
@@ -1450,7 +1448,7 @@ filing_date,component,url,ownerOrg,name,cik
 2024-07-16,international,https://www.sec.gov/Archives/edgar/data/1809691/000121390024061838/ea0208995-20f_amtd.htm#:~:text=consumer%20confidence,Finance,AMTD Digital Inc.,1809691
 2025-03-25,international,https://www.sec.gov/Archives/edgar/data/1338940/000117891325001021/zk2532820.htm#:~:text=consumer%20confidence,Technology,Perion Network Ltd.,1338940
 2025-03-20,international,https://www.sec.gov/Archives/edgar/data/1887673/000121390025025602/ea0234654-20f_wearable.htm#:~:text=consumer%20confidence,Technology,Wearable Devices Ltd.,1887673
-2025-02-25,international,https://www.sec.gov/Archives/edgar/data/1619762/000161976225000007/igt-20241231.htm#:~:text=consumer%20confidence,Trade & Services,International Game Technology PLC,1619762
+2025-02-25,international,https://www.sec.gov/Archives/edgar/data/1619762/000161976225000007/igt-20241231.htm#:~:text=consumer%20confidence,Trade & Services,Brightstar Lottery PLC,1619762
 2025-03-20,international,https://www.sec.gov/Archives/edgar/data/1900304/000155837025003368/hln-20241231x20f.htm#:~:text=consumer%20confidence,Industrial Applications and Services,Haleon plc,1900304
 2024-07-19,international,https://www.sec.gov/Archives/edgar/data/1743971/000095017024084745/mogu-20240331.htm#:~:text=consumer%20confidence,Trade & Services,MOGU Inc.,1743971
 2025-03-21,international,https://www.sec.gov/Archives/edgar/data/1545772/000154577225000008/bpy-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,Brookfield Property Partners L.P.,1545772

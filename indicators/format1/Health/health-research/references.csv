@@ -47,7 +47,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1798749/000155837025003750/avte-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,"Jade Biosciences, Inc.",1798749
 2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/749647/000149315225008460/form10-k.htm#:~:text=orphan%20drug,Life Sciences,"Imunon, Inc.",749647
 2025-03-04,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1034842/000155837025002169/rigl-20241231x10k.htm#:~:text=orphan%20drug,Life Sciences,RIGEL PHARMACEUTICALS INC,1034842
-2024-07-11,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1348911/000095017024082965/kalv-20240430.htm#:~:text=orphan%20drug,Life Sciences,"KalVista Pharmaceuticals, Inc.",1348911
 2025-03-12,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1564824/000095017025037933/allk-20241231.htm#:~:text=orphan%20drug,Life Sciences,Allakos Inc.,1564824
 2025-03-05,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1359931/000121390025020368/ea0231646-10k_protara.htm#:~:text=orphan%20drug,Life Sciences,"Protara Therapeutics, Inc.",1359931
 2025-02-27,orphan-drug_domestic,https://www.sec.gov/Archives/edgar/data/1818794/000095017025028356/dyn-20241231.htm#:~:text=orphan%20drug,Life Sciences,"Dyne Therapeutics, Inc.",1818794
@@ -816,7 +815,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-31,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/2014982/000121390025026255/ea0235387-10k_simacq1.htm#:~:text=healthcare%20blockchain,Real Estate & Construction,SIM Acquisition Corp. I,2014982
 2025-03-25,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1695473/000164117225000512/form10-k.htm#:~:text=healthcare%20blockchain,Life Sciences,"Greater Cannabis Company, Inc.",1695473
 2025-02-28,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1095565/000143774925005705/hstm20241231_10k.htm#:~:text=healthcare%20blockchain,Technology,HEALTHSTREAM INC,1095565
-2024-07-11,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1811999/000109690624001512/fmhs-20231231.htm#:~:text=healthcare%20blockchain,Technology,"FARMHOUSE, INC. /NV",1811999
 2025-03-31,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1839285/000121390025026218/ea0233582-10k_healthcare.htm#:~:text=healthcare%20blockchain,Technology,"Healthcare Triangle, Inc.",1839285
 2024-10-15,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/704172/000149315224041102/form10-k.htm#:~:text=healthcare%20blockchain,Trade & Services,PHI GROUP INC,704172
 2025-02-25,healthcare-blockchain_domestic,https://www.sec.gov/Archives/edgar/data/1130713/000113071325000024/byon-20241231.htm#:~:text=healthcare%20blockchain,Trade & Services,"BEYOND, INC.",1130713

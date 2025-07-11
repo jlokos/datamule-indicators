@@ -251,7 +251,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-26,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1639438/000162828025007882/cava-20241229.htm#:~:text=Supply%20chain%20constraints,Trade & Services,"CAVA GROUP, INC.",1639438
 2024-12-06,constraints_domestic,https://www.sec.gov/Archives/edgar/data/711404/000071140424000074/coo-20241031.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,"COOPER COMPANIES, INC.",711404
 2025-02-13,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1968915/000196891525000006/phin-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,PHINIA INC.,1968915
-2024-07-11,constraints_domestic,https://www.sec.gov/Archives/edgar/data/23217/000155837024009764/tmb-20240526x10k.htm#:~:text=Supply%20chain%20constraints,Manufacturing,CONAGRA BRANDS INC.,23217
 2025-03-13,constraints_domestic,https://www.sec.gov/Archives/edgar/data/874396/000162828025012650/lcut-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,"LIFETIME BRANDS, INC",874396
 2025-02-26,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1511337/000151133725000007/rlj-20241231.htm#:~:text=Supply%20chain%20constraints,Real Estate & Construction,RLJ Lodging Trust,1511337
 2025-03-28,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1589061/000143774925009691/gyrllc20241231_10k.htm#:~:text=Supply%20chain%20constraints,Real Estate & Construction,"Gyrodyne, LLC",1589061
@@ -529,7 +528,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-18,constraints_domestic,https://www.sec.gov/Archives/edgar/data/7323/000006598425000012/etr-20241231.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,"ENTERGY ARKANSAS, LLC",7323
 2025-02-18,constraints_domestic,https://www.sec.gov/Archives/edgar/data/71508/000006598425000012/etr-20241231.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,"ENTERGY NEW ORLEANS, LLC",71508
 2025-03-05,constraints_intl,https://www.sec.gov/Archives/edgar/data/1849396/000117891325000697/zk2532770.htm#:~:text=Supply%20chain%20constraints,Technology,Nexxen International Ltd.,1849396
-2025-02-25,constraints_intl,https://www.sec.gov/Archives/edgar/data/1619762/000161976225000007/igt-20241231.htm#:~:text=Supply%20chain%20constraints,Trade & Services,International Game Technology PLC,1619762
+2025-02-25,constraints_intl,https://www.sec.gov/Archives/edgar/data/1619762/000161976225000007/igt-20241231.htm#:~:text=Supply%20chain%20constraints,Trade & Services,Brightstar Lottery PLC,1619762
 2025-03-11,constraints_intl,https://www.sec.gov/Archives/edgar/data/1801198/000180119825000012/legn-20241231.htm#:~:text=Supply%20chain%20constraints,Life Sciences,Legend Biotech Corp,1801198
 2025-03-13,constraints_intl,https://www.sec.gov/Archives/edgar/data/1843586/000095017025038739/otly-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,Oatly Group AB,1843586
 2025-03-27,constraints_intl,https://www.sec.gov/Archives/edgar/data/1564180/000155837025003754/knop-20241231x20f.htm#:~:text=Supply%20chain%20constraints,Energy & Transportation,KNOT Offshore Partners LP,1564180
