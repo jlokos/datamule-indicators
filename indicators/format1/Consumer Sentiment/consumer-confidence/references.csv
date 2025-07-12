@@ -85,7 +85,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-12-10,domestic,https://www.sec.gov/Archives/edgar/data/1772921/000177292124000101/onew-20240930.htm#:~:text=consumer%20confidence,Trade & Services,OneWater Marine Inc.,1772921
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1494259/000095017025024181/carg-20241231.htm#:~:text=consumer%20confidence,Technology,"CarGurus, Inc.",1494259
 2025-02-25,domestic,https://www.sec.gov/Archives/edgar/data/1616000/000161600025000022/xhr-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"Xenia Hotels & Resorts, Inc.",1616000
-2024-07-12,domestic,https://www.sec.gov/Archives/edgar/data/723603/000095017024083115/culp-20240428.htm#:~:text=consumer%20confidence,Manufacturing,CULP INC,723603
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/1706946/000170694625000038/spce-20241231.htm#:~:text=consumer%20confidence,Energy & Transportation,"Virgin Galactic Holdings, Inc",1706946
 2025-02-25,domestic,https://www.sec.gov/Archives/edgar/data/1029199/000121390025017068/eeft-20241231.htm#:~:text=consumer%20confidence,Finance,"EURONET WORLDWIDE, INC.",1029199
 2025-03-06,domestic,https://www.sec.gov/Archives/edgar/data/913277/000155837025002405/clar-20241231x10k.htm#:~:text=consumer%20confidence,Manufacturing,Clarus Corp,913277
@@ -1376,7 +1375,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-11-26,domestic,https://www.sec.gov/Archives/edgar/data/720005/000072000524000069/rjf-20240930.htm#:~:text=consumer%20confidence,Finance,RAYMOND JAMES FINANCIAL INC,720005
 2025-02-14,domestic,https://www.sec.gov/Archives/edgar/data/895728/000089572825000006/enb-20241231.htm#:~:text=consumer%20confidence,Energy & Transportation,ENBRIDGE INC,895728
 2025-03-21,domestic,https://www.sec.gov/Archives/edgar/data/1232582/000123258225000055/aht-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,ASHFORD HOSPITALITY TRUST INC,1232582
-2024-07-12,domestic,https://www.sec.gov/Archives/edgar/data/1854275/000121390024060948/ea0209041-10k_zoomcar.htm#:~:text=consumer%20confidence,Trade & Services,"Zoomcar Holdings, Inc.",1854275
 2025-02-06,domestic,https://www.sec.gov/Archives/edgar/data/37996/000003799625000013/f-20241231.htm#:~:text=consumer%20confidence,Manufacturing,FORD MOTOR CO,37996
 2025-03-13,domestic,https://www.sec.gov/Archives/edgar/data/1652935/000168316825001581/actuate_i10k-123124.htm#:~:text=consumer%20confidence,Life Sciences,"ACTUATE THERAPEUTICS, INC.",1652935
 2025-03-14,domestic,https://www.sec.gov/Archives/edgar/data/1710350/000101376225000307/ea0233723-10k_bitdigit.htm#:~:text=consumer%20confidence,Crypto Assets,"Bit Digital, Inc",1710350
