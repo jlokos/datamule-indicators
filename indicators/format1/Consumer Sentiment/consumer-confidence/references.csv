@@ -193,7 +193,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-10,domestic,https://www.sec.gov/Archives/edgar/data/1762239/000173112225000185/e6298_10k.htm#:~:text=consumer%20confidence,Trade & Services,"Kaival Brands Innovations Group, Inc.",1762239
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/1482981/000148298125000032/coco-20241231.htm#:~:text=consumer%20confidence,Manufacturing,"Vita Coco Company, Inc.",1482981
 2024-08-27,domestic,https://www.sec.gov/Archives/edgar/data/910406/000095017024100992/hain-20240630.htm#:~:text=consumer%20confidence,Manufacturing,HAIN CELESTIAL GROUP INC,910406
-2024-07-15,domestic,https://www.sec.gov/Archives/edgar/data/1608092/000168316824004856/kisses_i10k-123123.htm#:~:text=consumer%20confidence,Trade & Services,Kisses From Italy Inc.,1608092
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/1705110/000170511025000018/angi-20241231.htm#:~:text=consumer%20confidence,Trade & Services,Angi Inc.,1705110
 2025-03-20,domestic,https://www.sec.gov/Archives/edgar/data/1855509/000173112225000412/e6435_10k.htm#:~:text=consumer%20confidence,Manufacturing,"Twin Vee PowerCats, Co.",1855509
 2025-03-26,domestic,https://www.sec.gov/Archives/edgar/data/65770/000164117225000783/form10-k.htm#:~:text=consumer%20confidence,Manufacturing,"MICROVISION, INC.",65770
@@ -732,7 +731,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1573516/000157351625000010/musa-20241231.htm#:~:text=consumer%20confidence,Trade & Services,Murphy USA Inc.,1573516
 2025-03-20,domestic,https://www.sec.gov/Archives/edgar/data/1137547/000113754725000039/ubfo-20241231.htm#:~:text=consumer%20confidence,Finance,UNITED SECURITY BANCSHARES,1137547
 2025-03-11,domestic,https://www.sec.gov/Archives/edgar/data/891482/000089148225000009/fll-20241231x10k.htm#:~:text=consumer%20confidence,Real Estate & Construction,FULL HOUSE RESORTS INC,891482
-2024-07-15,domestic,https://www.sec.gov/Archives/edgar/data/1883788/000095017024083628/dhai-20240331.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"DIH HOLDING US, INC.",1883788
 2024-08-28,domestic,https://www.sec.gov/Archives/edgar/data/1287032/000128703224000280/psec-20240630.htm#:~:text=consumer%20confidence,,PROSPECT CAPITAL CORP,1287032
 2025-03-06,domestic,https://www.sec.gov/Archives/edgar/data/1901037/000155837025002420/tmb-20241231x10k.htm#:~:text=consumer%20confidence,,Stellus Private Credit BDC,1901037
 2025-03-24,domestic,https://www.sec.gov/Archives/edgar/data/1907108/000095017025043486/lxeo-20241231.htm#:~:text=consumer%20confidence,Life Sciences,"Lexeo Therapeutics, Inc.",1907108
@@ -1102,7 +1100,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-24,domestic,https://www.sec.gov/Archives/edgar/data/1858681/000185868125000034/apo-20241231.htm#:~:text=consumer%20confidence,Finance,"Apollo Global Management, Inc.",1858681
 2025-03-12,domestic,https://www.sec.gov/Archives/edgar/data/2011498/000095017025038042/ck0002011498-20241231.htm#:~:text=consumer%20confidence,,AGL Private Credit Income Fund,2011498
 2025-03-27,domestic,https://www.sec.gov/Archives/edgar/data/1863127/000095017025046124/tyra-20241231.htm#:~:text=consumer%20confidence,Life Sciences,"Tyra Biosciences, Inc.",1863127
-2024-07-15,domestic,https://www.sec.gov/Archives/edgar/data/1048911/000095017024083577/fdx-20240531.htm#:~:text=consumer%20confidence,Energy & Transportation,FEDEX CORP,1048911
 2025-03-13,domestic,https://www.sec.gov/Archives/edgar/data/1939433/000193943325000041/cnsreit-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"Cohen & Steers Income Opportunities REIT, Inc.",1939433
 2025-03-21,domestic,https://www.sec.gov/Archives/edgar/data/1882850/000095017025043328/ck0001882850-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"Apollo Realty Income Solutions, Inc.",1882850
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1527753/000095017025029221/psnl-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"Personalis, Inc.",1527753
