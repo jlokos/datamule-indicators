@@ -100,7 +100,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-09-10,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1834376/000183437624000074/innv-20240630.htm#:~:text=Alzheimer,Industrial Applications and Services,InnovAge Holding Corp.,1834376
 2025-02-27,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1200375/000120037525000003/cdxs-20241231.htm#:~:text=Alzheimer,Industrial Applications and Services,"CODEXIS, INC.",1200375
 2025-02-27,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/896262/000089626225000018/amed-20241231.htm#:~:text=Alzheimer,Industrial Applications and Services,AMEDISYS INC,896262
-2024-07-16,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1437491/000121465924012432/roi62124010k.htm#:~:text=Alzheimer,Technology,"RiskOn International, Inc.",1437491
 2025-03-26,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1290476/000155837025003706/vbfc-20241231x10k.htm#:~:text=Alzheimer,Finance,Village Bank & Trust Financial Corp.,1290476
 2025-03-27,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/946644/000164117225000847/form10-k.htm#:~:text=Alzheimer,Life Sciences,AIM ImmunoTech Inc.,946644
 2025-02-21,alzheimer_domestic,https://www.sec.gov/Archives/edgar/data/1677576/000155837025001322/iipr-20241231x10k.htm#:~:text=Alzheimer,Real Estate & Construction,INNOVATIVE INDUSTRIAL PROPERTIES INC,1677576
@@ -208,13 +207,11 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-27,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1661181/000095017025029137/orgo-20241231.htm#:~:text=Obesity,Life Sciences,Organogenesis Holdings Inc.,1661181
 2025-03-13,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1735438/000155837025002867/mgtx-20241231x10k.htm#:~:text=Obesity,Life Sciences,MeiraGTx Holdings plc,1735438
 2024-12-16,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1540013/000155837024016299/qipt-20240930x10k.htm#:~:text=Obesity,Industrial Applications and Services,Quipt Home Medical Corp.,1540013
-2024-07-16,obesity_domestic,https://www.sec.gov/Archives/edgar/data/867028/000147237524000065/ixform10k.htm#:~:text=Obesity,Real Estate & Construction,"FOMO WORLDWIDE, INC.",867028
 2025-02-21,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1145197/000114519725000007/podd-20241231.htm#:~:text=Obesity,Industrial Applications and Services,INSULET CORP,1145197
 2024-09-30,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1580149/000152013824000324/bivi-20240630_10k.htm#:~:text=Obesity,Life Sciences,BIOVIE INC.,1580149
 2025-02-28,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1158895/000143774925005637/lmat20241231_10k.htm#:~:text=Obesity,Industrial Applications and Services,LEMAITRE VASCULAR INC,1158895
 2025-03-03,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1341766/000134176625000024/celh-20241231.htm#:~:text=Obesity,Manufacturing,"Celsius Holdings, Inc.",1341766
 2025-03-06,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1195734/000119573425000029/pbpb-20241229.htm#:~:text=Obesity,Trade & Services,POTBELLY CORP,1195734
-2024-07-16,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1464865/000147793224004240/accredited_10k.htm#:~:text=Obesity,Manufacturing,"Accredited Solutions, Inc.",1464865
 2024-10-29,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1702744/000170274424000089/atk-20240831.htm#:~:text=Obesity,Manufacturing,Simply Good Foods Co,1702744
 2025-02-13,obesity_domestic,https://www.sec.gov/Archives/edgar/data/937098/000093709825000016/tnet-20241231.htm#:~:text=Obesity,Trade & Services,"TRINET GROUP, INC.",937098
 2025-03-11,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1708527/000155837025002719/elut-20241231x10k.htm#:~:text=Obesity,Life Sciences,ELUTIA INC.,1708527
@@ -503,7 +500,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-12-23,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937124015671/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2024-10-22,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1367083/000168316824007283/sonoma_ex9901.htm#:~:text=mpox&text=monkeypox,Industrial Applications and Services,"Sonoma Pharmaceuticals, Inc.",1367083
 2024-08-14,mpox_domestic,https://www.sec.gov/Archives/edgar/data/882291/000168316824005697/aethlon_ex9901.htm#:~:text=mpox&text=monkeypox,Industrial Applications and Services,AETHLON MEDICAL INC,882291
-2024-07-16,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000183988224021878/ex99-01.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2024-08-06,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1367644/000136764424000142/ebs2024-06x30deckfinal.htm#:~:text=mpox&text=monkeypox,Life Sciences,Emergent BioSolutions Inc.,1367644
 2024-12-20,mpox_domestic,https://www.sec.gov/Archives/edgar/data/743238/000095010324018087/dp222354_ex0201.htm#:~:text=mpox&text=monkeypox,Technology,"SHYFT GROUP, INC.",743238
 2024-08-23,mpox_domestic,https://www.sec.gov/Archives/edgar/data/91767/000110465924092158/tm2422481d1_ex2-1.htm#:~:text=mpox&text=monkeypox,Manufacturing,SONOCO PRODUCTS CO,91767

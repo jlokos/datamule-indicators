@@ -156,7 +156,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-14,domestic,https://www.sec.gov/Archives/edgar/data/1830188/000183018825000012/uhg-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,"United Homes Group, Inc.",1830188
 2025-03-03,domestic,https://www.sec.gov/Archives/edgar/data/1341766/000134176625000024/celh-20241231.htm#:~:text=consumer%20confidence,Manufacturing,"Celsius Holdings, Inc.",1341766
 2025-03-25,domestic,https://www.sec.gov/Archives/edgar/data/1326380/000162828025014731/gme-20250201.htm#:~:text=consumer%20confidence,Trade & Services,GameStop Corp.,1326380
-2024-07-16,domestic,https://www.sec.gov/Archives/edgar/data/1901297/000149315224027905/form10-k.htm#:~:text=consumer%20confidence,Manufacturing,ZRCN Inc.,1901297
 2025-03-05,domestic,https://www.sec.gov/Archives/edgar/data/924822/000155837025002276/mlr-20241231x10k.htm#:~:text=consumer%20confidence,Manufacturing,MILLER INDUSTRIES INC /TN/,924822
 2025-03-12,domestic,https://www.sec.gov/Archives/edgar/data/27419/000002741925000018/tgt-20250201.htm#:~:text=consumer%20confidence,Trade & Services,TARGET CORP,27419
 2025-03-27,domestic,https://www.sec.gov/Archives/edgar/data/1374328/000143774925009469/ftlf20241231_10k.htm#:~:text=consumer%20confidence,Life Sciences,"FITLIFE BRANDS, INC.",1374328
@@ -477,7 +476,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-10-11,domestic,https://www.sec.gov/Archives/edgar/data/1021917/000149315224040958/form10-k.htm#:~:text=consumer%20confidence,Real Estate & Construction,"Awaysis Capital, Inc.",1021917
 2025-02-10,domestic,https://www.sec.gov/Archives/edgar/data/3499/000000349925000004/alx-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,ALEXANDERS INC,3499
 2025-03-11,domestic,https://www.sec.gov/Archives/edgar/data/1672909/000143774925006992/cphc20241231_10k.htm#:~:text=consumer%20confidence,Trade & Services,Canterbury Park Holding Corp,1672909
-2024-07-16,domestic,https://www.sec.gov/Archives/edgar/data/1888740/000119983524000251/lseb-10k.htm#:~:text=consumer%20confidence,Manufacturing,LSEB Creative Corp.,1888740
 2025-03-03,domestic,https://www.sec.gov/Archives/edgar/data/80661/000008066125000007/pgr-20241231.htm#:~:text=consumer%20confidence,Finance,PROGRESSIVE CORP/OH/,80661
 2024-08-21,domestic,https://www.sec.gov/Archives/edgar/data/703351/000070335124000030/eat-20240626.htm#:~:text=consumer%20confidence,Trade & Services,"BRINKER INTERNATIONAL, INC",703351
 2025-03-11,domestic,https://www.sec.gov/Archives/edgar/data/95574/000143774925007055/sgc20241231_10k.htm#:~:text=consumer%20confidence,Manufacturing,"SUPERIOR GROUP OF COMPANIES, INC.",95574
@@ -485,7 +483,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-09-06,domestic,https://www.sec.gov/Archives/edgar/data/1308027/000149315224035353/form10-k.htm#:~:text=consumer%20confidence,Manufacturing,Vystar Corp,1308027
 2025-03-26,domestic,https://www.sec.gov/Archives/edgar/data/1496443/000168316825001888/paysign_i10k-123124.htm#:~:text=consumer%20confidence,Trade & Services,"Paysign, Inc.",1496443
 2024-08-26,domestic,https://www.sec.gov/Archives/edgar/data/779152/000077915224000079/jkhy-20240630.htm#:~:text=consumer%20confidence,Technology,JACK HENRY & ASSOCIATES INC,779152
-2024-07-16,domestic,https://www.sec.gov/Archives/edgar/data/1572386/000149315224027946/form10-k.htm#:~:text=consumer%20confidence,Manufacturing,GREENWAY TECHNOLOGIES INC,1572386
 2025-03-07,domestic,https://www.sec.gov/Archives/edgar/data/1837671/000183767125000011/cpt-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,Copper Property CTL Pass Through Trust,1837671
 2025-03-24,domestic,https://www.sec.gov/Archives/edgar/data/1814974/000143774925008868/bbxi20241231_10k.htm#:~:text=consumer%20confidence,Trade & Services,"BBX Capital, Inc.",1814974
 2025-03-06,domestic,https://www.sec.gov/Archives/edgar/data/1625941/000155837025002412/aire-20241231x10k.htm#:~:text=consumer%20confidence,Real Estate & Construction,ARES INDUSTRIAL REAL ESTATE INCOME TRUST Inc.,1625941
@@ -1433,14 +1430,12 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-13,international,https://www.sec.gov/Archives/edgar/data/1843586/000095017025038739/otly-20241231.htm#:~:text=consumer%20confidence,Manufacturing,Oatly Group AB,1843586
 2024-07-31,international,https://www.sec.gov/Archives/edgar/data/1948436/000101376224003327/ea0209791-20f_jlonggroup.htm#:~:text=consumer%20confidence,Trade & Services,J-Long Group Ltd,1948436
 2025-02-18,international,https://www.sec.gov/Archives/edgar/data/1979610/000173112225000239/e6355_20-f.htm#:~:text=consumer%20confidence,Real Estate & Construction,WF International Ltd.,1979610
-2024-07-16,international,https://www.sec.gov/Archives/edgar/data/1179821/000119312524179721/d795080d20f.htm#:~:text=consumer%20confidence,Trade & Services,BIRKS GROUP INC.,1179821
 2024-09-09,international,https://www.sec.gov/Archives/edgar/data/1928948/000121390024076729/ea0213139-20f_caravelle.htm#:~:text=consumer%20confidence,Energy & Transportation,High-Trend International Group,1928948
 2025-03-11,international,https://www.sec.gov/Archives/edgar/data/1745201/000095017025036852/vik-20241231.htm#:~:text=consumer%20confidence,Energy & Transportation,Viking Holdings Ltd,1745201
 2025-03-26,international,https://www.sec.gov/Archives/edgar/data/930157/000110465925027944/rto-20241231x20f.htm#:~:text=consumer%20confidence,Trade & Services,RENTOKIL INITIAL PLC /FI,930157
 2025-03-07,international,https://www.sec.gov/Archives/edgar/data/1756708/000175670825000018/jmia-20241231.htm#:~:text=consumer%20confidence,Trade & Services,Jumia Technologies AG,1756708
 2025-02-27,international,https://www.sec.gov/Archives/edgar/data/1167831/000116010625000012/lbk-20241231_d2.htm#:~:text=consumer%20confidence,Finance,Lloyds Bank plc,1167831
 2025-02-25,international,https://www.sec.gov/Archives/edgar/data/1907085/000141057825000198/odd-20241231x20f.htm#:~:text=consumer%20confidence,Industrial Applications and Services,Oddity Tech Ltd,1907085
-2024-07-16,international,https://www.sec.gov/Archives/edgar/data/1809691/000121390024061838/ea0208995-20f_amtd.htm#:~:text=consumer%20confidence,Finance,AMTD Digital Inc.,1809691
 2025-03-25,international,https://www.sec.gov/Archives/edgar/data/1338940/000117891325001021/zk2532820.htm#:~:text=consumer%20confidence,Technology,Perion Network Ltd.,1338940
 2025-03-20,international,https://www.sec.gov/Archives/edgar/data/1887673/000121390025025602/ea0234654-20f_wearable.htm#:~:text=consumer%20confidence,Technology,Wearable Devices Ltd.,1887673
 2025-02-25,international,https://www.sec.gov/Archives/edgar/data/1619762/000161976225000007/igt-20241231.htm#:~:text=consumer%20confidence,Trade & Services,Brightstar Lottery PLC,1619762
@@ -1449,7 +1444,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-21,international,https://www.sec.gov/Archives/edgar/data/1545772/000154577225000008/bpy-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,Brookfield Property Partners L.P.,1545772
 2025-02-21,international,https://www.sec.gov/Archives/edgar/data/313216/000031321625000009/phg-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,KONINKLIJKE PHILIPS NV,313216
 2024-11-08,international,https://www.sec.gov/Archives/edgar/data/1896425/000121390024095922/ea0219095-20f_libang.htm#:~:text=consumer%20confidence,Technology,Li Bang International Corp Inc.,1896425
-2024-07-16,international,https://www.sec.gov/Archives/edgar/data/1836242/000121390024061842/ea0208847-20f_yoshitsu.htm#:~:text=consumer%20confidence,Trade & Services,"Tokyo Lifestyle Co., Ltd.",1836242
 2025-02-04,international,https://www.sec.gov/Archives/edgar/data/1742692/000117891325000314/zk2532597.htm#:~:text=consumer%20confidence,Industrial Applications and Services,InMode Ltd.,1742692
 2025-03-03,international,https://www.sec.gov/Archives/edgar/data/1651717/000165171725000011/nomd-20241231.htm#:~:text=consumer%20confidence,Manufacturing,Nomad Foods Ltd,1651717
 2025-03-11,international,https://www.sec.gov/Archives/edgar/data/1867102/000110465925022354/evtl-20241231x20f.htm#:~:text=consumer%20confidence,Manufacturing,Vertical Aerospace Ltd.,1867102
