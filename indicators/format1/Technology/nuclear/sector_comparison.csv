@@ -9,8 +9,8 @@ Industrial Applications and Services,0,8,power_domestic
 Industrial Applications and Services,1,13,power_domestic
 Life Sciences,0,4,power_domestic
 Life Sciences,1,7,power_domestic
-Manufacturing,0,20,power_domestic
-Manufacturing,1,22,power_domestic
+Manufacturing,0,19,power_domestic
+Manufacturing,1,23,power_domestic
 Real Estate & Construction,0,3,power_domestic
 Real Estate & Construction,1,6,power_domestic
 Technology,0,7,power_domestic
@@ -55,8 +55,8 @@ Manufacturing,0,8,services_domestic
 Manufacturing,1,8,services_domestic
 Real Estate & Construction,0,2,services_domestic
 Real Estate & Construction,1,3,services_domestic
-Technology,0,2,services_domestic
-Technology,1,2,services_domestic
+Technology,0,1,services_domestic
+Technology,1,3,services_domestic
 Trade & Services,0,2,services_domestic
 Trade & Services,1,1,services_domestic
 Energy & Transportation,0,90,regulation_domestic
