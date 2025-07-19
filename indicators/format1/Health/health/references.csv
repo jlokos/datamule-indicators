@@ -261,7 +261,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-28,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1760903/000164117225001259/form10-k.htm#:~:text=Obesity,Industrial Applications and Services,"Safety Shot, Inc.",1760903
 2025-02-26,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1376339/000137633925000009/mdxg-20241231.htm#:~:text=Obesity,Industrial Applications and Services,"MIMEDX GROUP, INC.",1376339
 2025-03-11,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1789940/000178994025000010/fwrg-20241229.htm#:~:text=Obesity,Trade & Services,"First Watch Restaurant Group, Inc.",1789940
-2024-07-19,obesity_domestic,https://www.sec.gov/Archives/edgar/data/940944/000094094424000035/dri-20240526.htm#:~:text=Obesity,Trade & Services,DARDEN RESTAURANTS INC,940944
 2025-02-26,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1759425/000175942525000014/mirm-20241231.htm#:~:text=Obesity,Life Sciences,"Mirum Pharmaceuticals, Inc.",1759425
 2025-03-17,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1850270/000095017025040483/prok-20241231.htm#:~:text=Obesity,Life Sciences,PROKIDNEY CORP.,1850270
 2025-02-20,obesity_domestic,https://www.sec.gov/Archives/edgar/data/1739566/000173956625000053/utz-20241229.htm#:~:text=Obesity,Manufacturing,"Utz Brands, Inc.",1739566
@@ -469,7 +468,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-24,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1430306/000199937125003011/ex99-02.htm#:~:text=mpox&text=monkeypox,Life Sciences,Tonix Pharmaceuticals Holding Corp.,1430306
 2024-08-30,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1367644/000136764424000155/pressrelease_08292024.htm#:~:text=mpox&text=monkeypox,Life Sciences,Emergent BioSolutions Inc.,1367644
 2024-11-12,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1213809/000143774924034551/ex_721715.htm#:~:text=mpox&text=monkeypox,Life Sciences,DYADIC INTERNATIONAL INC,1213809
-2024-07-19,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1010086/000114036124033536/ef20032678_ex99-1.htm#:~:text=mpox&text=monkeypox,Life Sciences,SIGA TECHNOLOGIES INC,1010086
 2024-08-01,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1010086/000114036124035316/ef20033337_ex99-1.htm#:~:text=mpox&text=monkeypox,Life Sciences,SIGA TECHNOLOGIES INC,1010086
 2025-03-07,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1642159/000149315225009462/ex99-1.htm#:~:text=mpox&text=monkeypox,Industrial Applications and Services,"Sigyn Therapeutics, Inc.",1642159
 2025-03-11,mpox_domestic,https://www.sec.gov/Archives/edgar/data/1010086/000114036125008092/ef20045222_ex99-1.htm#:~:text=mpox&text=monkeypox,Life Sciences,SIGA TECHNOLOGIES INC,1010086

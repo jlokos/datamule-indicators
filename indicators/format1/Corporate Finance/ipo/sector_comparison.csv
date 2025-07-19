@@ -12,8 +12,8 @@ Manufacturing,0,9,domestic_us
 Manufacturing,1,11,domestic_us
 Real Estate & Construction,0,6,domestic_us
 Real Estate & Construction,1,4,domestic_us
-Technology,0,16,domestic_us
-Technology,1,15,domestic_us
+Technology,0,15,domestic_us
+Technology,1,16,domestic_us
 Trade & Services,0,9,domestic_us
 Trade & Services,1,9,domestic_us
 Finance,0,1,international_us
@@ -23,7 +23,6 @@ Industrial Applications and Services,1,1,international_us
 Life Sciences,0,1,international_us
 Manufacturing,0,5,international_us
 Manufacturing,1,8,international_us
-Real Estate & Construction,1,1,international_us
 Technology,0,9,international_us
 Technology,1,11,international_us
 Trade & Services,0,1,international_us

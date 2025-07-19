@@ -747,7 +747,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-04,domestic,https://www.sec.gov/Archives/edgar/data/1386570/000162828025009774/cdxc-20241231.htm#:~:text=consumer%20confidence,Life Sciences,"Niagen Bioscience, Inc.",1386570
 2025-03-13,domestic,https://www.sec.gov/Archives/edgar/data/24090/000002409025000018/cia-20241231.htm#:~:text=consumer%20confidence,Finance,"CITIZENS, INC.",24090
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/1694426/000169442625000013/dk-20241231.htm#:~:text=consumer%20confidence,Energy & Transportation,"Delek US Holdings, Inc.",1694426
-2024-07-19,domestic,https://www.sec.gov/Archives/edgar/data/940944/000094094424000035/dri-20240526.htm#:~:text=consumer%20confidence,Trade & Services,DARDEN RESTAURANTS INC,940944
 2025-03-11,domestic,https://www.sec.gov/Archives/edgar/data/1789940/000178994025000010/fwrg-20241229.htm#:~:text=consumer%20confidence,Trade & Services,"First Watch Restaurant Group, Inc.",1789940
 2025-02-26,domestic,https://www.sec.gov/Archives/edgar/data/1759425/000175942525000014/mirm-20241231.htm#:~:text=consumer%20confidence,Life Sciences,"Mirum Pharmaceuticals, Inc.",1759425
 2025-03-26,domestic,https://www.sec.gov/Archives/edgar/data/1407973/000095017025045214/sonx-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"Sonendo, Inc.",1407973
@@ -1440,7 +1439,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-20,international,https://www.sec.gov/Archives/edgar/data/1887673/000121390025025602/ea0234654-20f_wearable.htm#:~:text=consumer%20confidence,Technology,Wearable Devices Ltd.,1887673
 2025-02-25,international,https://www.sec.gov/Archives/edgar/data/1619762/000161976225000007/igt-20241231.htm#:~:text=consumer%20confidence,Trade & Services,Brightstar Lottery PLC,1619762
 2025-03-20,international,https://www.sec.gov/Archives/edgar/data/1900304/000155837025003368/hln-20241231x20f.htm#:~:text=consumer%20confidence,Industrial Applications and Services,Haleon plc,1900304
-2024-07-19,international,https://www.sec.gov/Archives/edgar/data/1743971/000095017024084745/mogu-20240331.htm#:~:text=consumer%20confidence,Trade & Services,MOGU Inc.,1743971
 2025-03-21,international,https://www.sec.gov/Archives/edgar/data/1545772/000154577225000008/bpy-20241231.htm#:~:text=consumer%20confidence,Real Estate & Construction,Brookfield Property Partners L.P.,1545772
 2025-02-21,international,https://www.sec.gov/Archives/edgar/data/313216/000031321625000009/phg-20241231.htm#:~:text=consumer%20confidence,Industrial Applications and Services,KONINKLIJKE PHILIPS NV,313216
 2024-11-08,international,https://www.sec.gov/Archives/edgar/data/1896425/000121390024095922/ea0219095-20f_libang.htm#:~:text=consumer%20confidence,Technology,Li Bang International Corp Inc.,1896425
