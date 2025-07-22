@@ -717,7 +717,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-24,domestic,https://www.sec.gov/Archives/edgar/data/732834/000095017025025741/ck0000732834-20241231.htm#:~:text=consumer%20confidence,Energy & Transportation,"CONTINENTAL RESOURCES, INC",732834
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/73309/000095017025028427/nue-20241231.htm#:~:text=consumer%20confidence,Manufacturing,NUCOR CORP,73309
 2025-02-12,domestic,https://www.sec.gov/Archives/edgar/data/1393883/000139388325000041/dhx-20241231.htm#:~:text=consumer%20confidence,Trade & Services,"DHI GROUP, INC.",1393883
-2024-07-22,domestic,https://www.sec.gov/Archives/edgar/data/1084765/000108476524000089/rgp-20240525.htm#:~:text=consumer%20confidence,Trade & Services,"RESOURCES CONNECTION, INC.",1084765
 2024-10-28,domestic,https://www.sec.gov/Archives/edgar/data/1144215/000114421524000085/ayi-20240831.htm#:~:text=consumer%20confidence,Manufacturing,ACUITY INC. (DE),1144215
 2025-02-28,domestic,https://www.sec.gov/Archives/edgar/data/1071255/000107125525000010/gden-20241231.htm#:~:text=consumer%20confidence,Trade & Services,"GOLDEN ENTERTAINMENT, INC.",1071255
 2025-02-25,domestic,https://www.sec.gov/Archives/edgar/data/886346/000088634625000006/kai-20241228.htm#:~:text=consumer%20confidence,Technology,KADANT INC,886346
@@ -1474,7 +1473,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-21,international,https://www.sec.gov/Archives/edgar/data/1381640/000119312525059759/d894115d20f.htm#:~:text=consumer%20confidence,Real Estate & Construction,Melco Resorts & Entertainment LTD,1381640
 2025-03-07,international,https://www.sec.gov/Archives/edgar/data/1649373/000162828025011193/san-20241231.htm#:~:text=consumer%20confidence,Finance,SANTANDER UK GROUP HOLDINGS PLC,1649373
 2025-03-04,international,https://www.sec.gov/Archives/edgar/data/1845097/000155837025002142/ambp-20241231x20f.htm#:~:text=consumer%20confidence,Manufacturing,Ardagh Metal Packaging S.A.,1845097
-2024-07-22,international,https://www.sec.gov/Archives/edgar/data/1931717/000101376224000458/ea0209328-20f_ccsctechno.htm#:~:text=consumer%20confidence,Manufacturing,CCSC Technology International Holdings Ltd,1931717
 2024-07-29,international,https://www.sec.gov/Archives/edgar/data/1985062/000141057824001112/pbm-20240331x20f.htm#:~:text=consumer%20confidence,Life Sciences,PSYENCE BIOMEDICAL LTD.,1985062
 2025-03-20,international,https://www.sec.gov/Archives/edgar/data/1839799/000183979925000022/gamb-20241231.htm#:~:text=consumer%20confidence,Trade & Services,Gambling.com Group Ltd,1839799
 2024-10-25,international,https://www.sec.gov/Archives/edgar/data/1999297/000121390024090783/ea0218236-20f_bigtree.htm#:~:text=consumer%20confidence,Manufacturing,Big Tree Cloud Holdings Ltd,1999297
