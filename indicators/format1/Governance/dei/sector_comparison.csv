@@ -23,14 +23,14 @@ Energy & Transportation,0,113,equity_domestic
 Energy & Transportation,1,186,equity_domestic
 Finance,0,177,equity_domestic
 Finance,1,181,equity_domestic
-Industrial Applications and Services,0,142,equity_domestic
-Industrial Applications and Services,1,182,equity_domestic
+Industrial Applications and Services,0,141,equity_domestic
+Industrial Applications and Services,1,183,equity_domestic
 Life Sciences,0,164,equity_domestic
 Life Sciences,1,217,equity_domestic
 Manufacturing,0,159,equity_domestic
 Manufacturing,1,235,equity_domestic
-Real Estate & Construction,0,156,equity_domestic
-Real Estate & Construction,1,244,equity_domestic
+Real Estate & Construction,0,154,equity_domestic
+Real Estate & Construction,1,246,equity_domestic
 Technology,0,159,equity_domestic
 Technology,1,191,equity_domestic
 Trade & Services,0,190,equity_domestic
@@ -58,13 +58,13 @@ Crypto Assets,1,2,diversity_international
 Energy & Transportation,0,15,diversity_international
 Energy & Transportation,1,23,diversity_international
 Finance,0,20,diversity_international
-Finance,1,28,diversity_international
+Finance,1,27,diversity_international
 Industrial Applications and Services,0,7,diversity_international
 Industrial Applications and Services,1,9,diversity_international
 Life Sciences,0,12,diversity_international
 Life Sciences,1,21,diversity_international
 Manufacturing,0,14,diversity_international
-Manufacturing,1,34,diversity_international
+Manufacturing,1,33,diversity_international
 Real Estate & Construction,0,3,diversity_international
 Real Estate & Construction,1,4,diversity_international
 Technology,0,6,diversity_international
@@ -73,7 +73,7 @@ Trade & Services,0,4,diversity_international
 Trade & Services,1,13,diversity_international
 Crypto Assets,1,4,equity_international
 Energy & Transportation,0,18,equity_international
-Energy & Transportation,1,38,equity_international
+Energy & Transportation,1,37,equity_international
 Finance,0,17,equity_international
 Finance,1,27,equity_international
 Industrial Applications and Services,0,18,equity_international

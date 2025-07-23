@@ -529,7 +529,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-10,domestic,https://www.sec.gov/Archives/edgar/data/10329/000143774925003216/bset20241130_10k.htm#:~:text=consumer%20confidence,Manufacturing,BASSETT FURNITURE INDUSTRIES INC,10329
 2025-03-26,domestic,https://www.sec.gov/Archives/edgar/data/1099160/000095017025045211/bbgi-20241231.htm#:~:text=consumer%20confidence,Technology,BEASLEY BROADCAST GROUP INC,1099160
 2025-03-11,domestic,https://www.sec.gov/Archives/edgar/data/1922335/000149315225009873/form10-k.htm#:~:text=consumer%20confidence,Trade & Services,Syra Health Corp,1922335
-2024-07-23,domestic,https://www.sec.gov/Archives/edgar/data/16160/000156276224000177/calm2024060110K.htm#:~:text=consumer%20confidence,Industrial Applications and Services,CAL-MAINE FOODS INC,16160
 2025-02-06,domestic,https://www.sec.gov/Archives/edgar/data/1433195/000143319525000013/appf-20241231.htm#:~:text=consumer%20confidence,Technology,APPFOLIO INC,1433195
 2025-03-11,domestic,https://www.sec.gov/Archives/edgar/data/1853825/000149315225009872/form10-k.htm#:~:text=consumer%20confidence,Technology,THUMZUP MEDIA Corp,1853825
 2025-03-11,domestic,https://www.sec.gov/Archives/edgar/data/275053/000162828025012082/natr-20241231.htm#:~:text=consumer%20confidence,Life Sciences,NATURES SUNSHINE PRODUCTS INC,275053
@@ -578,7 +577,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-02-20,domestic,https://www.sec.gov/Archives/edgar/data/1915657/000191565725000019/dino-20241231.htm#:~:text=consumer%20confidence,Energy & Transportation,HF Sinclair Corp,1915657
 2025-03-26,domestic,https://www.sec.gov/Archives/edgar/data/2015502/000101376225002822/ea0233709-10k_launch.htm#:~:text=consumer%20confidence,Real Estate & Construction,Launch One Acquisition Corp.,2015502
 2024-10-08,domestic,https://www.sec.gov/Archives/edgar/data/1481504/000147793224006252/xeri_10k.htm#:~:text=consumer%20confidence,Manufacturing,"XERIANT, INC.",1481504
-2024-07-23,domestic,https://www.sec.gov/Archives/edgar/data/1853047/000121390024063651/ea0203194-10k_hudson1.htm#:~:text=consumer%20confidence,Real Estate & Construction,Hudson Acquisition I Corp.,1853047
 2025-02-27,domestic,https://www.sec.gov/Archives/edgar/data/1030469/000103046925000007/ofg-20241231.htm#:~:text=consumer%20confidence,Finance,OFG BANCORP,1030469
 2025-03-07,domestic,https://www.sec.gov/Archives/edgar/data/1327607/000132760725000020/myfw-20241231.htm#:~:text=consumer%20confidence,Finance,First Western Financial Inc,1327607
 2025-03-24,domestic,https://www.sec.gov/Archives/edgar/data/1692345/000155837025003548/tmb-20241231x10k.htm#:~:text=consumer%20confidence,Real Estate & Construction,"PROCACCIANTI HOTEL REIT, INC.",1692345
@@ -1467,7 +1465,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-25,international,https://www.sec.gov/Archives/edgar/data/1867729/000119312525062519/d921190d20f.htm#:~:text=consumer%20confidence,Technology,WeRide Inc.,1867729
 2025-02-24,international,https://www.sec.gov/Archives/edgar/data/1986247/000121390025016603/ea0231351-20f_parkhabio.htm#:~:text=consumer%20confidence,Industrial Applications and Services,"Park Ha Biological Technology Co., Ltd.",1986247
 2025-02-12,international,https://www.sec.gov/Archives/edgar/data/1434265/000155837025000846/gmab-20241231x20f.htm#:~:text=consumer%20confidence,Life Sciences,GENMAB A/S,1434265
-2024-07-23,international,https://www.sec.gov/Archives/edgar/data/1891944/000121390024063312/ea0209416-20f_primech.htm#:~:text=consumer%20confidence,Trade & Services,Primech Holdings Ltd,1891944
 2024-10-23,international,https://www.sec.gov/Archives/edgar/data/1976695/000149315224042243/form20-f.htm#:~:text=consumer%20confidence,Technology,Mobile-health Network Solutions,1976695
 2025-03-20,international,https://www.sec.gov/Archives/edgar/data/1331284/000114036125009685/ef20038952_20f.htm#:~:text=consumer%20confidence,Energy & Transportation,"DHT Holdings, Inc.",1331284
 2025-03-21,international,https://www.sec.gov/Archives/edgar/data/1381640/000119312525059759/d894115d20f.htm#:~:text=consumer%20confidence,Real Estate & Construction,Melco Resorts & Entertainment LTD,1381640
@@ -1489,7 +1486,7 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-12,international,https://www.sec.gov/Archives/edgar/data/1668717/000119312525052976/d899194d20f.htm#:~:text=consumer%20confidence,Manufacturing,Anheuser-Busch InBev SA/NV,1668717
 2025-03-10,international,https://www.sec.gov/Archives/edgar/data/1837493/000121390025022325/ea0233226-20f_inspira.htm#:~:text=consumer%20confidence,Industrial Applications and Services,Inspira Technologies OXY B.H.N. Ltd,1837493
 2025-02-28,international,https://www.sec.gov/Archives/edgar/data/1809691/000121390025018782/ea0231719-20f_amtd.htm#:~:text=consumer%20confidence,Finance,AMTD Digital Inc.,1809691
-2024-12-30,international,https://www.sec.gov/Archives/edgar/data/1889823/000106299324021234/form20f.htm#:~:text=consumer%20confidence,Technology,KWESST Micro Systems Inc.,1889823
+2024-12-30,international,https://www.sec.gov/Archives/edgar/data/1889823/000106299324021234/form20f.htm#:~:text=consumer%20confidence,Technology,DEFSEC Technologies Inc.,1889823
 2025-02-21,international,https://www.sec.gov/Archives/edgar/data/844150/000110465925016029/nwg-20241231xex15d2.htm#:~:text=consumer%20confidence,Finance,NatWest Group plc,844150
 2025-03-27,international,https://www.sec.gov/Archives/edgar/data/1584371/000101376225003010/ea0235090-20f_icecure.htm#:~:text=consumer%20confidence,Industrial Applications and Services,IceCure Medical Ltd.,1584371
 2025-03-27,international,https://www.sec.gov/Archives/edgar/data/1584371/000101376225003012/ea0235090-20f_icecure.htm#:~:text=consumer%20confidence,Industrial Applications and Services,IceCure Medical Ltd.,1584371

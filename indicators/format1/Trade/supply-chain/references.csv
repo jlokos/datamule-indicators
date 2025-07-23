@@ -72,7 +72,6 @@ filing_date,component,url,ownerOrg,name,cik
 2025-03-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1089063/000108906325000012/dks-20250201.htm#:~:text=Supply%20chain%20constraints,Trade & Services,"DICK'S SPORTING GOODS, INC.",1089063
 2025-02-27,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1598428/000095017025029085/mtus-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,Metallus Inc.,1598428
 2024-11-15,constraints_domestic,https://www.sec.gov/Archives/edgar/data/785786/000078578624000074/plxs-20240928.htm#:~:text=Supply%20chain%20constraints,Manufacturing,PLEXUS CORP,785786
-2024-07-23,constraints_domestic,https://www.sec.gov/Archives/edgar/data/6207/000141057824001102/axr-20240430x10k.htm#:~:text=Supply%20chain%20constraints,Real Estate & Construction,AMREP CORP.,6207
 2025-02-21,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1677576/000155837025001322/iipr-20241231x10k.htm#:~:text=Supply%20chain%20constraints,Real Estate & Construction,INNOVATIVE INDUSTRIAL PROPERTIES INC,1677576
 2025-03-05,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1759824/000095017025033669/altg-20241231.htm#:~:text=Supply%20chain%20constraints,Trade & Services,ALTA EQUIPMENT GROUP INC.,1759824
 2024-12-20,constraints_domestic,https://www.sec.gov/Archives/edgar/data/936395/000093639524000044/cien-20241102.htm#:~:text=Supply%20chain%20constraints,Manufacturing,CIENA CORP,936395
@@ -110,7 +109,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-08-14,constraints_domestic,https://www.sec.gov/Archives/edgar/data/721371/000072137124000056/cah-20240630.htm#:~:text=Supply%20chain%20constraints,Trade & Services,CARDINAL HEALTH INC,721371
 2025-02-26,constraints_domestic,https://www.sec.gov/Archives/edgar/data/819793/000081979325000007/ain-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,ALBANY INTERNATIONAL CORP /DE/,819793
 2025-01-30,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1318605/000162828025003063/tsla-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,"Tesla, Inc.",1318605
-2024-07-23,constraints_domestic,https://www.sec.gov/Archives/edgar/data/15847/000143774924023270/buks20240430_10k.htm#:~:text=Supply%20chain%20constraints,Trade & Services,BUTLER NATIONAL CORP,15847
 2025-02-25,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1297996/000155837025001424/dlr-20241231x10k.htm#:~:text=Supply%20chain%20constraints,Real Estate & Construction,"DIGITAL REALTY TRUST, INC.",1297996
 2025-02-25,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1494877/000155837025001424/dlr-20241231x10k.htm#:~:text=Supply%20chain%20constraints,Real Estate & Construction,"DIGITAL REALTY TRUST, L.P.",1494877
 2024-12-19,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1645590/000164559024000139/hpe-20241031.htm#:~:text=Supply%20chain%20constraints,Technology,Hewlett Packard Enterprise Co,1645590
@@ -151,7 +149,6 @@ filing_date,component,url,ownerOrg,name,cik
 2024-08-05,constraints_domestic,https://www.sec.gov/Archives/edgar/data/319201/000031920124000021/klac-20240630.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,KLA CORP,319201
 2025-03-07,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1857853/000185785325000018/tra-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,"Traeger, Inc.",1857853
 2025-03-06,constraints_domestic,https://www.sec.gov/Archives/edgar/data/76282/000007628225000013/pkoh-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,PARK OHIO HOLDINGS CORP,76282
-2024-07-23,constraints_domestic,https://www.sec.gov/Archives/edgar/data/16160/000156276224000177/calm2024060110K.htm#:~:text=Supply%20chain%20constraints,Industrial Applications and Services,CAL-MAINE FOODS INC,16160
 2025-02-28,constraints_domestic,https://www.sec.gov/Archives/edgar/data/1065837/000095017025030016/skx-20241231.htm#:~:text=Supply%20chain%20constraints,Manufacturing,SKECHERS USA INC,1065837
 2025-02-18,constraints_domestic,https://www.sec.gov/Archives/edgar/data/97134/000009713425000006/tnc-20241231.htm#:~:text=Supply%20chain%20constraints,Technology,TENNANT CO,97134
 2024-12-12,constraints_domestic,https://www.sec.gov/Archives/edgar/data/27673/000155837024016174/jdcc-20241027x10k.htm#:~:text=Supply%20chain%20constraints,Finance,DEERE JOHN CAPITAL CORP,27673
