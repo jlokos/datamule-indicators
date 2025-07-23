@@ -5,8 +5,8 @@ Energy & Transportation,0,98,domestic
 Energy & Transportation,1,105,domestic
 Finance,0,97,domestic
 Finance,1,103,domestic
-Industrial Applications and Services,0,109,domestic
-Industrial Applications and Services,1,129,domestic
+Industrial Applications and Services,0,108,domestic
+Industrial Applications and Services,1,130,domestic
 Life Sciences,0,219,domestic
 Life Sciences,1,274,domestic
 Manufacturing,0,124,domestic
@@ -32,5 +32,5 @@ Real Estate & Construction,0,2,international
 Real Estate & Construction,1,4,international
 Technology,0,26,international
 Technology,1,56,international
-Trade & Services,0,13,international
-Trade & Services,1,39,international
+Trade & Services,0,12,international
+Trade & Services,1,40,international
