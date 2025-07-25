@@ -51,6 +51,13 @@
       "health",
       "pandemic",
       "health-research"
+    ],
+    "Blockchain": [
+      "bitcoin",
+      "ethereum",
+      "stablecoin",
+      "defi",
+      "nft"
     ]
   }
 }

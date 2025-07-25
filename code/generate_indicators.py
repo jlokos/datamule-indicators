@@ -37,7 +37,12 @@ CATEGORY_MAP = {
     "llm" : "Technology",
     "health" : "Health",
     "pandemic" : "Health",
-    "health-research" : "Health"
+    "health-research" : "Health",
+    "bitcoin" : "Blockchain",
+    "ethereum" : "Blockchain",
+    "stablecoin" : "Blockchain",
+    "defi" : "Blockchain",
+    "nft" : "Blockchain"
     }
 
 def get_prefix(mention_key):
