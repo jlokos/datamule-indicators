@@ -590,7 +590,6 @@ cik,date,value,component
 34497,2001-01-01,1,protocols_domestic
 34956,2001-01-01,1,protocols_domestic
 35527,2001-01-01,1,protocols_domestic
-36270,2001-01-01,1,protocols_domestic
 36995,2001-01-01,1,protocols_domestic
 37651,2001-01-01,1,protocols_domestic
 38074,2001-01-01,1,protocols_domestic
@@ -854,6 +853,7 @@ cik,date,value,component
 863815,2001-01-01,1,protocols_domestic
 864009,2001-01-01,1,protocols_domestic
 864890,2001-01-01,1,protocols_domestic
+865753,2001-01-01,1,protocols_domestic
 866374,2001-01-01,1,protocols_domestic
 868263,2001-01-01,1,protocols_domestic
 869688,2001-01-01,1,protocols_domestic
@@ -1271,7 +1271,6 @@ cik,date,value,component
 1075656,2001-01-01,1,protocols_domestic
 1076016,2001-01-01,1,protocols_domestic
 1076167,2001-01-01,1,protocols_domestic
-1076441,2001-01-01,1,protocols_domestic
 1076647,2001-01-01,1,protocols_domestic
 1077688,2001-01-01,1,protocols_domestic
 1078207,2001-01-01,1,protocols_domestic
@@ -1970,7 +1969,6 @@ cik,date,value,component
 1016395,2002-01-01,1,protocols_domestic
 1016546,2002-01-01,1,protocols_domestic
 1016607,2002-01-01,1,protocols_domestic
-1017815,2002-01-01,1,protocols_domestic
 1018152,2002-01-01,1,protocols_domestic
 1018952,2002-01-01,1,protocols_domestic
 1019101,2002-01-01,1,protocols_domestic
@@ -2197,7 +2195,6 @@ cik,date,value,component
 1114040,2002-01-01,1,protocols_domestic
 1114220,2002-01-01,1,protocols_domestic
 1114973,2002-01-01,1,protocols_domestic
-1116463,2002-01-01,1,protocols_domestic
 1120438,2002-01-01,1,protocols_domestic
 1121786,2002-01-01,1,protocols_domestic
 1121936,2002-01-01,1,protocols_domestic
@@ -2293,6 +2290,7 @@ cik,date,value,component
 44545,2003-01-01,1,protocols_domestic
 46207,2003-01-01,1,protocols_domestic
 46619,2003-01-01,1,protocols_domestic
+46916,2003-01-01,1,protocols_domestic
 47111,2003-01-01,1,protocols_domestic
 47288,2003-01-01,1,protocols_domestic
 49996,2003-01-01,1,protocols_domestic
@@ -2362,6 +2360,7 @@ cik,date,value,component
 94185,2003-01-01,1,protocols_domestic
 94784,2003-01-01,1,protocols_domestic
 94845,2003-01-01,1,protocols_domestic
+96021,2003-01-01,1,protocols_domestic
 96412,2003-01-01,1,protocols_domestic
 97745,2003-01-01,1,protocols_domestic
 101199,2003-01-01,1,protocols_domestic
@@ -2424,7 +2423,6 @@ cik,date,value,component
 354950,2003-01-01,1,protocols_domestic
 354963,2003-01-01,1,protocols_domestic
 356830,2003-01-01,1,protocols_domestic
-357264,2003-01-01,1,protocols_domestic
 701286,2003-01-01,1,protocols_domestic
 701319,2003-01-01,1,protocols_domestic
 702131,2003-01-01,1,protocols_domestic
@@ -2472,7 +2470,6 @@ cik,date,value,component
 732485,2003-01-01,1,protocols_domestic
 732712,2003-01-01,1,protocols_domestic
 733269,2003-01-01,1,protocols_domestic
-736473,2003-01-01,1,protocols_domestic
 736994,2003-01-01,1,protocols_domestic
 736999,2003-01-01,1,protocols_domestic
 737000,2003-01-01,1,protocols_domestic
@@ -2524,12 +2521,12 @@ cik,date,value,component
 791908,2003-01-01,1,protocols_domestic
 792977,2003-01-01,1,protocols_domestic
 794619,2003-01-01,1,protocols_domestic
+795266,2003-01-01,1,protocols_domestic
 795363,2003-01-01,1,protocols_domestic
 796505,2003-01-01,1,protocols_domestic
 797167,2003-01-01,1,protocols_domestic
 797468,2003-01-01,1,protocols_domestic
 797871,2003-01-01,1,protocols_domestic
-798359,2003-01-01,1,protocols_domestic
 798955,2003-01-01,1,protocols_domestic
 799515,2003-01-01,1,protocols_domestic
 799698,2003-01-01,1,protocols_domestic
@@ -2588,6 +2585,7 @@ cik,date,value,component
 831861,2003-01-01,1,protocols_domestic
 832101,2003-01-01,1,protocols_domestic
 832350,2003-01-01,1,protocols_domestic
+832812,2003-01-01,1,protocols_domestic
 832820,2003-01-01,1,protocols_domestic
 833298,2003-01-01,1,protocols_domestic
 833640,2003-01-01,1,protocols_domestic
@@ -2876,6 +2874,7 @@ cik,date,value,component
 946840,2003-01-01,1,protocols_domestic
 946991,2003-01-01,1,protocols_domestic
 947429,2003-01-01,1,protocols_domestic
+947431,2003-01-01,1,protocols_domestic
 948545,2003-01-01,1,protocols_domestic
 949112,2003-01-01,1,protocols_domestic
 949157,2003-01-01,1,protocols_domestic
@@ -2892,7 +2891,6 @@ cik,date,value,component
 1002125,2003-01-01,1,protocols_domestic
 1002388,2003-01-01,1,protocols_domestic
 1002390,2003-01-01,1,protocols_domestic
-1002579,2003-01-01,1,protocols_domestic
 1002638,2003-01-01,1,protocols_domestic
 1003113,2003-01-01,1,protocols_domestic
 1003114,2003-01-01,1,protocols_domestic
@@ -3141,7 +3139,6 @@ cik,date,value,component
 1081158,2003-01-01,1,protocols_domestic
 1081971,2003-01-01,1,protocols_domestic
 1082038,2003-01-01,1,protocols_domestic
-1082526,2003-01-01,1,protocols_domestic
 1082554,2003-01-01,1,protocols_domestic
 1083751,2003-01-01,1,protocols_domestic
 1084242,2003-01-01,1,protocols_domestic
@@ -3348,6 +3345,7 @@ cik,date,value,component
 24741,2004-01-01,1,protocols_domestic
 26780,2004-01-01,1,protocols_domestic
 27419,2004-01-01,1,protocols_domestic
+28412,2004-01-01,1,protocols_domestic
 28630,2004-01-01,1,protocols_domestic
 29806,2004-01-01,1,protocols_domestic
 31978,2004-01-01,1,protocols_domestic
@@ -3397,7 +3395,6 @@ cik,date,value,component
 60086,2004-01-01,1,protocols_domestic
 62709,2004-01-01,1,protocols_domestic
 63754,2004-01-01,1,protocols_domestic
-64908,2004-01-01,1,protocols_domestic
 64978,2004-01-01,1,protocols_domestic
 65100,2004-01-01,1,protocols_domestic
 65195,2004-01-01,1,protocols_domestic
@@ -3540,6 +3537,7 @@ cik,date,value,component
 718074,2004-01-01,1,protocols_domestic
 719264,2004-01-01,1,protocols_domestic
 719722,2004-01-01,1,protocols_domestic
+720154,2004-01-01,1,protocols_domestic
 720195,2004-01-01,1,protocols_domestic
 722077,2004-01-01,1,protocols_domestic
 722830,2004-01-01,1,protocols_domestic
@@ -3855,6 +3853,7 @@ cik,date,value,component
 911326,2004-01-01,1,protocols_domestic
 911649,2004-01-01,1,protocols_domestic
 912183,2004-01-01,1,protocols_domestic
+912513,2004-01-01,1,protocols_domestic
 912544,2004-01-01,1,protocols_domestic
 912605,2004-01-01,1,protocols_domestic
 912728,2004-01-01,1,protocols_domestic
@@ -3872,7 +3871,6 @@ cik,date,value,component
 914748,2004-01-01,1,protocols_domestic
 915389,2004-01-01,1,protocols_domestic
 916075,2004-01-01,1,protocols_domestic
-916529,2004-01-01,1,protocols_domestic
 917170,2004-01-01,1,protocols_domestic
 917259,2004-01-01,1,protocols_domestic
 918066,2004-01-01,1,protocols_domestic
@@ -4009,6 +4007,7 @@ cik,date,value,component
 1016933,2004-01-01,1,protocols_domestic
 1016965,2004-01-01,1,protocols_domestic
 1017158,2004-01-01,1,protocols_domestic
+1017172,2004-01-01,1,protocols_domestic
 1017491,2004-01-01,1,protocols_domestic
 1018003,2004-01-01,1,protocols_domestic
 1018099,2004-01-01,1,protocols_domestic
@@ -4065,6 +4064,7 @@ cik,date,value,component
 1037949,2004-01-01,1,protocols_domestic
 1037975,2004-01-01,1,protocols_domestic
 1039096,2004-01-01,1,protocols_domestic
+1039160,2004-01-01,1,protocols_domestic
 1040017,2004-01-01,1,protocols_domestic
 1040161,2004-01-01,1,protocols_domestic
 1040416,2004-01-01,1,protocols_domestic
@@ -4115,7 +4115,6 @@ cik,date,value,component
 1056358,2004-01-01,1,protocols_domestic
 1056386,2004-01-01,1,protocols_domestic
 1056903,2004-01-01,1,protocols_domestic
-1056923,2004-01-01,1,protocols_domestic
 1057746,2004-01-01,1,protocols_domestic
 1059324,2004-01-01,1,protocols_domestic
 1059562,2004-01-01,1,protocols_domestic
@@ -4188,6 +4187,7 @@ cik,date,value,component
 1089872,2004-01-01,1,protocols_domestic
 1089976,2004-01-01,1,protocols_domestic
 1090012,2004-01-01,1,protocols_domestic
+1090061,2004-01-01,1,protocols_domestic
 1091312,2004-01-01,1,protocols_domestic
 1091530,2004-01-01,1,protocols_domestic
 1091601,2004-01-01,1,protocols_domestic
@@ -4274,7 +4274,6 @@ cik,date,value,component
 1140590,2004-01-01,1,protocols_domestic
 1141270,2004-01-01,1,protocols_domestic
 1141271,2004-01-01,1,protocols_domestic
-1141399,2004-01-01,1,protocols_domestic
 1142412,2004-01-01,1,protocols_domestic
 1142417,2004-01-01,1,protocols_domestic
 1142750,2004-01-01,1,protocols_domestic
@@ -4810,6 +4809,7 @@ cik,date,value,component
 879169,2005-01-01,1,protocols_domestic
 879465,2005-01-01,1,protocols_domestic
 879573,2005-01-01,1,protocols_domestic
+879911,2005-01-01,1,protocols_domestic
 879993,2005-01-01,1,protocols_domestic
 880117,2005-01-01,1,protocols_domestic
 880431,2005-01-01,1,protocols_domestic
@@ -5196,7 +5196,6 @@ cik,date,value,component
 1070494,2005-01-01,1,protocols_domestic
 1070698,2005-01-01,1,protocols_domestic
 1071255,2005-01-01,1,protocols_domestic
-1072343,2005-01-01,1,protocols_domestic
 1072379,2005-01-01,1,protocols_domestic
 1073431,2005-01-01,1,protocols_domestic
 1076167,2005-01-01,1,protocols_domestic
@@ -5442,7 +5441,6 @@ cik,date,value,component
 1271834,2005-01-01,1,protocols_domestic
 1272547,2005-01-01,1,protocols_domestic
 1273013,2005-01-01,1,protocols_domestic
-1273886,2005-01-01,1,protocols_domestic
 1274762,2005-01-01,1,protocols_domestic
 1275283,2005-01-01,1,protocols_domestic
 1276520,2005-01-01,1,protocols_domestic
@@ -5478,13 +5476,11 @@ cik,date,value,component
 1292026,2005-01-01,1,protocols_domestic
 1294819,2005-01-01,1,protocols_domestic
 1295947,2005-01-01,1,protocols_domestic
-1296435,2005-01-01,1,protocols_domestic
 1296937,2005-01-01,1,protocols_domestic
 1297288,2005-01-01,1,protocols_domestic
 1297401,2005-01-01,1,protocols_domestic
 1297735,2005-01-01,1,protocols_domestic
 1300514,2005-01-01,1,protocols_domestic
-1301399,2005-01-01,1,protocols_domestic
 1301406,2005-01-01,1,protocols_domestic
 1302676,2005-01-01,1,protocols_domestic
 1303276,2005-01-01,1,protocols_domestic
@@ -5573,7 +5569,6 @@ cik,date,value,component
 38074,2006-01-01,1,protocols_domestic
 40211,2006-01-01,1,protocols_domestic
 40533,2006-01-01,1,protocols_domestic
-40704,2006-01-01,1,protocols_domestic
 40730,2006-01-01,1,protocols_domestic
 40888,2006-01-01,1,protocols_domestic
 41091,2006-01-01,1,protocols_domestic
@@ -5645,6 +5640,7 @@ cik,date,value,component
 92230,2006-01-01,1,protocols_domestic
 92259,2006-01-01,1,protocols_domestic
 93389,2006-01-01,1,protocols_domestic
+93751,2006-01-01,1,protocols_domestic
 94784,2006-01-01,1,protocols_domestic
 94845,2006-01-01,1,protocols_domestic
 95304,2006-01-01,1,protocols_domestic
@@ -5659,7 +5655,6 @@ cik,date,value,component
 101199,2006-01-01,1,protocols_domestic
 101382,2006-01-01,1,protocols_domestic
 101390,2006-01-01,1,protocols_domestic
-102198,2006-01-01,1,protocols_domestic
 103096,2006-01-01,1,protocols_domestic
 103145,2006-01-01,1,protocols_domestic
 105006,2006-01-01,1,protocols_domestic
@@ -5730,7 +5725,6 @@ cik,date,value,component
 722830,2006-01-01,1,protocols_domestic
 723125,2006-01-01,1,protocols_domestic
 723254,2006-01-01,1,protocols_domestic
-723603,2006-01-01,1,protocols_domestic
 725058,2006-01-01,1,protocols_domestic
 725363,2006-01-01,1,protocols_domestic
 727008,2006-01-01,1,protocols_domestic
@@ -5746,7 +5740,6 @@ cik,date,value,component
 737000,2006-01-01,1,protocols_domestic
 737207,2006-01-01,1,protocols_domestic
 740761,2006-01-01,1,protocols_domestic
-742112,2006-01-01,1,protocols_domestic
 743532,2006-01-01,1,protocols_domestic
 744218,2006-01-01,1,protocols_domestic
 744962,2006-01-01,1,protocols_domestic
@@ -5800,6 +5793,7 @@ cik,date,value,component
 799088,2006-01-01,1,protocols_domestic
 799698,2006-01-01,1,protocols_domestic
 799729,2006-01-01,1,protocols_domestic
+800457,2006-01-01,1,protocols_domestic
 802724,2006-01-01,1,protocols_domestic
 804331,2006-01-01,1,protocols_domestic
 805264,2006-01-01,1,protocols_domestic
@@ -6074,7 +6068,6 @@ cik,date,value,component
 927417,2006-01-01,1,protocols_domestic
 927628,2006-01-01,1,protocols_domestic
 927761,2006-01-01,1,protocols_domestic
-927807,2006-01-01,1,protocols_domestic
 927829,2006-01-01,1,protocols_domestic
 928659,2006-01-01,1,protocols_domestic
 928753,2006-01-01,1,protocols_domestic
@@ -6325,7 +6318,6 @@ cik,date,value,component
 1071625,2006-01-01,1,protocols_domestic
 1071806,2006-01-01,1,protocols_domestic
 1072379,2006-01-01,1,protocols_domestic
-1072765,2006-01-01,1,protocols_domestic
 1073431,2006-01-01,1,protocols_domestic
 1076167,2006-01-01,1,protocols_domestic
 1076195,2006-01-01,1,protocols_domestic
@@ -6668,7 +6660,6 @@ cik,date,value,component
 1322739,2006-01-01,1,protocols_domestic
 1323468,2006-01-01,1,protocols_domestic
 1323531,2006-01-01,1,protocols_domestic
-1323543,2006-01-01,1,protocols_domestic
 1323630,2006-01-01,1,protocols_domestic
 1323739,2006-01-01,1,protocols_domestic
 1323891,2006-01-01,1,protocols_domestic
@@ -7180,6 +7171,7 @@ cik,date,value,component
 912728,2007-01-01,1,protocols_domestic
 912898,2007-01-01,1,protocols_domestic
 912908,2007-01-01,1,protocols_domestic
+913077,2007-01-01,1,protocols_domestic
 913142,2007-01-01,1,protocols_domestic
 913357,2007-01-01,1,protocols_domestic
 913665,2007-01-01,1,protocols_domestic
@@ -7360,7 +7352,6 @@ cik,date,value,component
 1042783,2007-01-01,1,protocols_domestic
 1042787,2007-01-01,1,protocols_domestic
 1043055,2007-01-01,1,protocols_domestic
-1043325,2007-01-01,1,protocols_domestic
 1043873,2007-01-01,1,protocols_domestic
 1043914,2007-01-01,1,protocols_domestic
 1043946,2007-01-01,1,protocols_domestic
@@ -7492,7 +7483,6 @@ cik,date,value,component
 1097396,2007-01-01,1,protocols_domestic
 1097864,2007-01-01,1,protocols_domestic
 1098315,2007-01-01,1,protocols_domestic
-1098690,2007-01-01,1,protocols_domestic
 1098972,2007-01-01,1,protocols_domestic
 1099215,2007-01-01,1,protocols_domestic
 1099219,2007-01-01,1,protocols_domestic
@@ -7671,7 +7661,9 @@ cik,date,value,component
 1266605,2007-01-01,1,protocols_domestic
 1266700,2007-01-01,1,protocols_domestic
 1267395,2007-01-01,1,protocols_domestic
+1269132,2007-01-01,1,protocols_domestic
 1269871,2007-01-01,1,protocols_domestic
+1270436,2007-01-01,1,protocols_domestic
 1270597,2007-01-01,1,protocols_domestic
 1271833,2007-01-01,1,protocols_domestic
 1271834,2007-01-01,1,protocols_domestic
@@ -7775,7 +7767,6 @@ cik,date,value,component
 1325946,2007-01-01,1,protocols_domestic
 1326190,2007-01-01,1,protocols_domestic
 1328571,2007-01-01,1,protocols_domestic
-1331451,2007-01-01,1,protocols_domestic
 1331745,2007-01-01,1,protocols_domestic
 1332741,2007-01-01,1,protocols_domestic
 1333142,2007-01-01,1,protocols_domestic
@@ -7811,6 +7802,7 @@ cik,date,value,component
 1360474,2007-01-01,1,protocols_domestic
 1360530,2007-01-01,1,protocols_domestic
 1360555,2007-01-01,1,protocols_domestic
+1361394,2007-01-01,1,protocols_domestic
 1361658,2007-01-01,1,protocols_domestic
 1361983,2007-01-01,1,protocols_domestic
 1362988,2007-01-01,1,protocols_domestic
@@ -7833,6 +7825,7 @@ cik,date,value,component
 1372041,2007-01-01,1,protocols_domestic
 1373179,2007-01-01,1,protocols_domestic
 1373671,2007-01-01,1,protocols_domestic
+1374535,2007-01-01,1,protocols_domestic
 1374993,2007-01-01,1,protocols_domestic
 1376610,2007-01-01,1,protocols_domestic
 1378026,2007-01-01,1,protocols_domestic
@@ -7972,9 +7965,7 @@ cik,date,value,component
 97745,2008-01-01,1,protocols_domestic
 99780,2008-01-01,1,protocols_domestic
 100493,2008-01-01,1,protocols_domestic
-100885,2008-01-01,1,protocols_domestic
 101199,2008-01-01,1,protocols_domestic
-101382,2008-01-01,1,protocols_domestic
 102037,2008-01-01,1,protocols_domestic
 103145,2008-01-01,1,protocols_domestic
 105319,2008-01-01,1,protocols_domestic
@@ -8039,7 +8030,6 @@ cik,date,value,component
 723125,2008-01-01,1,protocols_domestic
 723254,2008-01-01,1,protocols_domestic
 723458,2008-01-01,1,protocols_domestic
-724024,2008-01-01,1,protocols_domestic
 725058,2008-01-01,1,protocols_domestic
 725363,2008-01-01,1,protocols_domestic
 726601,2008-01-01,1,protocols_domestic
@@ -8048,7 +8038,6 @@ cik,date,value,component
 728391,2008-01-01,1,protocols_domestic
 729156,2008-01-01,1,protocols_domestic
 729922,2008-01-01,1,protocols_domestic
-730272,2008-01-01,1,protocols_domestic
 730464,2008-01-01,1,protocols_domestic
 730469,2008-01-01,1,protocols_domestic
 731657,2008-01-01,1,protocols_domestic
@@ -8245,6 +8234,7 @@ cik,date,value,component
 881524,2008-01-01,1,protocols_domestic
 881790,2008-01-01,1,protocols_domestic
 882095,2008-01-01,1,protocols_domestic
+882104,2008-01-01,1,protocols_domestic
 882509,2008-01-01,1,protocols_domestic
 882796,2008-01-01,1,protocols_domestic
 883975,2008-01-01,1,protocols_domestic
@@ -8335,10 +8325,10 @@ cik,date,value,component
 920371,2008-01-01,1,protocols_domestic
 920465,2008-01-01,1,protocols_domestic
 921506,2008-01-01,1,protocols_domestic
+921847,2008-01-01,1,protocols_domestic
 923603,2008-01-01,1,protocols_domestic
 923808,2008-01-01,1,protocols_domestic
 924168,2008-01-01,1,protocols_domestic
-924717,2008-01-01,1,protocols_domestic
 924901,2008-01-01,1,protocols_domestic
 925263,2008-01-01,1,protocols_domestic
 925266,2008-01-01,1,protocols_domestic
@@ -8469,6 +8459,7 @@ cik,date,value,component
 1034682,2008-01-01,1,protocols_domestic
 1034842,2008-01-01,1,protocols_domestic
 1035354,2008-01-01,1,protocols_domestic
+1035815,2008-01-01,1,protocols_domestic
 1035983,2008-01-01,1,protocols_domestic
 1036044,2008-01-01,1,protocols_domestic
 1036960,2008-01-01,1,protocols_domestic
@@ -8597,13 +8588,13 @@ cik,date,value,component
 1086740,2008-01-01,1,protocols_domestic
 1087432,2008-01-01,1,protocols_domestic
 1087717,2008-01-01,1,protocols_domestic
-1087934,2008-01-01,1,protocols_domestic
 1088856,2008-01-01,1,protocols_domestic
 1089638,2008-01-01,1,protocols_domestic
 1089748,2008-01-01,1,protocols_domestic
 1089819,2008-01-01,1,protocols_domestic
 1090012,2008-01-01,1,protocols_domestic
 1090514,2008-01-01,1,protocols_domestic
+1090872,2008-01-01,1,protocols_domestic
 1091164,2008-01-01,1,protocols_domestic
 1091667,2008-01-01,1,protocols_domestic
 1092006,2008-01-01,1,protocols_domestic
@@ -8635,11 +8626,13 @@ cik,date,value,component
 1100962,2008-01-01,1,protocols_domestic
 1100969,2008-01-01,1,protocols_domestic
 1101661,2008-01-01,1,protocols_domestic
+1103021,2008-01-01,1,protocols_domestic
 1103025,2008-01-01,1,protocols_domestic
 1103390,2008-01-01,1,protocols_domestic
 1103645,2008-01-01,1,protocols_domestic
 1104042,2008-01-01,1,protocols_domestic
 1104358,2008-01-01,1,protocols_domestic
+1104506,2008-01-01,1,protocols_domestic
 1104657,2008-01-01,1,protocols_domestic
 1104730,2008-01-01,1,protocols_domestic
 1105360,2008-01-01,1,protocols_domestic
@@ -8735,14 +8728,12 @@ cik,date,value,component
 1168335,2008-01-01,1,protocols_domestic
 1168652,2008-01-01,1,protocols_domestic
 1168696,2008-01-01,1,protocols_domestic
-1169567,2008-01-01,1,protocols_domestic
 1169684,2008-01-01,1,protocols_domestic
 1169749,2008-01-01,1,protocols_domestic
 1170593,2008-01-01,1,protocols_domestic
 1170991,2008-01-01,1,protocols_domestic
 1171529,2008-01-01,1,protocols_domestic
 1171825,2008-01-01,1,protocols_domestic
-1172136,2008-01-01,1,protocols_domestic
 1172480,2008-01-01,1,protocols_domestic
 1173284,2008-01-01,1,protocols_domestic
 1173463,2008-01-01,1,protocols_domestic
@@ -8784,6 +8775,7 @@ cik,date,value,component
 1232524,2008-01-01,1,protocols_domestic
 1234383,2008-01-01,1,protocols_domestic
 1235468,2008-01-01,1,protocols_domestic
+1239819,2008-01-01,1,protocols_domestic
 1250873,2008-01-01,1,protocols_domestic
 1253986,2008-01-01,1,protocols_domestic
 1254419,2008-01-01,1,protocols_domestic
@@ -8891,6 +8883,7 @@ cik,date,value,component
 1320461,2008-01-01,1,protocols_domestic
 1320760,2008-01-01,1,protocols_domestic
 1320934,2008-01-01,1,protocols_domestic
+1321559,2008-01-01,1,protocols_domestic
 1321730,2008-01-01,1,protocols_domestic
 1322705,2008-01-01,1,protocols_domestic
 1322729,2008-01-01,1,protocols_domestic
@@ -9064,7 +9057,6 @@ cik,date,value,component
 3153,2009-01-01,1,protocols_domestic
 3982,2009-01-01,1,protocols_domestic
 4127,2009-01-01,1,protocols_domestic
-4962,2009-01-01,1,protocols_domestic
 5187,2009-01-01,1,protocols_domestic
 5513,2009-01-01,1,protocols_domestic
 6314,2009-01-01,1,protocols_domestic
@@ -9125,6 +9117,7 @@ cik,date,value,component
 52428,2009-01-01,1,protocols_domestic
 53456,2009-01-01,1,protocols_domestic
 54991,2009-01-01,1,protocols_domestic
+55067,2009-01-01,1,protocols_domestic
 56873,2009-01-01,1,protocols_domestic
 58492,2009-01-01,1,protocols_domestic
 59440,2009-01-01,1,protocols_domestic
@@ -9177,6 +9170,7 @@ cik,date,value,component
 92230,2009-01-01,1,protocols_domestic
 93389,2009-01-01,1,protocols_domestic
 93451,2009-01-01,1,protocols_domestic
+93751,2009-01-01,1,protocols_domestic
 94784,2009-01-01,1,protocols_domestic
 94845,2009-01-01,1,protocols_domestic
 95302,2009-01-01,1,protocols_domestic
@@ -9193,6 +9187,7 @@ cik,date,value,component
 103145,2009-01-01,1,protocols_domestic
 105319,2009-01-01,1,protocols_domestic
 106535,2009-01-01,1,protocols_domestic
+106618,2009-01-01,1,protocols_domestic
 107140,2009-01-01,1,protocols_domestic
 107833,2009-01-01,1,protocols_domestic
 108312,2009-01-01,1,protocols_domestic
@@ -9200,7 +9195,6 @@ cik,date,value,component
 109657,2009-01-01,1,protocols_domestic
 200406,2009-01-01,1,protocols_domestic
 201461,2009-01-01,1,protocols_domestic
-205695,2009-01-01,1,protocols_domestic
 276283,2009-01-01,1,protocols_domestic
 310158,2009-01-01,1,protocols_domestic
 310522,2009-01-01,1,protocols_domestic
@@ -9277,7 +9271,6 @@ cik,date,value,component
 728391,2009-01-01,1,protocols_domestic
 729156,2009-01-01,1,protocols_domestic
 729922,2009-01-01,1,protocols_domestic
-730272,2009-01-01,1,protocols_domestic
 731657,2009-01-01,1,protocols_domestic
 735993,2009-01-01,1,protocols_domestic
 737207,2009-01-01,1,protocols_domestic
@@ -9318,7 +9311,6 @@ cik,date,value,component
 788920,2009-01-01,1,protocols_domestic
 789944,2009-01-01,1,protocols_domestic
 790652,2009-01-01,1,protocols_domestic
-791519,2009-01-01,1,protocols_domestic
 791908,2009-01-01,1,protocols_domestic
 792977,2009-01-01,1,protocols_domestic
 793043,2009-01-01,1,protocols_domestic
@@ -9362,7 +9354,6 @@ cik,date,value,component
 814361,2009-01-01,1,protocols_domestic
 814904,2009-01-01,1,protocols_domestic
 815097,2009-01-01,1,protocols_domestic
-815838,2009-01-01,1,protocols_domestic
 816284,2009-01-01,1,protocols_domestic
 816956,2009-01-01,1,protocols_domestic
 817720,2009-01-01,1,protocols_domestic
@@ -9383,7 +9374,6 @@ cik,date,value,component
 824410,2009-01-01,1,protocols_domestic
 827054,2009-01-01,1,protocols_domestic
 827187,2009-01-01,1,protocols_domestic
-827809,2009-01-01,1,protocols_domestic
 828944,2009-01-01,1,protocols_domestic
 830524,2009-01-01,1,protocols_domestic
 831259,2009-01-01,1,protocols_domestic
@@ -9394,7 +9384,6 @@ cik,date,value,component
 835887,2009-01-01,1,protocols_domestic
 835955,2009-01-01,1,protocols_domestic
 836429,2009-01-01,1,protocols_domestic
-838879,2009-01-01,1,protocols_domestic
 839441,2009-01-01,1,protocols_domestic
 842162,2009-01-01,1,protocols_domestic
 843368,2009-01-01,1,protocols_domestic
@@ -9458,7 +9447,6 @@ cik,date,value,component
 880584,2009-01-01,1,protocols_domestic
 880643,2009-01-01,1,protocols_domestic
 880771,2009-01-01,1,protocols_domestic
-880804,2009-01-01,1,protocols_domestic
 880807,2009-01-01,1,protocols_domestic
 881464,2009-01-01,1,protocols_domestic
 881524,2009-01-01,1,protocols_domestic
@@ -9538,7 +9526,6 @@ cik,date,value,component
 916075,2009-01-01,1,protocols_domestic
 916076,2009-01-01,1,protocols_domestic
 916457,2009-01-01,1,protocols_domestic
-916789,2009-01-01,1,protocols_domestic
 916863,2009-01-01,1,protocols_domestic
 917032,2009-01-01,1,protocols_domestic
 917520,2009-01-01,1,protocols_domestic
@@ -9725,6 +9712,7 @@ cik,date,value,component
 1048477,2009-01-01,1,protocols_domestic
 1048911,2009-01-01,1,protocols_domestic
 1049210,2009-01-01,1,protocols_domestic
+1049505,2009-01-01,1,protocols_domestic
 1050441,2009-01-01,1,protocols_domestic
 1051379,2009-01-01,1,protocols_domestic
 1051627,2009-01-01,1,protocols_domestic
@@ -9770,7 +9758,6 @@ cik,date,value,component
 1063698,2009-01-01,1,protocols_domestic
 1063699,2009-01-01,1,protocols_domestic
 1064728,2009-01-01,1,protocols_domestic
-1065059,2009-01-01,1,protocols_domestic
 1065087,2009-01-01,1,protocols_domestic
 1065088,2009-01-01,1,protocols_domestic
 1065332,2009-01-01,1,protocols_domestic
@@ -9827,6 +9814,7 @@ cik,date,value,component
 1090514,2009-01-01,1,protocols_domestic
 1090872,2009-01-01,1,protocols_domestic
 1091164,2009-01-01,1,protocols_domestic
+1091312,2009-01-01,1,protocols_domestic
 1091667,2009-01-01,1,protocols_domestic
 1092302,2009-01-01,1,protocols_domestic
 1092796,2009-01-01,1,protocols_domestic
@@ -9960,7 +9948,6 @@ cik,date,value,component
 1162461,2009-01-01,1,protocols_domestic
 1163302,2009-01-01,1,protocols_domestic
 1163609,2009-01-01,1,protocols_domestic
-1164863,2009-01-01,1,protocols_domestic
 1164964,2009-01-01,1,protocols_domestic
 1166291,2009-01-01,1,protocols_domestic
 1166389,2009-01-01,1,protocols_domestic
@@ -10064,6 +10051,7 @@ cik,date,value,component
 1274494,2009-01-01,1,protocols_domestic
 1274563,2009-01-01,1,protocols_domestic
 1274913,2009-01-01,1,protocols_domestic
+1275211,2009-01-01,1,protocols_domestic
 1275283,2009-01-01,1,protocols_domestic
 1277092,2009-01-01,1,protocols_domestic
 1277270,2009-01-01,1,protocols_domestic
@@ -10113,6 +10101,7 @@ cik,date,value,component
 1303849,2009-01-01,1,protocols_domestic
 1305014,2009-01-01,1,protocols_domestic
 1306755,2009-01-01,1,protocols_domestic
+1306830,2009-01-01,1,protocols_domestic
 1307425,2009-01-01,1,protocols_domestic
 1307752,2009-01-01,1,protocols_domestic
 1307954,2009-01-01,1,protocols_domestic
@@ -10132,6 +10121,7 @@ cik,date,value,component
 1314102,2009-01-01,1,protocols_domestic
 1315257,2009-01-01,1,protocols_domestic
 1315695,2009-01-01,1,protocols_domestic
+1316631,2009-01-01,1,protocols_domestic
 1316835,2009-01-01,1,protocols_domestic
 1317436,2009-01-01,1,protocols_domestic
 1317838,2009-01-01,1,protocols_domestic
@@ -10145,6 +10135,7 @@ cik,date,value,component
 1320767,2009-01-01,1,protocols_domestic
 1320934,2009-01-01,1,protocols_domestic
 1321517,2009-01-01,1,protocols_domestic
+1321559,2009-01-01,1,protocols_domestic
 1321730,2009-01-01,1,protocols_domestic
 1322439,2009-01-01,1,protocols_domestic
 1322705,2009-01-01,1,protocols_domestic
@@ -10384,6 +10375,7 @@ cik,date,value,component
 1452899,2009-01-01,1,protocols_domestic
 1459450,2009-01-01,1,protocols_domestic
 1800,2010-01-01,1,protocols_domestic
+2034,2010-01-01,1,protocols_domestic
 2601,2010-01-01,1,protocols_domestic
 2969,2010-01-01,1,protocols_domestic
 3146,2010-01-01,1,protocols_domestic
@@ -10455,7 +10447,6 @@ cik,date,value,component
 60714,2010-01-01,1,protocols_domestic
 60751,2010-01-01,1,protocols_domestic
 62709,2010-01-01,1,protocols_domestic
-62996,2010-01-01,1,protocols_domestic
 63754,2010-01-01,1,protocols_domestic
 64040,2010-01-01,1,protocols_domestic
 64978,2010-01-01,1,protocols_domestic
@@ -10564,6 +10555,7 @@ cik,date,value,component
 720154,2010-01-01,1,protocols_domestic
 720672,2010-01-01,1,protocols_domestic
 722077,2010-01-01,1,protocols_domestic
+722079,2010-01-01,1,protocols_domestic
 722830,2010-01-01,1,protocols_domestic
 723125,2010-01-01,1,protocols_domestic
 723458,2010-01-01,1,protocols_domestic
@@ -10600,6 +10592,7 @@ cik,date,value,component
 755806,2010-01-01,1,protocols_domestic
 757011,2010-01-01,1,protocols_domestic
 763846,2010-01-01,1,protocols_domestic
+764038,2010-01-01,1,protocols_domestic
 764241,2010-01-01,1,protocols_domestic
 764897,2010-01-01,1,protocols_domestic
 765880,2010-01-01,1,protocols_domestic
@@ -10837,6 +10830,7 @@ cik,date,value,component
 921313,2010-01-01,1,protocols_domestic
 921847,2010-01-01,1,protocols_domestic
 923808,2010-01-01,1,protocols_domestic
+924168,2010-01-01,1,protocols_domestic
 924717,2010-01-01,1,protocols_domestic
 924901,2010-01-01,1,protocols_domestic
 925263,2010-01-01,1,protocols_domestic
@@ -10861,6 +10855,7 @@ cik,date,value,component
 934936,2010-01-01,1,protocols_domestic
 935036,2010-01-01,1,protocols_domestic
 935703,2010-01-01,1,protocols_domestic
+936395,2010-01-01,1,protocols_domestic
 936402,2010-01-01,1,protocols_domestic
 937556,2010-01-01,1,protocols_domestic
 937941,2010-01-01,1,protocols_domestic
@@ -10884,6 +10879,7 @@ cik,date,value,component
 1001233,2010-01-01,1,protocols_domestic
 1001250,2010-01-01,1,protocols_domestic
 1001463,2010-01-01,1,protocols_domestic
+1001606,2010-01-01,1,protocols_domestic
 1002037,2010-01-01,1,protocols_domestic
 1002422,2010-01-01,1,protocols_domestic
 1002519,2010-01-01,1,protocols_domestic
@@ -10964,6 +10960,7 @@ cik,date,value,component
 1041061,2010-01-01,1,protocols_domestic
 1042173,2010-01-01,1,protocols_domestic
 1042463,2010-01-01,1,protocols_domestic
+1042728,2010-01-01,1,protocols_domestic
 1042825,2010-01-01,1,protocols_domestic
 1043325,2010-01-01,1,protocols_domestic
 1043873,2010-01-01,1,protocols_domestic
@@ -11020,6 +11017,7 @@ cik,date,value,component
 1060822,2010-01-01,1,protocols_domestic
 1060990,2010-01-01,1,protocols_domestic
 1061027,2010-01-01,1,protocols_domestic
+1061630,2010-01-01,1,protocols_domestic
 1061983,2010-01-01,1,protocols_domestic
 1062438,2010-01-01,1,protocols_domestic
 1062624,2010-01-01,1,protocols_domestic
@@ -11135,7 +11133,6 @@ cik,date,value,component
 1104502,2010-01-01,1,protocols_domestic
 1104506,2010-01-01,1,protocols_domestic
 1106644,2010-01-01,1,protocols_domestic
-1106645,2010-01-01,1,protocols_domestic
 1107332,2010-01-01,1,protocols_domestic
 1107421,2010-01-01,1,protocols_domestic
 1108205,2010-01-01,1,protocols_domestic
@@ -11185,7 +11182,6 @@ cik,date,value,component
 1138118,2010-01-01,1,protocols_domestic
 1138400,2010-01-01,1,protocols_domestic
 1139463,2010-01-01,1,protocols_domestic
-1139950,2010-01-01,1,protocols_domestic
 1140028,2010-01-01,1,protocols_domestic
 1140184,2010-01-01,1,protocols_domestic
 1140536,2010-01-01,1,protocols_domestic
@@ -11251,7 +11247,6 @@ cik,date,value,component
 1178670,2010-01-01,1,protocols_domestic
 1178879,2010-01-01,1,protocols_domestic
 1179929,2010-01-01,1,protocols_domestic
-1180262,2010-01-01,1,protocols_domestic
 1180743,2010-01-01,1,protocols_domestic
 1181749,2010-01-01,1,protocols_domestic
 1183186,2010-01-01,1,protocols_domestic
@@ -11543,6 +11538,7 @@ cik,date,value,component
 1401475,2010-01-01,1,protocols_domestic
 1401923,2010-01-01,1,protocols_domestic
 1402159,2010-01-01,1,protocols_domestic
+1403256,2010-01-01,1,protocols_domestic
 1403431,2010-01-01,1,protocols_domestic
 1405197,2010-01-01,1,protocols_domestic
 1405287,2010-01-01,1,protocols_domestic
@@ -11660,7 +11656,6 @@ cik,date,value,component
 2034,2011-01-01,1,protocols_domestic
 2969,2011-01-01,1,protocols_domestic
 3146,2011-01-01,1,protocols_domestic
-4127,2011-01-01,1,protocols_domestic
 4962,2011-01-01,1,protocols_domestic
 5513,2011-01-01,1,protocols_domestic
 5981,2011-01-01,1,protocols_domestic
@@ -11824,7 +11819,6 @@ cik,date,value,component
 704532,2011-01-01,1,protocols_domestic
 704562,2011-01-01,1,protocols_domestic
 706688,2011-01-01,1,protocols_domestic
-707511,2011-01-01,1,protocols_domestic
 709942,2011-01-01,1,protocols_domestic
 711377,2011-01-01,1,protocols_domestic
 711665,2011-01-01,1,protocols_domestic
@@ -11883,8 +11877,6 @@ cik,date,value,component
 776008,2011-01-01,1,protocols_domestic
 778972,2011-01-01,1,protocols_domestic
 779152,2011-01-01,1,protocols_domestic
-781891,2011-01-01,1,protocols_domestic
-783324,2011-01-01,1,protocols_domestic
 784011,2011-01-01,1,protocols_domestic
 787253,2011-01-01,1,protocols_domestic
 788816,2011-01-01,1,protocols_domestic
@@ -11936,6 +11928,7 @@ cik,date,value,component
 820027,2011-01-01,1,protocols_domestic
 820318,2011-01-01,1,protocols_domestic
 822370,2011-01-01,1,protocols_domestic
+822411,2011-01-01,1,protocols_domestic
 822418,2011-01-01,1,protocols_domestic
 823544,2011-01-01,1,protocols_domestic
 823876,2011-01-01,1,protocols_domestic
@@ -12009,6 +12002,7 @@ cik,date,value,component
 876343,2011-01-01,1,protocols_domestic
 876437,2011-01-01,1,protocols_domestic
 878088,2011-01-01,1,protocols_domestic
+878375,2011-01-01,1,protocols_domestic
 878616,2011-01-01,1,protocols_domestic
 879169,2011-01-01,1,protocols_domestic
 879407,2011-01-01,1,protocols_domestic
@@ -12056,7 +12050,6 @@ cik,date,value,component
 892160,2011-01-01,1,protocols_domestic
 892537,2011-01-01,1,protocols_domestic
 894158,2011-01-01,1,protocols_domestic
-895051,2011-01-01,1,protocols_domestic
 895456,2011-01-01,1,protocols_domestic
 895464,2011-01-01,1,protocols_domestic
 895665,2011-01-01,1,protocols_domestic
@@ -12335,12 +12328,12 @@ cik,date,value,component
 1083459,2011-01-01,1,protocols_domestic
 1083706,2011-01-01,1,protocols_domestic
 1085277,2011-01-01,1,protocols_domestic
-1087294,2011-01-01,1,protocols_domestic
 1087432,2011-01-01,1,protocols_domestic
 1088034,2011-01-01,1,protocols_domestic
 1088206,2011-01-01,1,protocols_domestic
 1088856,2011-01-01,1,protocols_domestic
 1089531,2011-01-01,1,protocols_domestic
+1089638,2011-01-01,1,protocols_domestic
 1089748,2011-01-01,1,protocols_domestic
 1090425,2011-01-01,1,protocols_domestic
 1090967,2011-01-01,1,protocols_domestic
@@ -12464,7 +12457,6 @@ cik,date,value,component
 1157075,2011-01-01,1,protocols_domestic
 1157601,2011-01-01,1,protocols_domestic
 1157762,2011-01-01,1,protocols_domestic
-1157780,2011-01-01,1,protocols_domestic
 1158223,2011-01-01,1,protocols_domestic
 1159036,2011-01-01,1,protocols_domestic
 1159275,2011-01-01,1,protocols_domestic
@@ -12538,9 +12530,9 @@ cik,date,value,component
 1229146,2011-01-01,1,protocols_domestic
 1235007,2011-01-01,1,protocols_domestic
 1235010,2011-01-01,1,protocols_domestic
+1235468,2011-01-01,1,protocols_domestic
 1251769,2011-01-01,1,protocols_domestic
 1253710,2011-01-01,1,protocols_domestic
-1253986,2011-01-01,1,protocols_domestic
 1257640,2011-01-01,1,protocols_domestic
 1259550,2011-01-01,1,protocols_domestic
 1260990,2011-01-01,1,protocols_domestic
@@ -12616,6 +12608,7 @@ cik,date,value,component
 1318008,2011-01-01,1,protocols_domestic
 1318568,2011-01-01,1,protocols_domestic
 1318641,2011-01-01,1,protocols_domestic
+1319009,2011-01-01,1,protocols_domestic
 1319161,2011-01-01,1,protocols_domestic
 1319229,2011-01-01,1,protocols_domestic
 1319947,2011-01-01,1,protocols_domestic
@@ -12699,11 +12692,11 @@ cik,date,value,component
 1361394,2011-01-01,1,protocols_domestic
 1361937,2011-01-01,1,protocols_domestic
 1362703,2011-01-01,1,protocols_domestic
-1362718,2011-01-01,1,protocols_domestic
 1363573,2011-01-01,1,protocols_domestic
 1363851,2011-01-01,1,protocols_domestic
 1364479,2011-01-01,1,protocols_domestic
 1364742,2011-01-01,1,protocols_domestic
+1365216,2011-01-01,1,protocols_domestic
 1365916,2011-01-01,1,protocols_domestic
 1366744,2011-01-01,1,protocols_domestic
 1366868,2011-01-01,1,protocols_domestic
@@ -12826,6 +12819,7 @@ cik,date,value,component
 1422183,2011-01-01,1,protocols_domestic
 1422862,2011-01-01,1,protocols_domestic
 1423221,2011-01-01,1,protocols_domestic
+1423586,2011-01-01,1,protocols_domestic
 1424657,2011-01-01,1,protocols_domestic
 1424844,2011-01-01,1,protocols_domestic
 1424847,2011-01-01,1,protocols_domestic
@@ -12851,6 +12845,7 @@ cik,date,value,component
 1438095,2011-01-01,1,protocols_domestic
 1439434,2011-01-01,1,protocols_domestic
 1441567,2011-01-01,1,protocols_domestic
+1441634,2011-01-01,1,protocols_domestic
 1441849,2011-01-01,1,protocols_domestic
 1442145,2011-01-01,1,protocols_domestic
 1443242,2011-01-01,1,protocols_domestic
@@ -12956,7 +12951,7 @@ cik,date,value,component
 18172,2012-01-01,1,protocols_domestic
 18926,2012-01-01,1,protocols_domestic
 20286,2012-01-01,1,protocols_domestic
-22356,2012-01-01,1,protocols_domestic
+21344,2012-01-01,1,protocols_domestic
 22767,2012-01-01,1,protocols_domestic
 23111,2012-01-01,1,protocols_domestic
 23666,2012-01-01,1,protocols_domestic
@@ -12976,11 +12971,11 @@ cik,date,value,component
 37808,2012-01-01,1,protocols_domestic
 38074,2012-01-01,1,protocols_domestic
 40704,2012-01-01,1,protocols_domestic
-42542,2012-01-01,1,protocols_domestic
 42582,2012-01-01,1,protocols_domestic
 43196,2012-01-01,1,protocols_domestic
 46080,2012-01-01,1,protocols_domestic
 46207,2012-01-01,1,protocols_domestic
+46619,2012-01-01,1,protocols_domestic
 47111,2012-01-01,1,protocols_domestic
 47129,2012-01-01,1,protocols_domestic
 47217,2012-01-01,1,protocols_domestic
@@ -13062,6 +13057,7 @@ cik,date,value,component
 314606,2012-01-01,1,protocols_domestic
 315189,2012-01-01,1,protocols_domestic
 315213,2012-01-01,1,protocols_domestic
+315849,2012-01-01,1,protocols_domestic
 316253,2012-01-01,1,protocols_domestic
 316709,2012-01-01,1,protocols_domestic
 318154,2012-01-01,1,protocols_domestic
@@ -13116,9 +13112,11 @@ cik,date,value,component
 731657,2012-01-01,1,protocols_domestic
 732412,2012-01-01,1,protocols_domestic
 737207,2012-01-01,1,protocols_domestic
+740663,2012-01-01,1,protocols_domestic
 742112,2012-01-01,1,protocols_domestic
 746598,2012-01-01,1,protocols_domestic
 748015,2012-01-01,1,protocols_domestic
+749647,2012-01-01,1,protocols_domestic
 749660,2012-01-01,1,protocols_domestic
 750004,2012-01-01,1,protocols_domestic
 751652,2012-01-01,1,protocols_domestic
@@ -13411,6 +13409,7 @@ cik,date,value,component
 1023131,2012-01-01,1,protocols_domestic
 1023362,2012-01-01,1,protocols_domestic
 1024657,2012-01-01,1,protocols_domestic
+1024729,2012-01-01,1,protocols_domestic
 1024732,2012-01-01,1,protocols_domestic
 1026650,2012-01-01,1,protocols_domestic
 1026655,2012-01-01,1,protocols_domestic
@@ -13532,7 +13531,6 @@ cik,date,value,component
 1090425,2012-01-01,1,protocols_domestic
 1090967,2012-01-01,1,protocols_domestic
 1091491,2012-01-01,1,protocols_domestic
-1091667,2012-01-01,1,protocols_domestic
 1091862,2012-01-01,1,protocols_domestic
 1092796,2012-01-01,1,protocols_domestic
 1092914,2012-01-01,1,protocols_domestic
@@ -13589,7 +13587,6 @@ cik,date,value,component
 1118037,2012-01-01,1,protocols_domestic
 1119643,2012-01-01,1,protocols_domestic
 1120096,2012-01-01,1,protocols_domestic
-1121702,2012-01-01,1,protocols_domestic
 1121901,2012-01-01,1,protocols_domestic
 1122108,2012-01-01,1,protocols_domestic
 1122976,2012-01-01,1,protocols_domestic
@@ -13622,7 +13619,6 @@ cik,date,value,component
 1138118,2012-01-01,1,protocols_domestic
 1138776,2012-01-01,1,protocols_domestic
 1138830,2012-01-01,1,protocols_domestic
-1140028,2012-01-01,1,protocols_domestic
 1140184,2012-01-01,1,protocols_domestic
 1141103,2012-01-01,1,protocols_domestic
 1141982,2012-01-01,1,protocols_domestic
@@ -13660,7 +13656,7 @@ cik,date,value,component
 1167419,2012-01-01,1,protocols_domestic
 1168081,2012-01-01,1,protocols_domestic
 1168220,2012-01-01,1,protocols_domestic
-1168696,2012-01-01,1,protocols_domestic
+1169567,2012-01-01,1,protocols_domestic
 1169988,2012-01-01,1,protocols_domestic
 1170991,2012-01-01,1,protocols_domestic
 1171298,2012-01-01,1,protocols_domestic
@@ -13680,7 +13676,6 @@ cik,date,value,component
 1178879,2012-01-01,1,protocols_domestic
 1179929,2012-01-01,1,protocols_domestic
 1180262,2012-01-01,1,protocols_domestic
-1181749,2012-01-01,1,protocols_domestic
 1182129,2012-01-01,1,protocols_domestic
 1183765,2012-01-01,1,protocols_domestic
 1185348,2012-01-01,1,protocols_domestic
@@ -13931,7 +13926,6 @@ cik,date,value,component
 1393726,2012-01-01,1,protocols_domestic
 1394069,2012-01-01,1,protocols_domestic
 1394954,2012-01-01,1,protocols_domestic
-1395942,2012-01-01,1,protocols_domestic
 1396009,2012-01-01,1,protocols_domestic
 1396838,2012-01-01,1,protocols_domestic
 1397187,2012-01-01,1,protocols_domestic
@@ -14067,6 +14061,7 @@ cik,date,value,component
 1465264,2012-01-01,1,protocols_domestic
 1466301,2012-01-01,1,protocols_domestic
 1466593,2012-01-01,1,protocols_domestic
+1468328,2012-01-01,1,protocols_domestic
 1469433,2012-01-01,1,protocols_domestic
 1469559,2012-01-01,1,protocols_domestic
 1471261,2012-01-01,1,protocols_domestic
@@ -14137,13 +14132,11 @@ cik,date,value,component
 1513403,2012-01-01,1,protocols_domestic
 1514443,2012-01-01,1,protocols_domestic
 1514705,2012-01-01,1,protocols_domestic
-1515382,2012-01-01,1,protocols_domestic
 1515740,2012-01-01,1,protocols_domestic
 1517681,2012-01-01,1,protocols_domestic
 1517687,2012-01-01,1,protocols_domestic
 1518222,2012-01-01,1,protocols_domestic
 1519120,2012-01-01,1,protocols_domestic
-1520697,2012-01-01,1,protocols_domestic
 1521476,2012-01-01,1,protocols_domestic
 1522724,2012-01-01,1,protocols_domestic
 1522787,2012-01-01,1,protocols_domestic
@@ -14161,7 +14154,6 @@ cik,date,value,component
 1537048,2012-01-01,1,protocols_domestic
 1546640,2012-01-01,1,protocols_domestic
 1547459,2012-01-01,1,protocols_domestic
-1750,2013-01-01,1,protocols_domestic
 1800,2013-01-01,1,protocols_domestic
 2491,2013-01-01,1,protocols_domestic
 2969,2013-01-01,1,protocols_domestic
@@ -14250,7 +14242,6 @@ cik,date,value,component
 75208,2013-01-01,1,protocols_domestic
 76063,2013-01-01,1,protocols_domestic
 76605,2013-01-01,1,protocols_domestic
-77877,2013-01-01,1,protocols_domestic
 78003,2013-01-01,1,protocols_domestic
 78128,2013-01-01,1,protocols_domestic
 78311,2013-01-01,1,protocols_domestic
@@ -14269,6 +14260,7 @@ cik,date,value,component
 92122,2013-01-01,1,protocols_domestic
 92230,2013-01-01,1,protocols_domestic
 93389,2013-01-01,1,protocols_domestic
+93751,2013-01-01,1,protocols_domestic
 94845,2013-01-01,1,protocols_domestic
 95572,2013-01-01,1,protocols_domestic
 96021,2013-01-01,1,protocols_domestic
@@ -14304,7 +14296,6 @@ cik,date,value,component
 315189,2013-01-01,1,protocols_domestic
 315213,2013-01-01,1,protocols_domestic
 315849,2013-01-01,1,protocols_domestic
-315852,2013-01-01,1,protocols_domestic
 316253,2013-01-01,1,protocols_domestic
 316300,2013-01-01,1,protocols_domestic
 316709,2013-01-01,1,protocols_domestic
@@ -14499,6 +14490,7 @@ cik,date,value,component
 882796,2013-01-01,1,protocols_domestic
 883902,2013-01-01,1,protocols_domestic
 883975,2013-01-01,1,protocols_domestic
+884219,2013-01-01,1,protocols_domestic
 884624,2013-01-01,1,protocols_domestic
 884887,2013-01-01,1,protocols_domestic
 885322,2013-01-01,1,protocols_domestic
@@ -14670,6 +14662,7 @@ cik,date,value,component
 1038357,2013-01-01,1,protocols_domestic
 1039101,2013-01-01,1,protocols_domestic
 1041024,2013-01-01,1,protocols_domestic
+1041061,2013-01-01,1,protocols_domestic
 1042783,2013-01-01,1,protocols_domestic
 1043961,2013-01-01,1,protocols_domestic
 1044435,2013-01-01,1,protocols_domestic
@@ -14703,7 +14696,6 @@ cik,date,value,component
 1056239,2013-01-01,1,protocols_domestic
 1056358,2013-01-01,1,protocols_domestic
 1056386,2013-01-01,1,protocols_domestic
-1056696,2013-01-01,1,protocols_domestic
 1057436,2013-01-01,1,protocols_domestic
 1057689,2013-01-01,1,protocols_domestic
 1059562,2013-01-01,1,protocols_domestic
@@ -14916,6 +14908,7 @@ cik,date,value,component
 1235007,2013-01-01,1,protocols_domestic
 1235010,2013-01-01,1,protocols_domestic
 1235468,2013-01-01,1,protocols_domestic
+1251769,2013-01-01,1,protocols_domestic
 1253557,2013-01-01,1,protocols_domestic
 1253986,2013-01-01,1,protocols_domestic
 1257640,2013-01-01,1,protocols_domestic
@@ -15069,6 +15062,7 @@ cik,date,value,component
 1362502,2013-01-01,1,protocols_domestic
 1362516,2013-01-01,1,protocols_domestic
 1362718,2013-01-01,1,protocols_domestic
+1363573,2013-01-01,1,protocols_domestic
 1364479,2013-01-01,1,protocols_domestic
 1364541,2013-01-01,1,protocols_domestic
 1364652,2013-01-01,1,protocols_domestic
@@ -15192,7 +15186,6 @@ cik,date,value,component
 1421561,2013-01-01,1,protocols_domestic
 1423221,2013-01-01,1,protocols_domestic
 1424812,2013-01-01,1,protocols_domestic
-1424844,2013-01-01,1,protocols_domestic
 1424847,2013-01-01,1,protocols_domestic
 1425205,2013-01-01,1,protocols_domestic
 1425264,2013-01-01,1,protocols_domestic
@@ -15409,7 +15402,6 @@ cik,date,value,component
 11199,2014-01-01,1,protocols_domestic
 14272,2014-01-01,1,protocols_domestic
 14693,2014-01-01,1,protocols_domestic
-14707,2014-01-01,1,protocols_domestic
 18926,2014-01-01,1,protocols_domestic
 19584,2014-01-01,1,protocols_domestic
 20286,2014-01-01,1,protocols_domestic
@@ -15427,6 +15419,7 @@ cik,date,value,component
 32166,2014-01-01,1,protocols_domestic
 33213,2014-01-01,1,protocols_domestic
 33769,2014-01-01,1,protocols_domestic
+34088,2014-01-01,1,protocols_domestic
 34956,2014-01-01,1,protocols_domestic
 35527,2014-01-01,1,protocols_domestic
 36270,2014-01-01,1,protocols_domestic
@@ -15473,7 +15466,6 @@ cik,date,value,component
 73124,2014-01-01,1,protocols_domestic
 75208,2014-01-01,1,protocols_domestic
 76063,2014-01-01,1,protocols_domestic
-77776,2014-01-01,1,protocols_domestic
 77877,2014-01-01,1,protocols_domestic
 78003,2014-01-01,1,protocols_domestic
 78100,2014-01-01,1,protocols_domestic
@@ -15496,6 +15488,7 @@ cik,date,value,component
 91576,2014-01-01,1,protocols_domestic
 92122,2014-01-01,1,protocols_domestic
 92230,2014-01-01,1,protocols_domestic
+93389,2014-01-01,1,protocols_domestic
 93751,2014-01-01,1,protocols_domestic
 94845,2014-01-01,1,protocols_domestic
 95052,2014-01-01,1,protocols_domestic
@@ -15605,7 +15598,6 @@ cik,date,value,component
 788816,2014-01-01,1,protocols_domestic
 788920,2014-01-01,1,protocols_domestic
 790070,2014-01-01,1,protocols_domestic
-791908,2014-01-01,1,protocols_domestic
 792641,2014-01-01,1,protocols_domestic
 793547,2014-01-01,1,protocols_domestic
 794172,2014-01-01,1,protocols_domestic
@@ -15616,6 +15608,7 @@ cik,date,value,component
 802257,2014-01-01,1,protocols_domestic
 802724,2014-01-01,1,protocols_domestic
 803647,2014-01-01,1,protocols_domestic
+804753,2014-01-01,1,protocols_domestic
 805264,2014-01-01,1,protocols_domestic
 805326,2014-01-01,1,protocols_domestic
 805676,2014-01-01,1,protocols_domestic
@@ -15802,7 +15795,6 @@ cik,date,value,component
 927066,2014-01-01,1,protocols_domestic
 927417,2014-01-01,1,protocols_domestic
 927761,2014-01-01,1,protocols_domestic
-929008,2014-01-01,1,protocols_domestic
 931148,2014-01-01,1,protocols_domestic
 932372,2014-01-01,1,protocols_domestic
 933974,2014-01-01,1,protocols_domestic
@@ -15814,7 +15806,6 @@ cik,date,value,component
 939767,2014-01-01,1,protocols_domestic
 940332,2014-01-01,1,protocols_domestic
 941138,2014-01-01,1,protocols_domestic
-941685,2014-01-01,1,protocols_domestic
 943861,2014-01-01,1,protocols_domestic
 944809,2014-01-01,1,protocols_domestic
 945436,2014-01-01,1,protocols_domestic
@@ -15890,7 +15881,6 @@ cik,date,value,component
 1040719,2014-01-01,1,protocols_domestic
 1041024,2014-01-01,1,protocols_domestic
 1041061,2014-01-01,1,protocols_domestic
-1041177,2014-01-01,1,protocols_domestic
 1042074,2014-01-01,1,protocols_domestic
 1042418,2014-01-01,1,protocols_domestic
 1042783,2014-01-01,1,protocols_domestic
@@ -15970,13 +15960,13 @@ cik,date,value,component
 1082754,2014-01-01,1,protocols_domestic
 1084226,2014-01-01,1,protocols_domestic
 1084332,2014-01-01,1,protocols_domestic
-1084961,2014-01-01,1,protocols_domestic
 1087294,2014-01-01,1,protocols_domestic
 1087432,2014-01-01,1,protocols_domestic
 1088034,2014-01-01,1,protocols_domestic
 1088825,2014-01-01,1,protocols_domestic
 1088856,2014-01-01,1,protocols_domestic
 1089531,2014-01-01,1,protocols_domestic
+1089748,2014-01-01,1,protocols_domestic
 1090425,2014-01-01,1,protocols_domestic
 1090727,2014-01-01,1,protocols_domestic
 1091325,2014-01-01,1,protocols_domestic
@@ -16213,6 +16203,7 @@ cik,date,value,component
 1306830,2014-01-01,1,protocols_domestic
 1307579,2014-01-01,1,protocols_domestic
 1307752,2014-01-01,1,protocols_domestic
+1307954,2014-01-01,1,protocols_domestic
 1308208,2014-01-01,1,protocols_domestic
 1309057,2014-01-01,1,protocols_domestic
 1309132,2014-01-01,1,protocols_domestic
@@ -16273,7 +16264,6 @@ cik,date,value,component
 1347022,2014-01-01,1,protocols_domestic
 1347178,2014-01-01,1,protocols_domestic
 1347613,2014-01-01,1,protocols_domestic
-1347858,2014-01-01,1,protocols_domestic
 1350102,2014-01-01,1,protocols_domestic
 1350381,2014-01-01,1,protocols_domestic
 1352010,2014-01-01,1,protocols_domestic
@@ -16410,7 +16400,6 @@ cik,date,value,component
 1409171,2014-01-01,1,protocols_domestic
 1409432,2014-01-01,1,protocols_domestic
 1410098,2014-01-01,1,protocols_domestic
-1410711,2014-01-01,1,protocols_domestic
 1410939,2014-01-01,1,protocols_domestic
 1411158,2014-01-01,1,protocols_domestic
 1411494,2014-01-01,1,protocols_domestic
@@ -16438,6 +16427,7 @@ cik,date,value,component
 1423221,2014-01-01,1,protocols_domestic
 1423902,2014-01-01,1,protocols_domestic
 1424455,2014-01-01,1,protocols_domestic
+1424812,2014-01-01,1,protocols_domestic
 1424844,2014-01-01,1,protocols_domestic
 1424847,2014-01-01,1,protocols_domestic
 1425205,2014-01-01,1,protocols_domestic
@@ -16459,7 +16449,6 @@ cik,date,value,component
 1432139,2014-01-01,1,protocols_domestic
 1432939,2014-01-01,1,protocols_domestic
 1433270,2014-01-01,1,protocols_domestic
-1434110,2014-01-01,1,protocols_domestic
 1434389,2014-01-01,1,protocols_domestic
 1434868,2014-01-01,1,protocols_domestic
 1436229,2014-01-01,1,protocols_domestic
@@ -16515,6 +16504,7 @@ cik,date,value,component
 1481028,2014-01-01,1,protocols_domestic
 1481427,2014-01-01,1,protocols_domestic
 1482075,2014-01-01,1,protocols_domestic
+1482080,2014-01-01,1,protocols_domestic
 1482974,2014-01-01,1,protocols_domestic
 1484478,2014-01-01,1,protocols_domestic
 1484504,2014-01-01,1,protocols_domestic
@@ -16834,11 +16824,9 @@ cik,date,value,component
 314489,2015-01-01,1,protocols_domestic
 315189,2015-01-01,1,protocols_domestic
 315213,2015-01-01,1,protocols_domestic
-315849,2015-01-01,1,protocols_domestic
 316253,2015-01-01,1,protocols_domestic
 316300,2015-01-01,1,protocols_domestic
 316709,2015-01-01,1,protocols_domestic
-316736,2015-01-01,1,protocols_domestic
 318154,2015-01-01,1,protocols_domestic
 318306,2015-01-01,1,protocols_domestic
 318833,2015-01-01,1,protocols_domestic
@@ -16850,7 +16838,6 @@ cik,date,value,component
 354908,2015-01-01,1,protocols_domestic
 354950,2015-01-01,1,protocols_domestic
 700565,2015-01-01,1,protocols_domestic
-704159,2015-01-01,1,protocols_domestic
 704532,2015-01-01,1,protocols_domestic
 707179,2015-01-01,1,protocols_domestic
 707511,2015-01-01,1,protocols_domestic
@@ -16893,6 +16880,7 @@ cik,date,value,component
 771856,2015-01-01,1,protocols_domestic
 773910,2015-01-01,1,protocols_domestic
 775158,2015-01-01,1,protocols_domestic
+776008,2015-01-01,1,protocols_domestic
 776867,2015-01-01,1,protocols_domestic
 779152,2015-01-01,1,protocols_domestic
 783324,2015-01-01,1,protocols_domestic
@@ -17050,7 +17038,6 @@ cik,date,value,component
 899460,2015-01-01,1,protocols_domestic
 899866,2015-01-01,1,protocols_domestic
 904163,2015-01-01,1,protocols_domestic
-906192,2015-01-01,1,protocols_domestic
 906709,2015-01-01,1,protocols_domestic
 907562,2015-01-01,1,protocols_domestic
 907654,2015-01-01,1,protocols_domestic
@@ -17268,7 +17255,6 @@ cik,date,value,component
 1091326,2015-01-01,1,protocols_domestic
 1091491,2015-01-01,1,protocols_domestic
 1091667,2015-01-01,1,protocols_domestic
-1092796,2015-01-01,1,protocols_domestic
 1094038,2015-01-01,1,protocols_domestic
 1094084,2015-01-01,1,protocols_domestic
 1094847,2015-01-01,1,protocols_domestic
@@ -17566,6 +17552,7 @@ cik,date,value,component
 1356104,2015-01-01,1,protocols_domestic
 1357204,2015-01-01,1,protocols_domestic
 1357459,2015-01-01,1,protocols_domestic
+1358071,2015-01-01,1,protocols_domestic
 1358190,2015-01-01,1,protocols_domestic
 1358356,2015-01-01,1,protocols_domestic
 1359687,2015-01-01,1,protocols_domestic
@@ -17580,7 +17567,6 @@ cik,date,value,component
 1361248,2015-01-01,1,protocols_domestic
 1361394,2015-01-01,1,protocols_domestic
 1362516,2015-01-01,1,protocols_domestic
-1363829,2015-01-01,1,protocols_domestic
 1363851,2015-01-01,1,protocols_domestic
 1364541,2015-01-01,1,protocols_domestic
 1365135,2015-01-01,1,protocols_domestic
@@ -17818,6 +17804,7 @@ cik,date,value,component
 1493040,2015-01-01,1,protocols_domestic
 1493212,2015-01-01,1,protocols_domestic
 1493594,2015-01-01,1,protocols_domestic
+1495231,2015-01-01,1,protocols_domestic
 1496454,2015-01-01,1,protocols_domestic
 1496671,2015-01-01,1,protocols_domestic
 1497055,2015-01-01,1,protocols_domestic
@@ -17924,7 +17911,6 @@ cik,date,value,component
 1553643,2015-01-01,1,protocols_domestic
 1555280,2015-01-01,1,protocols_domestic
 1555972,2015-01-01,1,protocols_domestic
-1556364,2015-01-01,1,protocols_domestic
 1556739,2015-01-01,1,protocols_domestic
 1557421,2015-01-01,1,protocols_domestic
 1557883,2015-01-01,1,protocols_domestic
@@ -17932,6 +17918,7 @@ cik,date,value,component
 1559356,2015-01-01,1,protocols_domestic
 1559865,2015-01-01,1,protocols_domestic
 1560905,2015-01-01,1,protocols_domestic
+1561743,2015-01-01,1,protocols_domestic
 1561865,2015-01-01,1,protocols_domestic
 1562622,2015-01-01,1,protocols_domestic
 1563315,2015-01-01,1,protocols_domestic
@@ -17955,7 +17942,6 @@ cik,date,value,component
 1574186,2015-01-01,1,protocols_domestic
 1574235,2015-01-01,1,protocols_domestic
 1574774,2015-01-01,1,protocols_domestic
-1574969,2015-01-01,1,protocols_domestic
 1575319,2015-01-01,1,protocols_domestic
 1575574,2015-01-01,1,protocols_domestic
 1576044,2015-01-01,1,protocols_domestic
@@ -18201,7 +18187,6 @@ cik,date,value,component
 700565,2016-01-01,1,protocols_domestic
 704159,2016-01-01,1,protocols_domestic
 704532,2016-01-01,1,protocols_domestic
-706688,2016-01-01,1,protocols_domestic
 707179,2016-01-01,1,protocols_domestic
 707511,2016-01-01,1,protocols_domestic
 711065,2016-01-01,1,protocols_domestic
@@ -18458,7 +18443,6 @@ cik,date,value,component
 1020214,2016-01-01,1,protocols_domestic
 1021635,2016-01-01,1,protocols_domestic
 1022408,2016-01-01,1,protocols_domestic
-1023731,2016-01-01,1,protocols_domestic
 1024626,2016-01-01,1,protocols_domestic
 1025362,2016-01-01,1,protocols_domestic
 1026655,2016-01-01,1,protocols_domestic
@@ -18579,6 +18563,7 @@ cik,date,value,component
 1102432,2016-01-01,1,protocols_domestic
 1102993,2016-01-01,1,protocols_domestic
 1103021,2016-01-01,1,protocols_domestic
+1104038,2016-01-01,1,protocols_domestic
 1104265,2016-01-01,1,protocols_domestic
 1104358,2016-01-01,1,protocols_domestic
 1106644,2016-01-01,1,protocols_domestic
@@ -18594,6 +18579,7 @@ cik,date,value,component
 1115222,2016-01-01,1,protocols_domestic
 1117480,2016-01-01,1,protocols_domestic
 1119643,2016-01-01,1,protocols_domestic
+1120970,2016-01-01,1,protocols_domestic
 1121702,2016-01-01,1,protocols_domestic
 1122991,2016-01-01,1,protocols_domestic
 1123979,2016-01-01,1,protocols_domestic
@@ -18791,7 +18777,6 @@ cik,date,value,component
 1338042,2016-01-01,1,protocols_domestic
 1338095,2016-01-01,1,protocols_domestic
 1339970,2016-01-01,1,protocols_domestic
-1341235,2016-01-01,1,protocols_domestic
 1342287,2016-01-01,1,protocols_domestic
 1343465,2016-01-01,1,protocols_domestic
 1344413,2016-01-01,1,protocols_domestic
@@ -18867,6 +18852,7 @@ cik,date,value,component
 1378946,2016-01-01,1,protocols_domestic
 1378950,2016-01-01,1,protocols_domestic
 1379006,2016-01-01,1,protocols_domestic
+1381105,2016-01-01,1,protocols_domestic
 1381531,2016-01-01,1,protocols_domestic
 1385228,2016-01-01,1,protocols_domestic
 1385508,2016-01-01,1,protocols_domestic
@@ -18903,6 +18889,7 @@ cik,date,value,component
 1401914,2016-01-01,1,protocols_domestic
 1402328,2016-01-01,1,protocols_domestic
 1402436,2016-01-01,1,protocols_domestic
+1403161,2016-01-01,1,protocols_domestic
 1403256,2016-01-01,1,protocols_domestic
 1403431,2016-01-01,1,protocols_domestic
 1403570,2016-01-01,1,protocols_domestic
@@ -19021,7 +19008,6 @@ cik,date,value,component
 1476651,2016-01-01,1,protocols_domestic
 1476963,2016-01-01,1,protocols_domestic
 1477200,2016-01-01,1,protocols_domestic
-1477246,2016-01-01,1,protocols_domestic
 1478069,2016-01-01,1,protocols_domestic
 1478121,2016-01-01,1,protocols_domestic
 1478242,2016-01-01,1,protocols_domestic
@@ -19421,6 +19407,7 @@ cik,date,value,component
 87565,2017-01-01,1,protocols_domestic
 88941,2017-01-01,1,protocols_domestic
 91142,2017-01-01,1,protocols_domestic
+91419,2017-01-01,1,protocols_domestic
 91576,2017-01-01,1,protocols_domestic
 92108,2017-01-01,1,protocols_domestic
 92230,2017-01-01,1,protocols_domestic
@@ -19466,7 +19453,6 @@ cik,date,value,component
 353020,2017-01-01,1,protocols_domestic
 353184,2017-01-01,1,protocols_domestic
 354707,2017-01-01,1,protocols_domestic
-354908,2017-01-01,1,protocols_domestic
 357097,2017-01-01,1,protocols_domestic
 700565,2017-01-01,1,protocols_domestic
 703351,2017-01-01,1,protocols_domestic
@@ -19689,6 +19675,7 @@ cik,date,value,component
 1010566,2017-01-01,1,protocols_domestic
 1010612,2017-01-01,1,protocols_domestic
 1010858,2017-01-01,1,protocols_domestic
+1011509,2017-01-01,1,protocols_domestic
 1012477,2017-01-01,1,protocols_domestic
 1012569,2017-01-01,1,protocols_domestic
 1012620,2017-01-01,1,protocols_domestic
@@ -19833,7 +19820,6 @@ cik,date,value,component
 1117480,2017-01-01,1,protocols_domestic
 1123979,2017-01-01,1,protocols_domestic
 1124105,2017-01-01,1,protocols_domestic
-1124941,2017-01-01,1,protocols_domestic
 1125259,2017-01-01,1,protocols_domestic
 1125345,2017-01-01,1,protocols_domestic
 1126234,2017-01-01,1,protocols_domestic
@@ -20035,6 +20021,7 @@ cik,date,value,component
 1359841,2017-01-01,1,protocols_domestic
 1359931,2017-01-01,1,protocols_domestic
 1360214,2017-01-01,1,protocols_domestic
+1360442,2017-01-01,1,protocols_domestic
 1360901,2017-01-01,1,protocols_domestic
 1361113,2017-01-01,1,protocols_domestic
 1362516,2017-01-01,1,protocols_domestic
@@ -20122,6 +20109,7 @@ cik,date,value,component
 1409446,2017-01-01,1,protocols_domestic
 1410098,2017-01-01,1,protocols_domestic
 1410939,2017-01-01,1,protocols_domestic
+1411494,2017-01-01,1,protocols_domestic
 1411685,2017-01-01,1,protocols_domestic
 1411906,2017-01-01,1,protocols_domestic
 1412100,2017-01-01,1,protocols_domestic
@@ -20186,7 +20174,6 @@ cik,date,value,component
 1444307,2017-01-01,1,protocols_domestic
 1445283,2017-01-01,1,protocols_domestic
 1445305,2017-01-01,1,protocols_domestic
-1446847,2017-01-01,1,protocols_domestic
 1447028,2017-01-01,1,protocols_domestic
 1447380,2017-01-01,1,protocols_domestic
 1449447,2017-01-01,1,protocols_domestic
@@ -20263,7 +20250,6 @@ cik,date,value,component
 1507986,2017-01-01,1,protocols_domestic
 1508348,2017-01-01,1,protocols_domestic
 1509190,2017-01-01,1,protocols_domestic
-1509228,2017-01-01,1,protocols_domestic
 1509470,2017-01-01,1,protocols_domestic
 1509589,2017-01-01,1,protocols_domestic
 1509745,2017-01-01,1,protocols_domestic
@@ -20289,7 +20275,6 @@ cik,date,value,component
 1519061,2017-01-01,1,protocols_domestic
 1519401,2017-01-01,1,protocols_domestic
 1521036,2017-01-01,1,protocols_domestic
-1521168,2017-01-01,1,protocols_domestic
 1522602,2017-01-01,1,protocols_domestic
 1522704,2017-01-01,1,protocols_domestic
 1522727,2017-01-01,1,protocols_domestic
@@ -20380,7 +20365,6 @@ cik,date,value,component
 1578685,2017-01-01,1,protocols_domestic
 1578845,2017-01-01,1,protocols_domestic
 1579241,2017-01-01,1,protocols_domestic
-1579252,2017-01-01,1,protocols_domestic
 1579428,2017-01-01,1,protocols_domestic
 1579823,2017-01-01,1,protocols_domestic
 1580149,2017-01-01,1,protocols_domestic
@@ -20507,6 +20491,7 @@ cik,date,value,component
 1642122,2017-01-01,1,protocols_domestic
 1644406,2017-01-01,1,protocols_domestic
 1644903,2017-01-01,1,protocols_domestic
+1648383,2017-01-01,1,protocols_domestic
 1648893,2017-01-01,1,protocols_domestic
 1649338,2017-01-01,1,protocols_domestic
 1649345,2017-01-01,1,protocols_domestic
@@ -20546,6 +20531,7 @@ cik,date,value,component
 1672013,2017-01-01,1,protocols_domestic
 1673985,2017-01-01,1,protocols_domestic
 1674168,2017-01-01,1,protocols_domestic
+1674335,2017-01-01,1,protocols_domestic
 1674416,2017-01-01,1,protocols_domestic
 1674862,2017-01-01,1,protocols_domestic
 1674930,2017-01-01,1,protocols_domestic
@@ -20555,6 +20541,7 @@ cik,date,value,component
 1679049,2017-01-01,1,protocols_domestic
 1679082,2017-01-01,1,protocols_domestic
 1679268,2017-01-01,1,protocols_domestic
+1679273,2017-01-01,1,protocols_domestic
 1680048,2017-01-01,1,protocols_domestic
 1680378,2017-01-01,1,protocols_domestic
 1681689,2017-01-01,1,protocols_domestic
@@ -20571,6 +20558,7 @@ cik,date,value,component
 6176,2018-01-01,1,protocols_domestic
 6769,2018-01-01,1,protocols_domestic
 7332,2018-01-01,1,protocols_domestic
+10254,2018-01-01,1,protocols_domestic
 10456,2018-01-01,1,protocols_domestic
 11199,2018-01-01,1,protocols_domestic
 14272,2018-01-01,1,protocols_domestic
@@ -20702,7 +20690,6 @@ cik,date,value,component
 723254,2018-01-01,1,protocols_domestic
 724571,2018-01-01,1,protocols_domestic
 726601,2018-01-01,1,protocols_domestic
-727207,2018-01-01,1,protocols_domestic
 728391,2018-01-01,1,protocols_domestic
 728447,2018-01-01,1,protocols_domestic
 729580,2018-01-01,1,protocols_domestic
@@ -20870,7 +20857,6 @@ cik,date,value,component
 926326,2018-01-01,1,protocols_domestic
 926660,2018-01-01,1,protocols_domestic
 927066,2018-01-01,1,protocols_domestic
-927761,2018-01-01,1,protocols_domestic
 931182,2018-01-01,1,protocols_domestic
 933136,2018-01-01,1,protocols_domestic
 933974,2018-01-01,1,protocols_domestic
@@ -20944,6 +20930,7 @@ cik,date,value,component
 1034670,2018-01-01,1,protocols_domestic
 1034842,2018-01-01,1,protocols_domestic
 1035354,2018-01-01,1,protocols_domestic
+1037131,2018-01-01,1,protocols_domestic
 1037646,2018-01-01,1,protocols_domestic
 1037976,2018-01-01,1,protocols_domestic
 1038357,2018-01-01,1,protocols_domestic
@@ -20970,6 +20957,7 @@ cik,date,value,component
 1053507,2018-01-01,1,protocols_domestic
 1053532,2018-01-01,1,protocols_domestic
 1053691,2018-01-01,1,protocols_domestic
+1054274,2018-01-01,1,protocols_domestic
 1055454,2018-01-01,1,protocols_domestic
 1055726,2018-01-01,1,protocols_domestic
 1056358,2018-01-01,1,protocols_domestic
@@ -21076,7 +21064,6 @@ cik,date,value,component
 1145986,2018-01-01,1,protocols_domestic
 1156174,2018-01-01,1,protocols_domestic
 1157075,2018-01-01,1,protocols_domestic
-1157601,2018-01-01,1,protocols_domestic
 1157762,2018-01-01,1,protocols_domestic
 1157806,2018-01-01,1,protocols_domestic
 1158114,2018-01-01,1,protocols_domestic
@@ -21094,7 +21081,6 @@ cik,date,value,component
 1169987,2018-01-01,1,protocols_domestic
 1172136,2018-01-01,1,protocols_domestic
 1172139,2018-01-01,1,protocols_domestic
-1172358,2018-01-01,1,protocols_domestic
 1172706,2018-01-01,1,protocols_domestic
 1173313,2018-01-01,1,protocols_domestic
 1173420,2018-01-01,1,protocols_domestic
@@ -21579,7 +21565,6 @@ cik,date,value,component
 1569329,2018-01-01,1,protocols_domestic
 1569340,2018-01-01,1,protocols_domestic
 1570562,2018-01-01,1,protocols_domestic
-1570585,2018-01-01,1,protocols_domestic
 1571498,2018-01-01,1,protocols_domestic
 1571636,2018-01-01,1,protocols_domestic
 1572565,2018-01-01,1,protocols_domestic
@@ -21630,6 +21615,7 @@ cik,date,value,component
 1594466,2018-01-01,1,protocols_domestic
 1594617,2018-01-01,1,protocols_domestic
 1594864,2018-01-01,1,protocols_domestic
+1594879,2018-01-01,1,protocols_domestic
 1595974,2018-01-01,1,protocols_domestic
 1596062,2018-01-01,1,protocols_domestic
 1596993,2018-01-01,1,protocols_domestic
@@ -21664,6 +21650,7 @@ cik,date,value,component
 1615063,2018-01-01,1,protocols_domestic
 1615817,2018-01-01,1,protocols_domestic
 1617977,2018-01-01,1,protocols_domestic
+1618835,2018-01-01,1,protocols_domestic
 1619087,2018-01-01,1,protocols_domestic
 1620533,2018-01-01,1,protocols_domestic
 1620602,2018-01-01,1,protocols_domestic
@@ -21759,6 +21746,7 @@ cik,date,value,component
 1668397,2018-01-01,1,protocols_domestic
 1669162,2018-01-01,1,protocols_domestic
 1669400,2018-01-01,1,protocols_domestic
+1671584,2018-01-01,1,protocols_domestic
 1671854,2018-01-01,1,protocols_domestic
 1671933,2018-01-01,1,protocols_domestic
 1672326,2018-01-01,1,protocols_domestic
@@ -21768,6 +21756,7 @@ cik,date,value,component
 1674862,2018-01-01,1,protocols_domestic
 1674930,2018-01-01,1,protocols_domestic
 1675149,2018-01-01,1,protocols_domestic
+1677203,2018-01-01,1,protocols_domestic
 1677576,2018-01-01,1,protocols_domestic
 1679049,2018-01-01,1,protocols_domestic
 1679082,2018-01-01,1,protocols_domestic
@@ -21809,6 +21798,7 @@ cik,date,value,component
 1705843,2018-01-01,1,protocols_domestic
 1707502,2018-01-01,1,protocols_domestic
 1708035,2018-01-01,1,protocols_domestic
+1710155,2018-01-01,1,protocols_domestic
 1710366,2018-01-01,1,protocols_domestic
 1710583,2018-01-01,1,protocols_domestic
 1711012,2018-01-01,1,protocols_domestic
@@ -22018,6 +22008,7 @@ cik,date,value,component
 845385,2019-01-01,1,protocols_domestic
 845877,2019-01-01,1,protocols_domestic
 846475,2019-01-01,1,protocols_domestic
+849401,2019-01-01,1,protocols_domestic
 849636,2019-01-01,1,protocols_domestic
 849869,2019-01-01,1,protocols_domestic
 850261,2019-01-01,1,protocols_domestic
@@ -22166,7 +22157,6 @@ cik,date,value,component
 1037646,2019-01-01,1,protocols_domestic
 1038357,2019-01-01,1,protocols_domestic
 1040593,2019-01-01,1,protocols_domestic
-1041024,2019-01-01,1,protocols_domestic
 1042074,2019-01-01,1,protocols_domestic
 1042418,2019-01-01,1,protocols_domestic
 1043961,2019-01-01,1,protocols_domestic
@@ -22229,6 +22219,7 @@ cik,date,value,component
 1091667,2019-01-01,1,protocols_domestic
 1092662,2019-01-01,1,protocols_domestic
 1092796,2019-01-01,1,protocols_domestic
+1093557,2019-01-01,1,protocols_domestic
 1094038,2019-01-01,1,protocols_domestic
 1095130,2019-01-01,1,protocols_domestic
 1096343,2019-01-01,1,protocols_domestic
@@ -22283,7 +22274,6 @@ cik,date,value,component
 1157806,2019-01-01,1,protocols_domestic
 1158114,2019-01-01,1,protocols_domestic
 1158863,2019-01-01,1,protocols_domestic
-1159036,2019-01-01,1,protocols_domestic
 1159275,2019-01-01,1,protocols_domestic
 1160308,2019-01-01,1,protocols_domestic
 1161154,2019-01-01,1,protocols_domestic
@@ -22293,6 +22283,7 @@ cik,date,value,component
 1164863,2019-01-01,1,protocols_domestic
 1165320,2019-01-01,1,protocols_domestic
 1167419,2019-01-01,1,protocols_domestic
+1169987,2019-01-01,1,protocols_domestic
 1169988,2019-01-01,1,protocols_domestic
 1172298,2019-01-01,1,protocols_domestic
 1172358,2019-01-01,1,protocols_domestic
@@ -22369,7 +22360,6 @@ cik,date,value,component
 1309057,2019-01-01,1,protocols_domestic
 1310488,2019-01-01,1,protocols_domestic
 1314052,2019-01-01,1,protocols_domestic
-1314196,2019-01-01,1,protocols_domestic
 1315257,2019-01-01,1,protocols_domestic
 1316016,2019-01-01,1,protocols_domestic
 1316835,2019-01-01,1,protocols_domestic
@@ -22594,6 +22584,7 @@ cik,date,value,component
 1458704,2019-01-01,1,protocols_domestic
 1459200,2019-01-01,1,protocols_domestic
 1459482,2019-01-01,1,protocols_domestic
+1460702,2019-01-01,1,protocols_domestic
 1461993,2019-01-01,1,protocols_domestic
 1462047,2019-01-01,1,protocols_domestic
 1463361,2019-01-01,1,protocols_domestic
@@ -22704,7 +22695,6 @@ cik,date,value,component
 1529113,2019-01-01,1,protocols_domestic
 1529864,2019-01-01,1,protocols_domestic
 1530425,2019-01-01,1,protocols_domestic
-1530746,2019-01-01,1,protocols_domestic
 1530766,2019-01-01,1,protocols_domestic
 1533040,2019-01-01,1,protocols_domestic
 1533743,2019-01-01,1,protocols_domestic
@@ -22792,6 +22782,7 @@ cik,date,value,component
 1583771,2019-01-01,1,protocols_domestic
 1584754,2019-01-01,1,protocols_domestic
 1585364,2019-01-01,1,protocols_domestic
+1585689,2019-01-01,1,protocols_domestic
 1586049,2019-01-01,1,protocols_domestic
 1586105,2019-01-01,1,protocols_domestic
 1588972,2019-01-01,1,protocols_domestic
@@ -22811,12 +22802,12 @@ cik,date,value,component
 1595097,2019-01-01,1,protocols_domestic
 1595585,2019-01-01,1,protocols_domestic
 1595974,2019-01-01,1,protocols_domestic
-1596062,2019-01-01,1,protocols_domestic
 1596993,2019-01-01,1,protocols_domestic
 1597264,2019-01-01,1,protocols_domestic
 1597553,2019-01-01,1,protocols_domestic
 1597672,2019-01-01,1,protocols_domestic
 1598646,2019-01-01,1,protocols_domestic
+1598968,2019-01-01,1,protocols_domestic
 1599489,2019-01-01,1,protocols_domestic
 1600438,2019-01-01,1,protocols_domestic
 1600470,2019-01-01,1,protocols_domestic
@@ -22851,6 +22842,7 @@ cik,date,value,component
 1623613,2019-01-01,1,protocols_domestic
 1623925,2019-01-01,1,protocols_domestic
 1624658,2019-01-01,1,protocols_domestic
+1624794,2019-01-01,1,protocols_domestic
 1624826,2019-01-01,1,protocols_domestic
 1625288,2019-01-01,1,protocols_domestic
 1626644,2019-01-01,1,protocols_domestic
@@ -22956,7 +22948,6 @@ cik,date,value,component
 1680873,2019-01-01,1,protocols_domestic
 1682639,2019-01-01,1,protocols_domestic
 1684144,2019-01-01,1,protocols_domestic
-1685071,2019-01-01,1,protocols_domestic
 1685715,2019-01-01,1,protocols_domestic
 1687221,2019-01-01,1,protocols_domestic
 1688757,2019-01-01,1,protocols_domestic
@@ -23008,6 +22999,7 @@ cik,date,value,component
 1720286,2019-01-01,1,protocols_domestic
 1720580,2019-01-01,1,protocols_domestic
 1720893,2019-01-01,1,protocols_domestic
+1722684,2019-01-01,1,protocols_domestic
 1722964,2019-01-01,1,protocols_domestic
 1724009,2019-01-01,1,protocols_domestic
 1724344,2019-01-01,1,protocols_domestic
@@ -23085,7 +23077,6 @@ cik,date,value,component
 56868,2020-01-01,1,protocols_domestic
 58361,2020-01-01,1,protocols_domestic
 58492,2020-01-01,1,protocols_domestic
-59255,2020-01-01,1,protocols_domestic
 59478,2020-01-01,1,protocols_domestic
 59558,2020-01-01,1,protocols_domestic
 60549,2020-01-01,1,protocols_domestic
@@ -23152,7 +23143,6 @@ cik,date,value,component
 315545,2020-01-01,1,protocols_domestic
 315849,2020-01-01,1,protocols_domestic
 315852,2020-01-01,1,protocols_domestic
-315858,2020-01-01,1,protocols_domestic
 316253,2020-01-01,1,protocols_domestic
 316709,2020-01-01,1,protocols_domestic
 317187,2020-01-01,1,protocols_domestic
@@ -23181,7 +23171,7 @@ cik,date,value,component
 716314,2020-01-01,1,protocols_domestic
 720154,2020-01-01,1,protocols_domestic
 720500,2020-01-01,1,protocols_domestic
-721994,2020-01-01,1,protocols_domestic
+720672,2020-01-01,1,protocols_domestic
 722830,2020-01-01,1,protocols_domestic
 723254,2020-01-01,1,protocols_domestic
 725929,2020-01-01,1,protocols_domestic
@@ -23207,6 +23197,7 @@ cik,date,value,component
 788920,2020-01-01,1,protocols_domestic
 790652,2020-01-01,1,protocols_domestic
 792977,2020-01-01,1,protocols_domestic
+795212,2020-01-01,1,protocols_domestic
 795403,2020-01-01,1,protocols_domestic
 798528,2020-01-01,1,protocols_domestic
 799698,2020-01-01,1,protocols_domestic
@@ -23283,6 +23274,7 @@ cik,date,value,component
 889123,2020-01-01,1,protocols_domestic
 889971,2020-01-01,1,protocols_domestic
 890447,2020-01-01,1,protocols_domestic
+891014,2020-01-01,1,protocols_domestic
 891293,2020-01-01,1,protocols_domestic
 893538,2020-01-01,1,protocols_domestic
 893691,2020-01-01,1,protocols_domestic
@@ -23309,6 +23301,7 @@ cik,date,value,component
 915389,2020-01-01,1,protocols_domestic
 917225,2020-01-01,1,protocols_domestic
 920371,2020-01-01,1,protocols_domestic
+921114,2020-01-01,1,protocols_domestic
 921299,2020-01-01,1,protocols_domestic
 922224,2020-01-01,1,protocols_domestic
 924168,2020-01-01,1,protocols_domestic
@@ -23316,7 +23309,6 @@ cik,date,value,component
 926617,2020-01-01,1,protocols_domestic
 927066,2020-01-01,1,protocols_domestic
 927653,2020-01-01,1,protocols_domestic
-927761,2020-01-01,1,protocols_domestic
 929545,2020-01-01,1,protocols_domestic
 931148,2020-01-01,1,protocols_domestic
 931182,2020-01-01,1,protocols_domestic
@@ -23432,7 +23424,6 @@ cik,date,value,component
 1080709,2020-01-01,1,protocols_domestic
 1082038,2020-01-01,1,protocols_domestic
 1082554,2020-01-01,1,protocols_domestic
-1083743,2020-01-01,1,protocols_domestic
 1086082,2020-01-01,1,protocols_domestic
 1086600,2020-01-01,1,protocols_domestic
 1087294,2020-01-01,1,protocols_domestic
@@ -23441,7 +23432,6 @@ cik,date,value,component
 1091667,2020-01-01,1,protocols_domestic
 1092662,2020-01-01,1,protocols_domestic
 1092796,2020-01-01,1,protocols_domestic
-1094038,2020-01-01,1,protocols_domestic
 1096343,2020-01-01,1,protocols_domestic
 1097864,2020-01-01,1,protocols_domestic
 1098880,2020-01-01,1,protocols_domestic
@@ -23621,7 +23611,6 @@ cik,date,value,component
 1337619,2020-01-01,1,protocols_domestic
 1338749,2020-01-01,1,protocols_domestic
 1341235,2020-01-01,1,protocols_domestic
-1342287,2020-01-01,1,protocols_domestic
 1343009,2020-01-01,1,protocols_domestic
 1345122,2020-01-01,1,protocols_domestic
 1345126,2020-01-01,1,protocols_domestic
@@ -23666,7 +23655,6 @@ cik,date,value,component
 1369568,2020-01-01,1,protocols_domestic
 1370053,2020-01-01,1,protocols_domestic
 1371128,2020-01-01,1,protocols_domestic
-1371285,2020-01-01,1,protocols_domestic
 1371451,2020-01-01,1,protocols_domestic
 1371782,2020-01-01,1,protocols_domestic
 1372184,2020-01-01,1,protocols_domestic
@@ -23693,7 +23681,6 @@ cik,date,value,component
 1385849,2020-01-01,1,protocols_domestic
 1387467,2020-01-01,1,protocols_domestic
 1388410,2020-01-01,1,protocols_domestic
-1388658,2020-01-01,1,protocols_domestic
 1389545,2020-01-01,1,protocols_domestic
 1390478,2020-01-01,1,protocols_domestic
 1391135,2020-01-01,1,protocols_domestic
@@ -23781,6 +23768,7 @@ cik,date,value,component
 1444192,2020-01-01,1,protocols_domestic
 1444307,2020-01-01,1,protocols_domestic
 1445283,2020-01-01,1,protocols_domestic
+1445305,2020-01-01,1,protocols_domestic
 1447028,2020-01-01,1,protocols_domestic
 1447362,2020-01-01,1,protocols_domestic
 1447380,2020-01-01,1,protocols_domestic
@@ -24023,7 +24011,6 @@ cik,date,value,component
 1615063,2020-01-01,1,protocols_domestic
 1615219,2020-01-01,1,protocols_domestic
 1615999,2020-01-01,1,protocols_domestic
-1617977,2020-01-01,1,protocols_domestic
 1618835,2020-01-01,1,protocols_domestic
 1621221,2020-01-01,1,protocols_domestic
 1621227,2020-01-01,1,protocols_domestic
@@ -24055,7 +24042,6 @@ cik,date,value,component
 1637207,2020-01-01,1,protocols_domestic
 1637880,2020-01-01,1,protocols_domestic
 1638287,2020-01-01,1,protocols_domestic
-1638290,2020-01-01,1,protocols_domestic
 1638381,2020-01-01,1,protocols_domestic
 1638833,2020-01-01,1,protocols_domestic
 1639300,2020-01-01,1,protocols_domestic
@@ -24086,6 +24072,7 @@ cik,date,value,component
 1651407,2020-01-01,1,protocols_domestic
 1652133,2020-01-01,1,protocols_domestic
 1654151,2020-01-01,1,protocols_domestic
+1654672,2020-01-01,1,protocols_domestic
 1655020,2020-01-01,1,protocols_domestic
 1655050,2020-01-01,1,protocols_domestic
 1655210,2020-01-01,1,protocols_domestic
@@ -24151,6 +24138,7 @@ cik,date,value,component
 1690769,2020-01-01,1,protocols_domestic
 1693415,2020-01-01,1,protocols_domestic
 1693690,2020-01-01,1,protocols_domestic
+1694665,2020-01-01,1,protocols_domestic
 1695357,2020-01-01,1,protocols_domestic
 1696088,2020-01-01,1,protocols_domestic
 1697532,2020-01-01,1,protocols_domestic
@@ -24257,7 +24245,6 @@ cik,date,value,component
 1773427,2020-01-01,1,protocols_domestic
 1778805,2020-01-01,1,protocols_domestic
 1780097,2020-01-01,1,protocols_domestic
-1781870,2020-01-01,1,protocols_domestic
 1781983,2020-01-01,1,protocols_domestic
 1782754,2020-01-01,1,protocols_domestic
 1783183,2020-01-01,1,protocols_domestic
@@ -24499,12 +24486,12 @@ cik,date,value,component
 876437,2021-01-01,1,protocols_domestic
 879169,2021-01-01,1,protocols_domestic
 879407,2021-01-01,1,protocols_domestic
-880242,2021-01-01,1,protocols_domestic
 880807,2021-01-01,1,protocols_domestic
 882095,2021-01-01,1,protocols_domestic
 882361,2021-01-01,1,protocols_domestic
 882796,2021-01-01,1,protocols_domestic
 883237,2021-01-01,1,protocols_domestic
+883902,2021-01-01,1,protocols_domestic
 883984,2021-01-01,1,protocols_domestic
 884624,2021-01-01,1,protocols_domestic
 884887,2021-01-01,1,protocols_domestic
@@ -24549,7 +24536,6 @@ cik,date,value,component
 921114,2021-01-01,1,protocols_domestic
 921299,2021-01-01,1,protocols_domestic
 922864,2021-01-01,1,protocols_domestic
-924168,2021-01-01,1,protocols_domestic
 924515,2021-01-01,1,protocols_domestic
 926617,2021-01-01,1,protocols_domestic
 926844,2021-01-01,1,protocols_domestic
@@ -24814,13 +24800,10 @@ cik,date,value,component
 1316835,2021-01-01,1,protocols_domestic
 1318008,2021-01-01,1,protocols_domestic
 1318084,2021-01-01,1,protocols_domestic
-1318220,2021-01-01,1,protocols_domestic
 1319229,2021-01-01,1,protocols_domestic
 1319643,2021-01-01,1,protocols_domestic
 1320461,2021-01-01,1,protocols_domestic
 1321646,2021-01-01,1,protocols_domestic
-1321834,2021-01-01,1,protocols_domestic
-1322439,2021-01-01,1,protocols_domestic
 1322505,2021-01-01,1,protocols_domestic
 1323468,2021-01-01,1,protocols_domestic
 1323885,2021-01-01,1,protocols_domestic
@@ -24872,7 +24855,6 @@ cik,date,value,component
 1360214,2021-01-01,1,protocols_domestic
 1361113,2021-01-01,1,protocols_domestic
 1362468,2021-01-01,1,protocols_domestic
-1362705,2021-01-01,1,protocols_domestic
 1365135,2021-01-01,1,protocols_domestic
 1365388,2021-01-01,1,protocols_domestic
 1365916,2021-01-01,1,protocols_domestic
@@ -24880,7 +24862,6 @@ cik,date,value,component
 1367920,2021-01-01,1,protocols_domestic
 1368148,2021-01-01,1,protocols_domestic
 1369568,2021-01-01,1,protocols_domestic
-1370053,2021-01-01,1,protocols_domestic
 1371285,2021-01-01,1,protocols_domestic
 1371451,2021-01-01,1,protocols_domestic
 1371782,2021-01-01,1,protocols_domestic
@@ -24901,6 +24882,7 @@ cik,date,value,component
 1385508,2021-01-01,1,protocols_domestic
 1385799,2021-01-01,1,protocols_domestic
 1385818,2021-01-01,1,protocols_domestic
+1385849,2021-01-01,1,protocols_domestic
 1386570,2021-01-01,1,protocols_domestic
 1387467,2021-01-01,1,protocols_domestic
 1388658,2021-01-01,1,protocols_domestic
@@ -25045,7 +25027,6 @@ cik,date,value,component
 1493566,2021-01-01,1,protocols_domestic
 1493594,2021-01-01,1,protocols_domestic
 1494413,2021-01-01,1,protocols_domestic
-1494650,2021-01-01,1,protocols_domestic
 1495231,2021-01-01,1,protocols_domestic
 1496443,2021-01-01,1,protocols_domestic
 1497253,2021-01-01,1,protocols_domestic
@@ -25102,6 +25083,7 @@ cik,date,value,component
 1529864,2021-01-01,1,protocols_domestic
 1530425,2021-01-01,1,protocols_domestic
 1530721,2021-01-01,1,protocols_domestic
+1532619,2021-01-01,1,protocols_domestic
 1533040,2021-01-01,1,protocols_domestic
 1533743,2021-01-01,1,protocols_domestic
 1534120,2021-01-01,1,protocols_domestic
@@ -25203,6 +25185,7 @@ cik,date,value,component
 1596993,2021-01-01,1,protocols_domestic
 1597264,2021-01-01,1,protocols_domestic
 1597553,2021-01-01,1,protocols_domestic
+1597672,2021-01-01,1,protocols_domestic
 1597846,2021-01-01,1,protocols_domestic
 1598646,2021-01-01,1,protocols_domestic
 1599298,2021-01-01,1,protocols_domestic
@@ -25439,6 +25422,7 @@ cik,date,value,component
 1730430,2021-01-01,1,protocols_domestic
 1731348,2021-01-01,1,protocols_domestic
 1733294,2021-01-01,1,protocols_domestic
+1734517,2021-01-01,1,protocols_domestic
 1735041,2021-01-01,1,protocols_domestic
 1735707,2021-01-01,1,protocols_domestic
 1737287,2021-01-01,1,protocols_domestic
@@ -25514,6 +25498,7 @@ cik,date,value,component
 1786248,2021-01-01,1,protocols_domestic
 1787297,2021-01-01,1,protocols_domestic
 1787306,2021-01-01,1,protocols_domestic
+1788028,2021-01-01,1,protocols_domestic
 1788882,2021-01-01,1,protocols_domestic
 1789192,2021-01-01,1,protocols_domestic
 1789972,2021-01-01,1,protocols_domestic
@@ -25594,6 +25579,7 @@ cik,date,value,component
 1828522,2021-01-01,1,protocols_domestic
 1828588,2021-01-01,1,protocols_domestic
 1828748,2021-01-01,1,protocols_domestic
+1829797,2021-01-01,1,protocols_domestic
 1830072,2021-01-01,1,protocols_domestic
 1830232,2021-01-01,1,protocols_domestic
 1831363,2021-01-01,1,protocols_domestic
@@ -25781,7 +25767,6 @@ cik,date,value,component
 824142,2022-01-01,1,protocols_domestic
 825324,2022-01-01,1,protocols_domestic
 827052,2022-01-01,1,protocols_domestic
-827187,2022-01-01,1,protocols_domestic
 828944,2022-01-01,1,protocols_domestic
 830524,2022-01-01,1,protocols_domestic
 831259,2022-01-01,1,protocols_domestic
@@ -25841,7 +25826,6 @@ cik,date,value,component
 890547,2022-01-01,1,protocols_domestic
 890821,2022-01-01,1,protocols_domestic
 890926,2022-01-01,1,protocols_domestic
-891014,2022-01-01,1,protocols_domestic
 891293,2022-01-01,1,protocols_domestic
 893691,2022-01-01,1,protocols_domestic
 895051,2022-01-01,1,protocols_domestic
@@ -25854,7 +25838,6 @@ cik,date,value,component
 897448,2022-01-01,1,protocols_domestic
 899051,2022-01-01,1,protocols_domestic
 899460,2022-01-01,1,protocols_domestic
-906107,2022-01-01,1,protocols_domestic
 906709,2022-01-01,1,protocols_domestic
 907242,2022-01-01,1,protocols_domestic
 907654,2022-01-01,1,protocols_domestic
@@ -25881,7 +25864,6 @@ cik,date,value,component
 927761,2022-01-01,1,protocols_domestic
 928576,2022-01-01,1,protocols_domestic
 931148,2022-01-01,1,protocols_domestic
-931182,2022-01-01,1,protocols_domestic
 933972,2022-01-01,1,protocols_domestic
 933974,2022-01-01,1,protocols_domestic
 934549,2022-01-01,1,protocols_domestic
@@ -25916,7 +25898,6 @@ cik,date,value,component
 1015739,2022-01-01,1,protocols_domestic
 1016169,2022-01-01,1,protocols_domestic
 1016708,2022-01-01,1,protocols_domestic
-1017491,2022-01-01,1,protocols_domestic
 1018963,2022-01-01,1,protocols_domestic
 1019034,2022-01-01,1,protocols_domestic
 1020214,2022-01-01,1,protocols_domestic
@@ -26107,6 +26088,7 @@ cik,date,value,component
 1285550,2022-01-01,1,protocols_domestic
 1285785,2022-01-01,1,protocols_domestic
 1285819,2022-01-01,1,protocols_domestic
+1286043,2022-01-01,1,protocols_domestic
 1286648,2022-01-01,1,protocols_domestic
 1287098,2022-01-01,1,protocols_domestic
 1289419,2022-01-01,1,protocols_domestic
@@ -26334,6 +26316,7 @@ cik,date,value,component
 1486159,2022-01-01,1,protocols_domestic
 1487798,2022-01-01,1,protocols_domestic
 1488039,2022-01-01,1,protocols_domestic
+1489096,2022-01-01,1,protocols_domestic
 1490873,2022-01-01,1,protocols_domestic
 1490927,2022-01-01,1,protocols_domestic
 1490978,2022-01-01,1,protocols_domestic
@@ -26387,6 +26370,7 @@ cik,date,value,component
 1526243,2022-01-01,1,protocols_domestic
 1527469,2022-01-01,1,protocols_domestic
 1529864,2022-01-01,1,protocols_domestic
+1530721,2022-01-01,1,protocols_domestic
 1532619,2022-01-01,1,protocols_domestic
 1533040,2022-01-01,1,protocols_domestic
 1533615,2022-01-01,1,protocols_domestic
@@ -26412,7 +26396,6 @@ cik,date,value,component
 1547903,2022-01-01,1,protocols_domestic
 1549595,2022-01-01,1,protocols_domestic
 1549922,2022-01-01,1,protocols_domestic
-1549966,2022-01-01,1,protocols_domestic
 1551152,2022-01-01,1,protocols_domestic
 1551306,2022-01-01,1,protocols_domestic
 1551986,2022-01-01,1,protocols_domestic
@@ -26477,7 +26460,6 @@ cik,date,value,component
 1590750,2022-01-01,1,protocols_domestic
 1590955,2022-01-01,1,protocols_domestic
 1590976,2022-01-01,1,protocols_domestic
-1591670,2022-01-01,1,protocols_domestic
 1591698,2022-01-01,1,protocols_domestic
 1593034,2022-01-01,1,protocols_domestic
 1593548,2022-01-01,1,protocols_domestic
@@ -26555,6 +26537,7 @@ cik,date,value,component
 1634379,2022-01-01,1,protocols_domestic
 1635088,2022-01-01,1,protocols_domestic
 1636282,2022-01-01,1,protocols_domestic
+1636315,2022-01-01,1,protocols_domestic
 1636651,2022-01-01,1,protocols_domestic
 1637207,2022-01-01,1,protocols_domestic
 1638097,2022-01-01,1,protocols_domestic
@@ -26631,7 +26614,6 @@ cik,date,value,component
 1672688,2022-01-01,1,protocols_domestic
 1673772,2022-01-01,1,protocols_domestic
 1673985,2022-01-01,1,protocols_domestic
-1674335,2022-01-01,1,protocols_domestic
 1674365,2022-01-01,1,protocols_domestic
 1674416,2022-01-01,1,protocols_domestic
 1674862,2022-01-01,1,protocols_domestic
@@ -26645,7 +26627,6 @@ cik,date,value,component
 1679049,2022-01-01,1,protocols_domestic
 1679082,2022-01-01,1,protocols_domestic
 1679268,2022-01-01,1,protocols_domestic
-1679273,2022-01-01,1,protocols_domestic
 1679363,2022-01-01,1,protocols_domestic
 1679788,2022-01-01,1,protocols_domestic
 1680048,2022-01-01,1,protocols_domestic
@@ -26673,6 +26654,7 @@ cik,date,value,component
 1691303,2022-01-01,1,protocols_domestic
 1692412,2022-01-01,1,protocols_domestic
 1693011,2022-01-01,1,protocols_domestic
+1693256,2022-01-01,1,protocols_domestic
 1694028,2022-01-01,1,protocols_domestic
 1694665,2022-01-01,1,protocols_domestic
 1695295,2022-01-01,1,protocols_domestic
@@ -26695,6 +26677,7 @@ cik,date,value,component
 1703785,2022-01-01,1,protocols_domestic
 1704287,2022-01-01,1,protocols_domestic
 1704292,2022-01-01,1,protocols_domestic
+1705696,2022-01-01,1,protocols_domestic
 1705843,2022-01-01,1,protocols_domestic
 1705873,2022-01-01,1,protocols_domestic
 1706431,2022-01-01,1,protocols_domestic
@@ -26721,6 +26704,7 @@ cik,date,value,component
 1718227,2022-01-01,1,protocols_domestic
 1718500,2022-01-01,1,protocols_domestic
 1718512,2022-01-01,1,protocols_domestic
+1718852,2022-01-01,1,protocols_domestic
 1719395,2022-01-01,1,protocols_domestic
 1719406,2022-01-01,1,protocols_domestic
 1720116,2022-01-01,1,protocols_domestic
@@ -26889,7 +26873,6 @@ cik,date,value,component
 1808665,2022-01-01,1,protocols_domestic
 1808805,2022-01-01,1,protocols_domestic
 1808865,2022-01-01,1,protocols_domestic
-1808898,2022-01-01,1,protocols_domestic
 1809987,2022-01-01,1,protocols_domestic
 1810019,2022-01-01,1,protocols_domestic
 1810182,2022-01-01,1,protocols_domestic
@@ -26963,7 +26946,6 @@ cik,date,value,component
 1828443,2022-01-01,1,protocols_domestic
 1828522,2022-01-01,1,protocols_domestic
 1828588,2022-01-01,1,protocols_domestic
-1828673,2022-01-01,1,protocols_domestic
 1828723,2022-01-01,1,protocols_domestic
 1828791,2022-01-01,1,protocols_domestic
 1828805,2022-01-01,1,protocols_domestic
@@ -26974,7 +26956,6 @@ cik,date,value,component
 1830197,2022-01-01,1,protocols_domestic
 1830214,2022-01-01,1,protocols_domestic
 1830232,2022-01-01,1,protocols_domestic
-1830374,2022-01-01,1,protocols_domestic
 1831283,2022-01-01,1,protocols_domestic
 1831359,2022-01-01,1,protocols_domestic
 1831363,2022-01-01,1,protocols_domestic
@@ -26984,7 +26965,6 @@ cik,date,value,component
 1832351,2022-01-01,1,protocols_domestic
 1832466,2022-01-01,1,protocols_domestic
 1832511,2022-01-01,1,protocols_domestic
-1834376,2022-01-01,1,protocols_domestic
 1834488,2022-01-01,1,protocols_domestic
 1834584,2022-01-01,1,protocols_domestic
 1834622,2022-01-01,1,protocols_domestic
@@ -26992,7 +26972,6 @@ cik,date,value,component
 1835205,2022-01-01,1,protocols_domestic
 1835256,2022-01-01,1,protocols_domestic
 1835378,2022-01-01,1,protocols_domestic
-1835567,2022-01-01,1,protocols_domestic
 1835579,2022-01-01,1,protocols_domestic
 1836478,2022-01-01,1,protocols_domestic
 1836517,2022-01-01,1,protocols_domestic
@@ -27046,6 +27025,7 @@ cik,date,value,component
 1853021,2022-01-01,1,protocols_domestic
 1853145,2022-01-01,1,protocols_domestic
 1853436,2022-01-01,1,protocols_domestic
+1853816,2022-01-01,1,protocols_domestic
 1854139,2022-01-01,1,protocols_domestic
 1854270,2022-01-01,1,protocols_domestic
 1854275,2022-01-01,1,protocols_domestic
@@ -27072,6 +27052,7 @@ cik,date,value,component
 1866175,2022-01-01,1,protocols_domestic
 1866581,2022-01-01,1,protocols_domestic
 1866633,2022-01-01,1,protocols_domestic
+1866757,2022-01-01,1,protocols_domestic
 1866816,2022-01-01,1,protocols_domestic
 1867066,2022-01-01,1,protocols_domestic
 1867072,2022-01-01,1,protocols_domestic
@@ -27143,7 +27124,6 @@ cik,date,value,component
 46619,2023-01-01,1,protocols_domestic
 50863,2023-01-01,1,protocols_domestic
 52827,2023-01-01,1,protocols_domestic
-52988,2023-01-01,1,protocols_domestic
 56868,2023-01-01,1,protocols_domestic
 58361,2023-01-01,1,protocols_domestic
 58492,2023-01-01,1,protocols_domestic
@@ -27214,9 +27194,9 @@ cik,date,value,component
 350894,2023-01-01,1,protocols_domestic
 351569,2023-01-01,1,protocols_domestic
 351817,2023-01-01,1,protocols_domestic
+352915,2023-01-01,1,protocols_domestic
 353184,2023-01-01,1,protocols_domestic
 354707,2023-01-01,1,protocols_domestic
-356171,2023-01-01,1,protocols_domestic
 356590,2023-01-01,1,protocols_domestic
 700764,2023-01-01,1,protocols_domestic
 704532,2023-01-01,1,protocols_domestic
@@ -27248,6 +27228,7 @@ cik,date,value,component
 766792,2023-01-01,1,protocols_domestic
 771999,2023-01-01,1,protocols_domestic
 775158,2023-01-01,1,protocols_domestic
+777917,2023-01-01,1,protocols_domestic
 779152,2023-01-01,1,protocols_domestic
 783324,2023-01-01,1,protocols_domestic
 788784,2023-01-01,1,protocols_domestic
@@ -27343,12 +27324,12 @@ cik,date,value,component
 903129,2023-01-01,1,protocols_domestic
 906107,2023-01-01,1,protocols_domestic
 907654,2023-01-01,1,protocols_domestic
+908259,2023-01-01,1,protocols_domestic
 910267,2023-01-01,1,protocols_domestic
 910329,2023-01-01,1,protocols_domestic
 910406,2023-01-01,1,protocols_domestic
 912544,2023-01-01,1,protocols_domestic
 912603,2023-01-01,1,protocols_domestic
-912752,2023-01-01,1,protocols_domestic
 914208,2023-01-01,1,protocols_domestic
 914475,2023-01-01,1,protocols_domestic
 915912,2023-01-01,1,protocols_domestic
@@ -27450,7 +27431,6 @@ cik,date,value,component
 1056903,2023-01-01,1,protocols_domestic
 1057060,2023-01-01,1,protocols_domestic
 1057083,2023-01-01,1,protocols_domestic
-1060736,2023-01-01,1,protocols_domestic
 1061219,2023-01-01,1,protocols_domestic
 1061630,2023-01-01,1,protocols_domestic
 1061983,2023-01-01,1,protocols_domestic
@@ -27826,7 +27806,6 @@ cik,date,value,component
 1512228,2023-01-01,1,protocols_domestic
 1512762,2023-01-01,1,protocols_domestic
 1513525,2023-01-01,1,protocols_domestic
-1513818,2023-01-01,1,protocols_domestic
 1514946,2023-01-01,1,protocols_domestic
 1515673,2023-01-01,1,protocols_domestic
 1516551,2023-01-01,1,protocols_domestic
@@ -27865,7 +27844,6 @@ cik,date,value,component
 1539838,2023-01-01,1,protocols_domestic
 1540159,2023-01-01,1,protocols_domestic
 1541401,2023-01-01,1,protocols_domestic
-1543418,2023-01-01,1,protocols_domestic
 1543637,2023-01-01,1,protocols_domestic
 1544227,2023-01-01,1,protocols_domestic
 1547459,2023-01-01,1,protocols_domestic
@@ -27948,6 +27926,7 @@ cik,date,value,component
 1596062,2023-01-01,1,protocols_domestic
 1596993,2023-01-01,1,protocols_domestic
 1597264,2023-01-01,1,protocols_domestic
+1597313,2023-01-01,1,protocols_domestic
 1597553,2023-01-01,1,protocols_domestic
 1597672,2023-01-01,1,protocols_domestic
 1598646,2023-01-01,1,protocols_domestic
@@ -27973,7 +27952,6 @@ cik,date,value,component
 1610820,2023-01-01,1,protocols_domestic
 1610950,2023-01-01,1,protocols_domestic
 1611282,2023-01-01,1,protocols_domestic
-1611747,2023-01-01,1,protocols_domestic
 1612188,2023-01-01,1,protocols_domestic
 1615055,2023-01-01,1,protocols_domestic
 1615063,2023-01-01,1,protocols_domestic
@@ -28090,13 +28068,11 @@ cik,date,value,component
 1677077,2023-01-01,1,protocols_domestic
 1677576,2023-01-01,1,protocols_domestic
 1678660,2023-01-01,1,protocols_domestic
-1678848,2023-01-01,1,protocols_domestic
 1679049,2023-01-01,1,protocols_domestic
 1679268,2023-01-01,1,protocols_domestic
 1679273,2023-01-01,1,protocols_domestic
 1679363,2023-01-01,1,protocols_domestic
 1679788,2023-01-01,1,protocols_domestic
-1680048,2023-01-01,1,protocols_domestic
 1680062,2023-01-01,1,protocols_domestic
 1680247,2023-01-01,1,protocols_domestic
 1680367,2023-01-01,1,protocols_domestic
@@ -28124,7 +28100,6 @@ cik,date,value,component
 1693256,2023-01-01,1,protocols_domestic
 1694028,2023-01-01,1,protocols_domestic
 1694665,2023-01-01,1,protocols_domestic
-1695295,2023-01-01,1,protocols_domestic
 1695357,2023-01-01,1,protocols_domestic
 1695473,2023-01-01,1,protocols_domestic
 1696088,2023-01-01,1,protocols_domestic
@@ -28162,6 +28137,7 @@ cik,date,value,component
 1713863,2023-01-01,1,protocols_domestic
 1714899,2023-01-01,1,protocols_domestic
 1715268,2023-01-01,1,protocols_domestic
+1716166,2023-01-01,1,protocols_domestic
 1716947,2023-01-01,1,protocols_domestic
 1718108,2023-01-01,1,protocols_domestic
 1718852,2023-01-01,1,protocols_domestic
@@ -28240,6 +28216,7 @@ cik,date,value,component
 1759425,2023-01-01,1,protocols_domestic
 1759546,2023-01-01,1,protocols_domestic
 1760026,2023-01-01,1,protocols_domestic
+1760903,2023-01-01,1,protocols_domestic
 1760965,2023-01-01,1,protocols_domestic
 1761312,2023-01-01,1,protocols_domestic
 1761612,2023-01-01,1,protocols_domestic
@@ -28274,6 +28251,7 @@ cik,date,value,component
 1783875,2023-01-01,1,protocols_domestic
 1783879,2023-01-01,1,protocols_domestic
 1784535,2023-01-01,1,protocols_domestic
+1785173,2023-01-01,1,protocols_domestic
 1785345,2023-01-01,1,protocols_domestic
 1785530,2023-01-01,1,protocols_domestic
 1785592,2023-01-01,1,protocols_domestic
@@ -28345,11 +28323,11 @@ cik,date,value,component
 1818383,2023-01-01,1,protocols_domestic
 1818794,2023-01-01,1,protocols_domestic
 1819133,2023-01-01,1,protocols_domestic
+1819175,2023-01-01,1,protocols_domestic
 1819253,2023-01-01,1,protocols_domestic
 1819394,2023-01-01,1,protocols_domestic
 1819411,2023-01-01,1,protocols_domestic
 1819576,2023-01-01,1,protocols_domestic
-1819615,2023-01-01,1,protocols_domestic
 1819796,2023-01-01,1,protocols_domestic
 1820144,2023-01-01,1,protocols_domestic
 1820190,2023-01-01,1,protocols_domestic
@@ -28365,7 +28343,6 @@ cik,date,value,component
 1822462,2023-01-01,1,protocols_domestic
 1822479,2023-01-01,1,protocols_domestic
 1822691,2023-01-01,1,protocols_domestic
-1822711,2023-01-01,1,protocols_domestic
 1822993,2023-01-01,1,protocols_domestic
 1823144,2023-01-01,1,protocols_domestic
 1823466,2023-01-01,1,protocols_domestic
@@ -28391,7 +28368,6 @@ cik,date,value,component
 1828805,2023-01-01,1,protocols_domestic
 1829635,2023-01-01,1,protocols_domestic
 1829794,2023-01-01,1,protocols_domestic
-1829802,2023-01-01,1,protocols_domestic
 1829864,2023-01-01,1,protocols_domestic
 1829966,2023-01-01,1,protocols_domestic
 1830214,2023-01-01,1,protocols_domestic
@@ -28412,6 +28388,7 @@ cik,date,value,component
 1835632,2023-01-01,1,protocols_domestic
 1835681,2023-01-01,1,protocols_domestic
 1836056,2023-01-01,1,protocols_domestic
+1836478,2023-01-01,1,protocols_domestic
 1838128,2023-01-01,1,protocols_domestic
 1838359,2023-01-01,1,protocols_domestic
 1838615,2023-01-01,1,protocols_domestic
@@ -28476,6 +28453,7 @@ cik,date,value,component
 1856236,2023-01-01,1,protocols_domestic
 1856437,2023-01-01,1,protocols_domestic
 1856725,2023-01-01,1,protocols_domestic
+1857853,2023-01-01,1,protocols_domestic
 1858681,2023-01-01,1,protocols_domestic
 1858848,2023-01-01,1,protocols_domestic
 1858912,2023-01-01,1,protocols_domestic
@@ -28511,7 +28489,6 @@ cik,date,value,component
 1877788,2023-01-01,1,protocols_domestic
 1878313,2023-01-01,1,protocols_domestic
 1879016,2023-01-01,1,protocols_domestic
-1880319,2023-01-01,1,protocols_domestic
 1880438,2023-01-01,1,protocols_domestic
 1880661,2023-01-01,1,protocols_domestic
 1881487,2023-01-01,1,protocols_domestic
@@ -28535,7 +28512,6 @@ cik,date,value,component
 1907685,2023-01-01,1,protocols_domestic
 1907982,2023-01-01,1,protocols_domestic
 1913724,2023-01-01,1,protocols_domestic
-1920406,2023-01-01,1,protocols_domestic
 1920791,2023-01-01,1,protocols_domestic
 1921865,2023-01-01,1,protocols_domestic
 1922639,2023-01-01,1,protocols_domestic
@@ -28546,7 +28522,6 @@ cik,date,value,component
 1931691,2023-01-01,1,protocols_domestic
 1932393,2023-01-01,1,protocols_domestic
 1933414,2023-01-01,1,protocols_domestic
-1934064,2023-01-01,1,protocols_domestic
 1934850,2023-01-01,1,protocols_domestic
 1935092,2023-01-01,1,protocols_domestic
 1935979,2023-01-01,1,protocols_domestic
@@ -28556,7 +28531,6 @@ cik,date,value,component
 1941536,2023-01-01,1,protocols_domestic
 1949543,2023-01-01,1,protocols_domestic
 1952073,2023-01-01,1,protocols_domestic
-1967649,2023-01-01,1,protocols_domestic
 1800,2024-01-01,1,protocols_domestic
 2178,2024-01-01,1,protocols_domestic
 4447,2024-01-01,1,protocols_domestic
@@ -28564,7 +28538,6 @@ cik,date,value,component
 5981,2024-01-01,1,protocols_domestic
 7323,2024-01-01,1,protocols_domestic
 7431,2024-01-01,1,protocols_domestic
-7789,2024-01-01,1,protocols_domestic
 8504,2024-01-01,1,protocols_domestic
 9984,2024-01-01,1,protocols_domestic
 10456,2024-01-01,1,protocols_domestic
@@ -28673,6 +28646,7 @@ cik,date,value,component
 320335,2024-01-01,1,protocols_domestic
 350894,2024-01-01,1,protocols_domestic
 351817,2024-01-01,1,protocols_domestic
+352915,2024-01-01,1,protocols_domestic
 353184,2024-01-01,1,protocols_domestic
 354707,2024-01-01,1,protocols_domestic
 700764,2024-01-01,1,protocols_domestic
@@ -28861,7 +28835,6 @@ cik,date,value,component
 1029125,2024-01-01,1,protocols_domestic
 1029142,2024-01-01,1,protocols_domestic
 1029199,2024-01-01,1,protocols_domestic
-1032033,2024-01-01,1,protocols_domestic
 1032208,2024-01-01,1,protocols_domestic
 1034670,2024-01-01,1,protocols_domestic
 1034842,2024-01-01,1,protocols_domestic
@@ -28878,7 +28851,6 @@ cik,date,value,component
 1042074,2024-01-01,1,protocols_domestic
 1042418,2024-01-01,1,protocols_domestic
 1043961,2024-01-01,1,protocols_domestic
-1045450,2024-01-01,1,protocols_domestic
 1045609,2024-01-01,1,protocols_domestic
 1045610,2024-01-01,1,protocols_domestic
 1045942,2024-01-01,1,protocols_domestic
@@ -29014,7 +28986,6 @@ cik,date,value,component
 1267602,2024-01-01,1,protocols_domestic
 1267813,2024-01-01,1,protocols_domestic
 1269026,2024-01-01,1,protocols_domestic
-1274494,2024-01-01,1,protocols_domestic
 1274737,2024-01-01,1,protocols_domestic
 1276187,2024-01-01,1,protocols_domestic
 1278021,2024-01-01,1,protocols_domestic
@@ -29153,7 +29124,6 @@ cik,date,value,component
 1429560,2024-01-01,1,protocols_domestic
 1429764,2024-01-01,1,protocols_domestic
 1430306,2024-01-01,1,protocols_domestic
-1430723,2024-01-01,1,protocols_domestic
 1431074,2024-01-01,1,protocols_domestic
 1433270,2024-01-01,1,protocols_domestic
 1433551,2024-01-01,1,protocols_domestic
@@ -29166,9 +29136,7 @@ cik,date,value,component
 1439222,2024-01-01,1,protocols_domestic
 1439725,2024-01-01,1,protocols_domestic
 1441236,2024-01-01,1,protocols_domestic
-1441816,2024-01-01,1,protocols_domestic
 1443646,2024-01-01,1,protocols_domestic
-1444192,2024-01-01,1,protocols_domestic
 1445283,2024-01-01,1,protocols_domestic
 1445305,2024-01-01,1,protocols_domestic
 1445815,2024-01-01,1,protocols_domestic
@@ -29241,7 +29209,6 @@ cik,date,value,component
 1512228,2024-01-01,1,protocols_domestic
 1512762,2024-01-01,1,protocols_domestic
 1513525,2024-01-01,1,protocols_domestic
-1514183,2024-01-01,1,protocols_domestic
 1514443,2024-01-01,1,protocols_domestic
 1514946,2024-01-01,1,protocols_domestic
 1515673,2024-01-01,1,protocols_domestic
@@ -29281,6 +29248,7 @@ cik,date,value,component
 1539029,2024-01-01,1,protocols_domestic
 1539838,2024-01-01,1,protocols_domestic
 1540159,2024-01-01,1,protocols_domestic
+1540684,2024-01-01,1,protocols_domestic
 1541157,2024-01-01,1,protocols_domestic
 1541401,2024-01-01,1,protocols_domestic
 1543418,2024-01-01,1,protocols_domestic
@@ -29313,12 +29281,10 @@ cik,date,value,component
 1560327,2024-01-01,1,protocols_domestic
 1563298,2024-01-01,1,protocols_domestic
 1563880,2024-01-01,1,protocols_domestic
-1564824,2024-01-01,1,protocols_domestic
 1565146,2024-01-01,1,protocols_domestic
 1566044,2024-01-01,1,protocols_domestic
 1567264,2024-01-01,1,protocols_domestic
 1567514,2024-01-01,1,protocols_domestic
-1568385,2024-01-01,1,protocols_domestic
 1569187,2024-01-01,1,protocols_domestic
 1569340,2024-01-01,1,protocols_domestic
 1570585,2024-01-01,1,protocols_domestic
@@ -29333,7 +29299,6 @@ cik,date,value,component
 1579428,2024-01-01,1,protocols_domestic
 1579877,2024-01-01,1,protocols_domestic
 1580063,2024-01-01,1,protocols_domestic
-1580149,2024-01-01,1,protocols_domestic
 1581068,2024-01-01,1,protocols_domestic
 1581552,2024-01-01,1,protocols_domestic
 1581760,2024-01-01,1,protocols_domestic
@@ -29577,7 +29542,6 @@ cik,date,value,component
 1728117,2024-01-01,1,protocols_domestic
 1728205,2024-01-01,1,protocols_domestic
 1728328,2024-01-01,1,protocols_domestic
-1728951,2024-01-01,1,protocols_domestic
 1729149,2024-01-01,1,protocols_domestic
 1729427,2024-01-01,1,protocols_domestic
 1729944,2024-01-01,1,protocols_domestic
@@ -29698,7 +29662,6 @@ cik,date,value,component
 1799448,2024-01-01,1,protocols_domestic
 1800315,2024-01-01,1,protocols_domestic
 1800373,2024-01-01,1,protocols_domestic
-1801169,2024-01-01,1,protocols_domestic
 1801368,2024-01-01,1,protocols_domestic
 1801602,2024-01-01,1,protocols_domestic
 1801661,2024-01-01,1,protocols_domestic
@@ -29721,7 +29684,6 @@ cik,date,value,component
 1808805,2024-01-01,1,protocols_domestic
 1808865,2024-01-01,1,protocols_domestic
 1808898,2024-01-01,1,protocols_domestic
-1809519,2024-01-01,1,protocols_domestic
 1810182,2024-01-01,1,protocols_domestic
 1811109,2024-01-01,1,protocols_domestic
 1811210,2024-01-01,1,protocols_domestic
@@ -29842,7 +29804,6 @@ cik,date,value,component
 1849380,2024-01-01,1,protocols_domestic
 1850079,2024-01-01,1,protocols_domestic
 1850838,2024-01-01,1,protocols_domestic
-1850906,2024-01-01,1,protocols_domestic
 1851048,2024-01-01,1,protocols_domestic
 1851194,2024-01-01,1,protocols_domestic
 1851484,2024-01-01,1,protocols_domestic
@@ -29893,7 +29854,6 @@ cik,date,value,component
 1879016,2024-01-01,1,protocols_domestic
 1879270,2024-01-01,1,protocols_domestic
 1879373,2024-01-01,1,protocols_domestic
-1880319,2024-01-01,1,protocols_domestic
 1880438,2024-01-01,1,protocols_domestic
 1880661,2024-01-01,1,protocols_domestic
 1881487,2024-01-01,1,protocols_domestic
@@ -30077,7 +30037,6 @@ cik,date,value,component
 354707,2025-01-01,1,protocols_domestic
 704532,2025-01-01,1,protocols_domestic
 713676,2025-01-01,1,protocols_domestic
-714310,2025-01-01,1,protocols_domestic
 720672,2025-01-01,1,protocols_domestic
 721693,2025-01-01,1,protocols_domestic
 721994,2025-01-01,1,protocols_domestic
@@ -30141,6 +30100,7 @@ cik,date,value,component
 874501,2025-01-01,1,protocols_domestic
 875320,2025-01-01,1,protocols_domestic
 875355,2025-01-01,1,protocols_domestic
+876343,2025-01-01,1,protocols_domestic
 877212,2025-01-01,1,protocols_domestic
 879169,2025-01-01,1,protocols_domestic
 880242,2025-01-01,1,protocols_domestic
@@ -30159,7 +30119,6 @@ cik,date,value,component
 888491,2025-01-01,1,protocols_domestic
 889331,2025-01-01,1,protocols_domestic
 889353,2025-01-01,1,protocols_domestic
-890394,2025-01-01,1,protocols_domestic
 890821,2025-01-01,1,protocols_domestic
 890926,2025-01-01,1,protocols_domestic
 891014,2025-01-01,1,protocols_domestic
@@ -30273,7 +30232,6 @@ cik,date,value,component
 1081316,2025-01-01,1,protocols_domestic
 1081938,2025-01-01,1,protocols_domestic
 1082038,2025-01-01,1,protocols_domestic
-1083743,2025-01-01,1,protocols_domestic
 1084475,2025-01-01,1,protocols_domestic
 1085392,2025-01-01,1,protocols_domestic
 1086600,2025-01-01,1,protocols_domestic
@@ -30290,7 +30248,6 @@ cik,date,value,component
 1100682,2025-01-01,1,protocols_domestic
 1101026,2025-01-01,1,protocols_domestic
 1101215,2025-01-01,1,protocols_domestic
-1101239,2025-01-01,1,protocols_domestic
 1104038,2025-01-01,1,protocols_domestic
 1104485,2025-01-01,1,protocols_domestic
 1104506,2025-01-01,1,protocols_domestic
@@ -30329,7 +30286,6 @@ cik,date,value,component
 1162896,2025-01-01,1,protocols_domestic
 1163370,2025-01-01,1,protocols_domestic
 1166691,2025-01-01,1,protocols_domestic
-1170010,2025-01-01,1,protocols_domestic
 1171486,2025-01-01,1,protocols_domestic
 1173313,2025-01-01,1,protocols_domestic
 1173420,2025-01-01,1,protocols_domestic
@@ -30449,7 +30405,6 @@ cik,date,value,component
 1398805,2025-01-01,1,protocols_domestic
 1400118,2025-01-01,1,protocols_domestic
 1401040,2025-01-01,1,protocols_domestic
-1401257,2025-01-01,1,protocols_domestic
 1401667,2025-01-01,1,protocols_domestic
 1401914,2025-01-01,1,protocols_domestic
 1402328,2025-01-01,1,protocols_domestic
@@ -30483,7 +30438,6 @@ cik,date,value,component
 1438533,2025-01-01,1,protocols_domestic
 1439222,2025-01-01,1,protocols_domestic
 1439725,2025-01-01,1,protocols_domestic
-1441236,2025-01-01,1,protocols_domestic
 1441816,2025-01-01,1,protocols_domestic
 1443646,2025-01-01,1,protocols_domestic
 1444192,2025-01-01,1,protocols_domestic
@@ -30604,12 +30558,12 @@ cik,date,value,component
 1547546,2025-01-01,1,protocols_domestic
 1547903,2025-01-01,1,protocols_domestic
 1549595,2025-01-01,1,protocols_domestic
-1549966,2025-01-01,1,protocols_domestic
 1550453,2025-01-01,1,protocols_domestic
 1551152,2025-01-01,1,protocols_domestic
 1552198,2025-01-01,1,protocols_domestic
 1553079,2025-01-01,1,protocols_domestic
 1553643,2025-01-01,1,protocols_domestic
+1555279,2025-01-01,1,protocols_domestic
 1555280,2025-01-01,1,protocols_domestic
 1556739,2025-01-01,1,protocols_domestic
 1557746,2025-01-01,1,protocols_domestic
@@ -30673,7 +30627,6 @@ cik,date,value,component
 1603291,2025-01-01,1,protocols_domestic
 1604191,2025-01-01,1,protocols_domestic
 1604738,2025-01-01,1,protocols_domestic
-1604778,2025-01-01,1,protocols_domestic
 1604821,2025-01-01,1,protocols_domestic
 1604950,2025-01-01,1,protocols_domestic
 1606163,2025-01-01,1,protocols_domestic
@@ -30812,6 +30765,7 @@ cik,date,value,component
 1701758,2025-01-01,1,protocols_domestic
 1702780,2025-01-01,1,protocols_domestic
 1703057,2025-01-01,1,protocols_domestic
+1703644,2025-01-01,1,protocols_domestic
 1703647,2025-01-01,1,protocols_domestic
 1704292,2025-01-01,1,protocols_domestic
 1705181,2025-01-01,1,protocols_domestic
@@ -30850,6 +30804,7 @@ cik,date,value,component
 1727263,2025-01-01,1,protocols_domestic
 1728117,2025-01-01,1,protocols_domestic
 1728205,2025-01-01,1,protocols_domestic
+1728951,2025-01-01,1,protocols_domestic
 1729149,2025-01-01,1,protocols_domestic
 1729427,2025-01-01,1,protocols_domestic
 1733294,2025-01-01,1,protocols_domestic
@@ -30858,7 +30813,6 @@ cik,date,value,component
 1736243,2025-01-01,1,protocols_domestic
 1737287,2025-01-01,1,protocols_domestic
 1737953,2025-01-01,1,protocols_domestic
-1738021,2025-01-01,1,protocols_domestic
 1739104,2025-01-01,1,protocols_domestic
 1739174,2025-01-01,1,protocols_domestic
 1739410,2025-01-01,1,protocols_domestic
@@ -30937,6 +30891,7 @@ cik,date,value,component
 1787518,2025-01-01,1,protocols_domestic
 1787740,2025-01-01,1,protocols_domestic
 1788230,2025-01-01,1,protocols_domestic
+1788882,2025-01-01,1,protocols_domestic
 1789029,2025-01-01,1,protocols_domestic
 1789192,2025-01-01,1,protocols_domestic
 1789832,2025-01-01,1,protocols_domestic
@@ -31036,6 +30991,7 @@ cik,date,value,component
 1831828,2025-01-01,1,protocols_domestic
 1833214,2025-01-01,1,protocols_domestic
 1834105,2025-01-01,1,protocols_domestic
+1834488,2025-01-01,1,protocols_domestic
 1835022,2025-01-01,1,protocols_domestic
 1835268,2025-01-01,1,protocols_domestic
 1835579,2025-01-01,1,protocols_domestic
@@ -31058,6 +31014,7 @@ cik,date,value,component
 1841330,2025-01-01,1,protocols_domestic
 1841387,2025-01-01,1,protocols_domestic
 1841761,2025-01-01,1,protocols_domestic
+1841968,2025-01-01,1,protocols_domestic
 1842022,2025-01-01,1,protocols_domestic
 1842295,2025-01-01,1,protocols_domestic
 1842556,2025-01-01,1,protocols_domestic
@@ -31134,7 +31091,6 @@ cik,date,value,component
 1891101,2025-01-01,1,protocols_domestic
 1892322,2025-01-01,1,protocols_domestic
 1892747,2025-01-01,1,protocols_domestic
-1893219,2025-01-01,1,protocols_domestic
 1893657,2025-01-01,1,protocols_domestic
 1894525,2025-01-01,1,protocols_domestic
 1895582,2025-01-01,1,protocols_domestic
@@ -31151,7 +31107,6 @@ cik,date,value,component
 1910139,2025-01-01,1,protocols_domestic
 1916558,2025-01-01,1,protocols_domestic
 1919246,2025-01-01,1,protocols_domestic
-1920406,2025-01-01,1,protocols_domestic
 1920791,2025-01-01,1,protocols_domestic
 1921865,2025-01-01,1,protocols_domestic
 1922335,2025-01-01,1,protocols_domestic
@@ -31176,6 +31131,7 @@ cik,date,value,component
 1947210,2025-01-01,1,protocols_domestic
 1953926,2025-01-01,1,protocols_domestic
 1956955,2025-01-01,1,protocols_domestic
+1959023,2025-01-01,1,protocols_domestic
 1960262,2025-01-01,1,protocols_domestic
 1962011,2025-01-01,1,protocols_domestic
 1962918,2025-01-01,1,protocols_domestic

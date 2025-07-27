@@ -6,6 +6,7 @@ cik,date,value,component
 881695,2001-01-01,1,adoption_domestic
 895730,2001-01-01,1,adoption_domestic
 924101,2001-01-01,1,adoption_domestic
+943605,2001-01-01,1,adoption_domestic
 1005229,2001-01-01,1,adoption_domestic
 1045014,2001-01-01,1,adoption_domestic
 1062622,2001-01-01,1,adoption_domestic
@@ -157,7 +158,6 @@ cik,date,value,component
 1323648,2008-01-01,1,adoption_domestic
 1338520,2008-01-01,1,adoption_domestic
 1347022,2008-01-01,1,adoption_domestic
-1399215,2008-01-01,1,adoption_domestic
 1406391,2008-01-01,1,adoption_domestic
 4447,2009-01-01,1,adoption_domestic
 93410,2009-01-01,1,adoption_domestic
@@ -428,6 +428,7 @@ cik,date,value,component
 1561726,2015-01-01,1,adoption_domestic
 1561727,2015-01-01,1,adoption_domestic
 1566053,2015-01-01,1,adoption_domestic
+1566140,2015-01-01,1,adoption_domestic
 1566543,2015-01-01,1,adoption_domestic
 1566544,2015-01-01,1,adoption_domestic
 1567572,2015-01-01,1,adoption_domestic
@@ -436,6 +437,7 @@ cik,date,value,component
 1572493,2015-01-01,1,adoption_domestic
 1573946,2015-01-01,1,adoption_domestic
 1575190,2015-01-01,1,adoption_domestic
+1575686,2015-01-01,1,adoption_domestic
 1576047,2015-01-01,1,adoption_domestic
 1577545,2015-01-01,1,adoption_domestic
 1578422,2015-01-01,1,adoption_domestic
@@ -588,7 +590,6 @@ cik,date,value,component
 1575686,2016-01-01,1,adoption_domestic
 1576047,2016-01-01,1,adoption_domestic
 1577545,2016-01-01,1,adoption_domestic
-1578422,2016-01-01,1,adoption_domestic
 1578423,2016-01-01,1,adoption_domestic
 1578533,2016-01-01,1,adoption_domestic
 1579306,2016-01-01,1,adoption_domestic
@@ -609,20 +610,16 @@ cik,date,value,component
 1589802,2016-01-01,1,adoption_domestic
 1589803,2016-01-01,1,adoption_domestic
 1589804,2016-01-01,1,adoption_domestic
-1590058,2016-01-01,1,adoption_domestic
 1590231,2016-01-01,1,adoption_domestic
 1590757,2016-01-01,1,adoption_domestic
 1593034,2016-01-01,1,adoption_domestic
-1593269,2016-01-01,1,adoption_domestic
 1594100,2016-01-01,1,adoption_domestic
 1594136,2016-01-01,1,adoption_domestic
 1595710,2016-01-01,1,adoption_domestic
-1595726,2016-01-01,1,adoption_domestic
 1596958,2016-01-01,1,adoption_domestic
 1597339,2016-01-01,1,adoption_domestic
 1599714,2016-01-01,1,adoption_domestic
 1600823,2016-01-01,1,adoption_domestic
-1600824,2016-01-01,1,adoption_domestic
 1600831,2016-01-01,1,adoption_domestic
 1601617,2016-01-01,1,adoption_domestic
 1601705,2016-01-01,1,adoption_domestic
@@ -687,11 +684,9 @@ cik,date,value,component
 1643293,2016-01-01,1,adoption_domestic
 1643550,2016-01-01,1,adoption_domestic
 1643661,2016-01-01,1,adoption_domestic
-1643873,2016-01-01,1,adoption_domestic
 1644697,2016-01-01,1,adoption_domestic
 1644943,2016-01-01,1,adoption_domestic
 1645384,2016-01-01,1,adoption_domestic
-1646736,2016-01-01,1,adoption_domestic
 1646924,2016-01-01,1,adoption_domestic
 1647587,2016-01-01,1,adoption_domestic
 1647980,2016-01-01,1,adoption_domestic
@@ -764,7 +759,6 @@ cik,date,value,component
 1552164,2017-01-01,1,adoption_domestic
 1552327,2017-01-01,1,adoption_domestic
 1552328,2017-01-01,1,adoption_domestic
-1553817,2017-01-01,1,adoption_domestic
 1554776,2017-01-01,1,adoption_domestic
 1556487,2017-01-01,1,adoption_domestic
 1556601,2017-01-01,1,adoption_domestic
@@ -784,6 +778,7 @@ cik,date,value,component
 1566543,2017-01-01,1,adoption_domestic
 1566544,2017-01-01,1,adoption_domestic
 1567572,2017-01-01,1,adoption_domestic
+1569414,2017-01-01,1,adoption_domestic
 1570585,2017-01-01,1,adoption_domestic
 1571236,2017-01-01,1,adoption_domestic
 1572493,2017-01-01,1,adoption_domestic
@@ -793,10 +788,12 @@ cik,date,value,component
 1576047,2017-01-01,1,adoption_domestic
 1577545,2017-01-01,1,adoption_domestic
 1578422,2017-01-01,1,adoption_domestic
+1578423,2017-01-01,1,adoption_domestic
 1578533,2017-01-01,1,adoption_domestic
+1579306,2017-01-01,1,adoption_domestic
 1580013,2017-01-01,1,adoption_domestic
 1580891,2017-01-01,1,adoption_domestic
-1581653,2017-01-01,1,adoption_domestic
+1582037,2017-01-01,1,adoption_domestic
 1582605,2017-01-01,1,adoption_domestic
 1584492,2017-01-01,1,adoption_domestic
 1585067,2017-01-01,1,adoption_domestic
@@ -805,6 +802,7 @@ cik,date,value,component
 1587234,2017-01-01,1,adoption_domestic
 1587497,2017-01-01,1,adoption_domestic
 1587980,2017-01-01,1,adoption_domestic
+1587981,2017-01-01,1,adoption_domestic
 1588251,2017-01-01,1,adoption_domestic
 1589802,2017-01-01,1,adoption_domestic
 1589803,2017-01-01,1,adoption_domestic
@@ -812,6 +810,7 @@ cik,date,value,component
 1590058,2017-01-01,1,adoption_domestic
 1590231,2017-01-01,1,adoption_domestic
 1590757,2017-01-01,1,adoption_domestic
+1593269,2017-01-01,1,adoption_domestic
 1594100,2017-01-01,1,adoption_domestic
 1594136,2017-01-01,1,adoption_domestic
 1595710,2017-01-01,1,adoption_domestic
@@ -833,6 +832,7 @@ cik,date,value,component
 1606442,2017-01-01,1,adoption_domestic
 1607484,2017-01-01,1,adoption_domestic
 1607641,2017-01-01,1,adoption_domestic
+1607865,2017-01-01,1,adoption_domestic
 1609671,2017-01-01,1,adoption_domestic
 1610486,2017-01-01,1,adoption_domestic
 1610796,2017-01-01,1,adoption_domestic
@@ -852,7 +852,6 @@ cik,date,value,component
 1621368,2017-01-01,1,adoption_domestic
 1621379,2017-01-01,1,adoption_domestic
 1621466,2017-01-01,1,adoption_domestic
-1622413,2017-01-01,1,adoption_domestic
 1622765,2017-01-01,1,adoption_domestic
 1623838,2017-01-01,1,adoption_domestic
 1623916,2017-01-01,1,adoption_domestic
@@ -876,7 +875,6 @@ cik,date,value,component
 1636708,2017-01-01,1,adoption_domestic
 1637008,2017-01-01,1,adoption_domestic
 1638227,2017-01-01,1,adoption_domestic
-1638933,2017-01-01,1,adoption_domestic
 1639353,2017-01-01,1,adoption_domestic
 1640052,2017-01-01,1,adoption_domestic
 1640584,2017-01-01,1,adoption_domestic
@@ -896,6 +894,7 @@ cik,date,value,component
 1648195,2017-01-01,1,adoption_domestic
 1648439,2017-01-01,1,adoption_domestic
 1648858,2017-01-01,1,adoption_domestic
+1649184,2017-01-01,1,adoption_domestic
 1651164,2017-01-01,1,adoption_domestic
 1651588,2017-01-01,1,adoption_domestic
 1651790,2017-01-01,1,adoption_domestic
@@ -921,6 +920,7 @@ cik,date,value,component
 1661589,2017-01-01,1,adoption_domestic
 1662784,2017-01-01,1,adoption_domestic
 1663239,2017-01-01,1,adoption_domestic
+1663240,2017-01-01,1,adoption_domestic
 1663244,2017-01-01,1,adoption_domestic
 1663645,2017-01-01,1,adoption_domestic
 1664682,2017-01-01,1,adoption_domestic
@@ -941,6 +941,7 @@ cik,date,value,component
 1673542,2017-01-01,1,adoption_domestic
 1675928,2017-01-01,1,adoption_domestic
 1676734,2017-01-01,1,adoption_domestic
+1676852,2017-01-01,1,adoption_domestic
 1677390,2017-01-01,1,adoption_domestic
 1677913,2017-01-01,1,adoption_domestic
 1678038,2017-01-01,1,adoption_domestic
@@ -965,6 +966,7 @@ cik,date,value,component
 1687955,2017-01-01,1,adoption_domestic
 1688149,2017-01-01,1,adoption_domestic
 1688451,2017-01-01,1,adoption_domestic
+1688957,2017-01-01,1,adoption_domestic
 1689111,2017-01-01,1,adoption_domestic
 1689417,2017-01-01,1,adoption_domestic
 1690110,2017-01-01,1,adoption_domestic
@@ -1353,7 +1355,7 @@ cik,date,value,component
 1001601,2019-01-01,1,adoption_domestic
 1032033,2019-01-01,1,adoption_domestic
 1034842,2019-01-01,1,adoption_domestic
-1078099,2019-01-01,1,adoption_domestic
+1066923,2019-01-01,1,adoption_domestic
 1130713,2019-01-01,1,adoption_domestic
 1138724,2019-01-01,1,adoption_domestic
 1142790,2019-01-01,1,adoption_domestic
@@ -1384,6 +1386,7 @@ cik,date,value,component
 1527531,2019-01-01,1,adoption_domestic
 1528503,2019-01-01,1,adoption_domestic
 1529658,2019-01-01,1,adoption_domestic
+1530219,2019-01-01,1,adoption_domestic
 1532826,2019-01-01,1,adoption_domestic
 1532961,2019-01-01,1,adoption_domestic
 1535456,2019-01-01,1,adoption_domestic
@@ -1397,7 +1400,6 @@ cik,date,value,component
 1548266,2019-01-01,1,adoption_domestic
 1548599,2019-01-01,1,adoption_domestic
 1550120,2019-01-01,1,adoption_domestic
-1550221,2019-01-01,1,adoption_domestic
 1552164,2019-01-01,1,adoption_domestic
 1552327,2019-01-01,1,adoption_domestic
 1552328,2019-01-01,1,adoption_domestic
@@ -1425,6 +1427,7 @@ cik,date,value,component
 1571236,2019-01-01,1,adoption_domestic
 1571949,2019-01-01,1,adoption_domestic
 1572493,2019-01-01,1,adoption_domestic
+1573946,2019-01-01,1,adoption_domestic
 1575190,2019-01-01,1,adoption_domestic
 1575659,2019-01-01,1,adoption_domestic
 1576047,2019-01-01,1,adoption_domestic
@@ -1442,6 +1445,7 @@ cik,date,value,component
 1585067,2019-01-01,1,adoption_domestic
 1585673,2019-01-01,1,adoption_domestic
 1587234,2019-01-01,1,adoption_domestic
+1587497,2019-01-01,1,adoption_domestic
 1587980,2019-01-01,1,adoption_domestic
 1587981,2019-01-01,1,adoption_domestic
 1588251,2019-01-01,1,adoption_domestic
@@ -1459,16 +1463,15 @@ cik,date,value,component
 1597339,2019-01-01,1,adoption_domestic
 1599714,2019-01-01,1,adoption_domestic
 1600823,2019-01-01,1,adoption_domestic
+1600824,2019-01-01,1,adoption_domestic
 1600831,2019-01-01,1,adoption_domestic
 1601617,2019-01-01,1,adoption_domestic
 1601705,2019-01-01,1,adoption_domestic
 1601744,2019-01-01,1,adoption_domestic
 1602658,2019-01-01,1,adoption_domestic
-1603578,2019-01-01,1,adoption_domestic
 1603669,2019-01-01,1,adoption_domestic
 1604083,2019-01-01,1,adoption_domestic
 1604119,2019-01-01,1,adoption_domestic
-1605257,2019-01-01,1,adoption_domestic
 1605331,2019-01-01,1,adoption_domestic
 1606442,2019-01-01,1,adoption_domestic
 1607484,2019-01-01,1,adoption_domestic
@@ -1556,7 +1559,6 @@ cik,date,value,component
 1656088,2019-01-01,1,adoption_domestic
 1656681,2019-01-01,1,adoption_domestic
 1656839,2019-01-01,1,adoption_domestic
-1657325,2019-01-01,1,adoption_domestic
 1657889,2019-01-01,1,adoption_domestic
 1658304,2019-01-01,1,adoption_domestic
 1659329,2019-01-01,1,adoption_domestic
@@ -1579,6 +1581,7 @@ cik,date,value,component
 1671013,2019-01-01,1,adoption_domestic
 1671048,2019-01-01,1,adoption_domestic
 1671520,2019-01-01,1,adoption_domestic
+1671740,2019-01-01,1,adoption_domestic
 1672587,2019-01-01,1,adoption_domestic
 1672609,2019-01-01,1,adoption_domestic
 1673255,2019-01-01,1,adoption_domestic
@@ -1649,7 +1652,6 @@ cik,date,value,component
 1711786,2019-01-01,1,adoption_domestic
 1712184,2019-01-01,1,adoption_domestic
 1713226,2019-01-01,1,adoption_domestic
-1713393,2019-01-01,1,adoption_domestic
 1714154,2019-01-01,1,adoption_domestic
 1714679,2019-01-01,1,adoption_domestic
 1715824,2019-01-01,1,adoption_domestic
@@ -1692,11 +1694,11 @@ cik,date,value,component
 1741690,2019-01-01,1,adoption_domestic
 1742373,2019-01-01,1,adoption_domestic
 1742383,2019-01-01,1,adoption_domestic
+1744707,2019-01-01,1,adoption_domestic
 1744982,2019-01-01,1,adoption_domestic
 1745511,2019-01-01,1,adoption_domestic
 1745529,2019-01-01,1,adoption_domestic
 1746406,2019-01-01,1,adoption_domestic
-1748940,2019-01-01,1,adoption_domestic
 1749360,2019-01-01,1,adoption_domestic
 1749973,2019-01-01,1,adoption_domestic
 1751743,2019-01-01,1,adoption_domestic
@@ -1727,6 +1729,7 @@ cik,date,value,component
 837852,2020-01-01,1,adoption_domestic
 862651,2020-01-01,1,adoption_domestic
 880631,2020-01-01,1,adoption_domestic
+896493,2020-01-01,1,adoption_domestic
 899629,2020-01-01,1,adoption_domestic
 913760,2020-01-01,1,adoption_domestic
 920760,2020-01-01,1,adoption_domestic
@@ -1740,6 +1743,7 @@ cik,date,value,component
 1142790,2020-01-01,1,adoption_domestic
 1156375,2020-01-01,1,adoption_domestic
 1167419,2020-01-01,1,adoption_domestic
+1288359,2020-01-01,1,adoption_domestic
 1312109,2020-01-01,1,adoption_domestic
 1327978,2020-01-01,1,adoption_domestic
 1337298,2020-01-01,1,adoption_domestic
@@ -1894,6 +1898,7 @@ cik,date,value,component
 1625941,2020-01-01,1,adoption_domestic
 1626941,2020-01-01,1,adoption_domestic
 1628112,2020-01-01,1,adoption_domestic
+1629069,2020-01-01,1,adoption_domestic
 1629716,2020-01-01,1,adoption_domestic
 1630477,2020-01-01,1,adoption_domestic
 1630513,2020-01-01,1,adoption_domestic
@@ -1931,7 +1936,6 @@ cik,date,value,component
 1651164,2020-01-01,1,adoption_domestic
 1651588,2020-01-01,1,adoption_domestic
 1651790,2020-01-01,1,adoption_domestic
-1652031,2020-01-01,1,adoption_domestic
 1652672,2020-01-01,1,adoption_domestic
 1652884,2020-01-01,1,adoption_domestic
 1652982,2020-01-01,1,adoption_domestic
@@ -2357,6 +2361,7 @@ cik,date,value,component
 1634976,2021-01-01,1,adoption_domestic
 1635569,2021-01-01,1,adoption_domestic
 1636513,2021-01-01,1,adoption_domestic
+1636708,2021-01-01,1,adoption_domestic
 1637008,2021-01-01,1,adoption_domestic
 1638227,2021-01-01,1,adoption_domestic
 1638933,2021-01-01,1,adoption_domestic
@@ -2499,7 +2504,6 @@ cik,date,value,component
 1714679,2021-01-01,1,adoption_domestic
 1715824,2021-01-01,1,adoption_domestic
 1715846,2021-01-01,1,adoption_domestic
-1716186,2021-01-01,1,adoption_domestic
 1716187,2021-01-01,1,adoption_domestic
 1716263,2021-01-01,1,adoption_domestic
 1716602,2021-01-01,1,adoption_domestic
@@ -2635,7 +2639,6 @@ cik,date,value,component
 1816114,2021-01-01,1,adoption_domestic
 1816147,2021-01-01,1,adoption_domestic
 1816861,2021-01-01,1,adoption_domestic
-1817825,2021-01-01,1,adoption_domestic
 1818254,2021-01-01,1,adoption_domestic
 1818346,2021-01-01,1,adoption_domestic
 1818654,2021-01-01,1,adoption_domestic
@@ -2708,6 +2711,7 @@ cik,date,value,component
 1312109,2022-01-01,1,adoption_domestic
 1314196,2022-01-01,1,adoption_domestic
 1318605,2022-01-01,1,adoption_domestic
+1337298,2022-01-01,1,adoption_domestic
 1355839,2022-01-01,1,adoption_domestic
 1364742,2022-01-01,1,adoption_domestic
 1376321,2022-01-01,1,adoption_domestic
@@ -2836,7 +2840,6 @@ cik,date,value,component
 1610820,2022-01-01,1,adoption_domestic
 1612124,2022-01-01,1,adoption_domestic
 1612126,2022-01-01,1,adoption_domestic
-1612518,2022-01-01,1,adoption_domestic
 1614033,2022-01-01,1,adoption_domestic
 1616156,2022-01-01,1,adoption_domestic
 1616666,2022-01-01,1,adoption_domestic
@@ -2845,7 +2848,6 @@ cik,date,value,component
 1618150,2022-01-01,1,adoption_domestic
 1618713,2022-01-01,1,adoption_domestic
 1619511,2022-01-01,1,adoption_domestic
-1619616,2022-01-01,1,adoption_domestic
 1620179,2022-01-01,1,adoption_domestic
 1620305,2022-01-01,1,adoption_domestic
 1621368,2022-01-01,1,adoption_domestic
@@ -2870,7 +2872,6 @@ cik,date,value,component
 1634976,2022-01-01,1,adoption_domestic
 1635569,2022-01-01,1,adoption_domestic
 1636513,2022-01-01,1,adoption_domestic
-1636708,2022-01-01,1,adoption_domestic
 1637008,2022-01-01,1,adoption_domestic
 1638227,2022-01-01,1,adoption_domestic
 1638933,2022-01-01,1,adoption_domestic
@@ -3049,6 +3050,7 @@ cik,date,value,component
 1730869,2022-01-01,1,adoption_domestic
 1731044,2022-01-01,1,adoption_domestic
 1731056,2022-01-01,1,adoption_domestic
+1731627,2022-01-01,1,adoption_domestic
 1732406,2022-01-01,1,adoption_domestic
 1732409,2022-01-01,1,adoption_domestic
 1732963,2022-01-01,1,adoption_domestic
@@ -3269,6 +3271,7 @@ cik,date,value,component
 847942,2023-01-01,1,adoption_domestic
 857949,2023-01-01,1,adoption_domestic
 862651,2023-01-01,1,adoption_domestic
+879169,2023-01-01,1,adoption_domestic
 880631,2023-01-01,1,adoption_domestic
 894556,2023-01-01,1,adoption_domestic
 896493,2023-01-01,1,adoption_domestic
@@ -3318,6 +3321,7 @@ cik,date,value,component
 1436229,2023-01-01,1,adoption_domestic
 1437283,2023-01-01,1,adoption_domestic
 1437491,2023-01-01,1,adoption_domestic
+1439264,2023-01-01,1,adoption_domestic
 1469115,2023-01-01,1,adoption_domestic
 1471824,2023-01-01,1,adoption_domestic
 1483646,2023-01-01,1,adoption_domestic
@@ -3431,6 +3435,7 @@ cik,date,value,component
 1621368,2023-01-01,1,adoption_domestic
 1621379,2023-01-01,1,adoption_domestic
 1621466,2023-01-01,1,adoption_domestic
+1622413,2023-01-01,1,adoption_domestic
 1622765,2023-01-01,1,adoption_domestic
 1623838,2023-01-01,1,adoption_domestic
 1623916,2023-01-01,1,adoption_domestic
@@ -3489,6 +3494,7 @@ cik,date,value,component
 1653323,2023-01-01,1,adoption_domestic
 1653542,2023-01-01,1,adoption_domestic
 1654330,2023-01-01,1,adoption_domestic
+1654734,2023-01-01,1,adoption_domestic
 1655153,2023-01-01,1,adoption_domestic
 1655591,2023-01-01,1,adoption_domestic
 1656047,2023-01-01,1,adoption_domestic
@@ -3522,6 +3528,7 @@ cik,date,value,component
 1672609,2023-01-01,1,adoption_domestic
 1673255,2023-01-01,1,adoption_domestic
 1673542,2023-01-01,1,adoption_domestic
+1675928,2023-01-01,1,adoption_domestic
 1676734,2023-01-01,1,adoption_domestic
 1677077,2023-01-01,1,adoption_domestic
 1677390,2023-01-01,1,adoption_domestic
@@ -3574,7 +3581,6 @@ cik,date,value,component
 1702746,2023-01-01,1,adoption_domestic
 1703075,2023-01-01,1,adoption_domestic
 1704459,2023-01-01,1,adoption_domestic
-1705163,2023-01-01,1,adoption_domestic
 1705181,2023-01-01,1,adoption_domestic
 1706060,2023-01-01,1,adoption_domestic
 1706303,2023-01-01,1,adoption_domestic
@@ -3749,6 +3755,7 @@ cik,date,value,component
 1816147,2023-01-01,1,adoption_domestic
 1816431,2023-01-01,1,adoption_domestic
 1816861,2023-01-01,1,adoption_domestic
+1817825,2023-01-01,1,adoption_domestic
 1818254,2023-01-01,1,adoption_domestic
 1818654,2023-01-01,1,adoption_domestic
 1818874,2023-01-01,1,adoption_domestic
@@ -3985,12 +3992,14 @@ cik,date,value,component
 1606442,2024-01-01,1,adoption_domestic
 1607484,2024-01-01,1,adoption_domestic
 1607641,2024-01-01,1,adoption_domestic
+1607865,2024-01-01,1,adoption_domestic
 1609671,2024-01-01,1,adoption_domestic
 1610486,2024-01-01,1,adoption_domestic
 1610796,2024-01-01,1,adoption_domestic
 1610820,2024-01-01,1,adoption_domestic
 1612124,2024-01-01,1,adoption_domestic
 1612126,2024-01-01,1,adoption_domestic
+1612518,2024-01-01,1,adoption_domestic
 1614033,2024-01-01,1,adoption_domestic
 1616156,2024-01-01,1,adoption_domestic
 1616666,2024-01-01,1,adoption_domestic
@@ -4007,7 +4016,6 @@ cik,date,value,component
 1621466,2024-01-01,1,adoption_domestic
 1622413,2024-01-01,1,adoption_domestic
 1622765,2024-01-01,1,adoption_domestic
-1623838,2024-01-01,1,adoption_domestic
 1623916,2024-01-01,1,adoption_domestic
 1625426,2024-01-01,1,adoption_domestic
 1625941,2024-01-01,1,adoption_domestic
@@ -4016,8 +4024,8 @@ cik,date,value,component
 1629069,2024-01-01,1,adoption_domestic
 1629716,2024-01-01,1,adoption_domestic
 1630477,2024-01-01,1,adoption_domestic
-1630513,2024-01-01,1,adoption_domestic
 1630805,2024-01-01,1,adoption_domestic
+1631406,2024-01-01,1,adoption_domestic
 1632814,2024-01-01,1,adoption_domestic
 1633533,2024-01-01,1,adoption_domestic
 1633917,2024-01-01,1,adoption_domestic
@@ -4272,6 +4280,7 @@ cik,date,value,component
 1780678,2024-01-01,1,adoption_domestic
 1780859,2024-01-01,1,adoption_domestic
 1781089,2024-01-01,1,adoption_domestic
+1783287,2024-01-01,1,adoption_domestic
 1783879,2024-01-01,1,adoption_domestic
 1784958,2024-01-01,1,adoption_domestic
 1784970,2024-01-01,1,adoption_domestic
@@ -4546,7 +4555,6 @@ cik,date,value,component
 1589804,2025-01-01,1,adoption_domestic
 1590058,2025-01-01,1,adoption_domestic
 1591956,2025-01-01,1,adoption_domestic
-1594100,2025-01-01,1,adoption_domestic
 1595726,2025-01-01,1,adoption_domestic
 1596958,2025-01-01,1,adoption_domestic
 1597339,2025-01-01,1,adoption_domestic
@@ -4597,6 +4605,7 @@ cik,date,value,component
 1635569,2025-01-01,1,adoption_domestic
 1636513,2025-01-01,1,adoption_domestic
 1637008,2025-01-01,1,adoption_domestic
+1638227,2025-01-01,1,adoption_domestic
 1638933,2025-01-01,1,adoption_domestic
 1639353,2025-01-01,1,adoption_domestic
 1640052,2025-01-01,1,adoption_domestic
@@ -4644,6 +4653,7 @@ cik,date,value,component
 1662684,2025-01-01,1,adoption_domestic
 1662784,2025-01-01,1,adoption_domestic
 1663239,2025-01-01,1,adoption_domestic
+1663240,2025-01-01,1,adoption_domestic
 1663244,2025-01-01,1,adoption_domestic
 1663645,2025-01-01,1,adoption_domestic
 1664682,2025-01-01,1,adoption_domestic
@@ -4712,6 +4722,7 @@ cik,date,value,component
 1702745,2025-01-01,1,adoption_domestic
 1702746,2025-01-01,1,adoption_domestic
 1703075,2025-01-01,1,adoption_domestic
+1704459,2025-01-01,1,adoption_domestic
 1705163,2025-01-01,1,adoption_domestic
 1705181,2025-01-01,1,adoption_domestic
 1706060,2025-01-01,1,adoption_domestic
@@ -4745,6 +4756,7 @@ cik,date,value,component
 1719199,2025-01-01,1,adoption_domestic
 1719959,2025-01-01,1,adoption_domestic
 1720265,2025-01-01,1,adoption_domestic
+1720474,2025-01-01,1,adoption_domestic
 1720748,2025-01-01,1,adoption_domestic
 1721373,2025-01-01,1,adoption_domestic
 1721905,2025-01-01,1,adoption_domestic
@@ -4758,6 +4770,7 @@ cik,date,value,component
 1728085,2025-01-01,1,adoption_domestic
 1728339,2025-01-01,1,adoption_domestic
 1729832,2025-01-01,1,adoption_domestic
+1731044,2025-01-01,1,adoption_domestic
 1731056,2025-01-01,1,adoption_domestic
 1731627,2025-01-01,1,adoption_domestic
 1732963,2025-01-01,1,adoption_domestic
@@ -4825,6 +4838,7 @@ cik,date,value,component
 1778232,2025-01-01,1,adoption_domestic
 1778749,2025-01-01,1,adoption_domestic
 1778784,2025-01-01,1,adoption_domestic
+1780131,2025-01-01,1,adoption_domestic
 1780678,2025-01-01,1,adoption_domestic
 1780859,2025-01-01,1,adoption_domestic
 1781089,2025-01-01,1,adoption_domestic
@@ -4842,6 +4856,7 @@ cik,date,value,component
 1787518,2025-01-01,1,adoption_domestic
 1788230,2025-01-01,1,adoption_domestic
 1789307,2025-01-01,1,adoption_domestic
+1789356,2025-01-01,1,adoption_domestic
 1789954,2025-01-01,1,adoption_domestic
 1790013,2025-01-01,1,adoption_domestic
 1790441,2025-01-01,1,adoption_domestic
@@ -4863,13 +4878,11 @@ cik,date,value,component
 1797679,2025-01-01,1,adoption_domestic
 1799385,2025-01-01,1,adoption_domestic
 1799463,2025-01-01,1,adoption_domestic
-1800294,2025-01-01,1,adoption_domestic
 1801338,2025-01-01,1,adoption_domestic
 1802215,2025-01-01,1,adoption_domestic
 1803308,2025-01-01,1,adoption_domestic
 1803858,2025-01-01,1,adoption_domestic
 1806944,2025-01-01,1,adoption_domestic
-1807846,2025-01-01,1,adoption_domestic
 1810050,2025-01-01,1,adoption_domestic
 1811074,2025-01-01,1,adoption_domestic
 1812604,2025-01-01,1,adoption_domestic
@@ -4897,6 +4910,7 @@ cik,date,value,component
 1830315,2025-01-01,1,adoption_domestic
 1832873,2025-01-01,1,adoption_domestic
 1832874,2025-01-01,1,adoption_domestic
+1833522,2025-01-01,1,adoption_domestic
 1833563,2025-01-01,1,adoption_domestic
 1838028,2025-01-01,1,adoption_domestic
 1839341,2025-01-01,1,adoption_domestic
@@ -4970,6 +4984,7 @@ cik,date,value,component
 1950140,2025-01-01,1,adoption_domestic
 1950141,2025-01-01,1,adoption_domestic
 1958501,2025-01-01,1,adoption_domestic
+1961629,2025-01-01,1,adoption_domestic
 1964789,2025-01-01,1,adoption_domestic
 1966002,2025-01-01,1,adoption_domestic
 1966434,2025-01-01,1,adoption_domestic
@@ -5005,7 +5020,6 @@ cik,date,value,component
 2012263,2025-01-01,1,adoption_domestic
 2012383,2025-01-01,1,adoption_domestic
 2012481,2025-01-01,1,adoption_domestic
-2012839,2025-01-01,1,adoption_domestic
 2013744,2025-01-01,1,adoption_domestic
 2013825,2025-01-01,1,adoption_domestic
 2015034,2025-01-01,1,adoption_domestic
@@ -6047,7 +6061,6 @@ cik,date,value,component
 6879,2007-01-01,1,mining_domestic
 7039,2007-01-01,1,mining_domestic
 16873,2007-01-01,1,mining_domestic
-17797,2007-01-01,1,mining_domestic
 18672,2007-01-01,1,mining_domestic
 18734,2007-01-01,1,mining_domestic
 22198,2007-01-01,1,mining_domestic
@@ -6056,7 +6069,6 @@ cik,date,value,component
 24104,2007-01-01,1,mining_domestic
 25657,2007-01-01,1,mining_domestic
 30554,2007-01-01,1,mining_domestic
-37637,2007-01-01,1,mining_domestic
 37651,2007-01-01,1,mining_domestic
 37748,2007-01-01,1,mining_domestic
 37785,2007-01-01,1,mining_domestic
@@ -6169,7 +6181,6 @@ cik,date,value,component
 1089575,2007-01-01,1,mining_domestic
 1089819,2007-01-01,1,mining_domestic
 1091171,2007-01-01,1,mining_domestic
-1094093,2007-01-01,1,mining_domestic
 1096385,2007-01-01,1,mining_domestic
 1104657,2007-01-01,1,mining_domestic
 1108426,2007-01-01,1,mining_domestic
@@ -6360,6 +6371,7 @@ cik,date,value,component
 1110783,2008-01-01,1,mining_domestic
 1111665,2008-01-01,1,mining_domestic
 1112706,2008-01-01,1,mining_domestic
+1127007,2008-01-01,1,mining_domestic
 1129018,2008-01-01,1,mining_domestic
 1129542,2008-01-01,1,mining_domestic
 1130464,2008-01-01,1,mining_domestic
@@ -6411,7 +6423,6 @@ cik,date,value,component
 1344980,2008-01-01,1,mining_domestic
 1346685,2008-01-01,1,mining_domestic
 1349371,2008-01-01,1,mining_domestic
-1354591,2008-01-01,1,mining_domestic
 1358652,2008-01-01,1,mining_domestic
 1360405,2008-01-01,1,mining_domestic
 1362120,2008-01-01,1,mining_domestic
@@ -7158,6 +7169,7 @@ cik,date,value,component
 1334933,2010-01-01,1,mining_domestic
 1335137,2010-01-01,1,mining_domestic
 1335793,2010-01-01,1,mining_domestic
+1342854,2010-01-01,1,mining_domestic
 1342916,2010-01-01,1,mining_domestic
 1344394,2010-01-01,1,mining_domestic
 1344980,2010-01-01,1,mining_domestic
@@ -7552,7 +7564,6 @@ cik,date,value,component
 1297720,2011-01-01,1,mining_domestic
 1301063,2011-01-01,1,mining_domestic
 1302084,2011-01-01,1,mining_domestic
-1304409,2011-01-01,1,mining_domestic
 1318196,2011-01-01,1,mining_domestic
 1319009,2011-01-01,1,mining_domestic
 1319643,2011-01-01,1,mining_domestic
@@ -7913,6 +7924,7 @@ cik,date,value,component
 1081316,2012-01-01,1,mining_domestic
 1083410,2012-01-01,1,mining_domestic
 1083848,2012-01-01,1,mining_domestic
+1084226,2012-01-01,1,mining_domestic
 1086600,2012-01-01,1,mining_domestic
 1089819,2012-01-01,1,mining_domestic
 1091171,2012-01-01,1,mining_domestic
@@ -8908,7 +8920,6 @@ cik,date,value,component
 1453122,2014-01-01,1,mining_domestic
 1456802,2014-01-01,1,mining_domestic
 1462013,2014-01-01,1,mining_domestic
-1464343,2014-01-01,1,mining_domestic
 1464830,2014-01-01,1,mining_domestic
 1473591,2014-01-01,1,mining_domestic
 1475065,2014-01-01,1,mining_domestic
@@ -8940,7 +8951,6 @@ cik,date,value,component
 1515317,2014-01-01,1,mining_domestic
 1522182,2014-01-01,1,mining_domestic
 1524741,2014-01-01,1,mining_domestic
-1525221,2014-01-01,1,mining_domestic
 1528356,2014-01-01,1,mining_domestic
 1530804,2014-01-01,1,mining_domestic
 1531433,2014-01-01,1,mining_domestic
@@ -9219,6 +9229,7 @@ cik,date,value,component
 1450524,2015-01-01,1,mining_domestic
 1451433,2015-01-01,1,mining_domestic
 1453122,2015-01-01,1,mining_domestic
+1456802,2015-01-01,1,mining_domestic
 1464343,2015-01-01,1,mining_domestic
 1477168,2015-01-01,1,mining_domestic
 1489096,2015-01-01,1,mining_domestic
@@ -9254,6 +9265,7 @@ cik,date,value,component
 1543418,2015-01-01,1,mining_domestic
 1543637,2015-01-01,1,mining_domestic
 1545232,2015-01-01,1,mining_domestic
+1545312,2015-01-01,1,mining_domestic
 1549848,2015-01-01,1,mining_domestic
 1551887,2015-01-01,1,mining_domestic
 1555177,2015-01-01,1,mining_domestic
@@ -9472,6 +9484,7 @@ cik,date,value,component
 1401835,2016-01-01,1,mining_domestic
 1402747,2016-01-01,1,mining_domestic
 1405663,2016-01-01,1,mining_domestic
+1407583,2016-01-01,1,mining_domestic
 1407703,2016-01-01,1,mining_domestic
 1408146,2016-01-01,1,mining_domestic
 1409171,2016-01-01,1,mining_domestic
@@ -9489,6 +9502,7 @@ cik,date,value,component
 1428389,2016-01-01,1,mining_domestic
 1430174,2016-01-01,1,mining_domestic
 1432196,2016-01-01,1,mining_domestic
+1434994,2016-01-01,1,mining_domestic
 1435064,2016-01-01,1,mining_domestic
 1436229,2016-01-01,1,mining_domestic
 1438672,2016-01-01,1,mining_domestic
@@ -9566,7 +9580,6 @@ cik,date,value,component
 7039,2017-01-01,1,mining_domestic
 7332,2017-01-01,1,mining_domestic
 8328,2017-01-01,1,mining_domestic
-16040,2017-01-01,1,mining_domestic
 18230,2017-01-01,1,mining_domestic
 18672,2017-01-01,1,mining_domestic
 22767,2017-01-01,1,mining_domestic
@@ -9749,6 +9762,7 @@ cik,date,value,component
 1432196,2017-01-01,1,mining_domestic
 1435064,2017-01-01,1,mining_domestic
 1436229,2017-01-01,1,mining_domestic
+1436568,2017-01-01,1,mining_domestic
 1441849,2017-01-01,1,mining_domestic
 1444839,2017-01-01,1,mining_domestic
 1445541,2017-01-01,1,mining_domestic
@@ -10089,14 +10103,12 @@ cik,date,value,component
 3153,2019-01-01,1,mining_domestic
 4904,2019-01-01,1,mining_domestic
 6879,2019-01-01,1,mining_domestic
-7039,2019-01-01,1,mining_domestic
 7332,2019-01-01,1,mining_domestic
 8328,2019-01-01,1,mining_domestic
 18230,2019-01-01,1,mining_domestic
 18672,2019-01-01,1,mining_domestic
 22767,2019-01-01,1,mining_domestic
 24104,2019-01-01,1,mining_domestic
-27093,2019-01-01,1,mining_domestic
 33213,2019-01-01,1,mining_domestic
 34088,2019-01-01,1,mining_domestic
 37785,2019-01-01,1,mining_domestic
@@ -10198,7 +10210,6 @@ cik,date,value,component
 1120970,2019-01-01,1,mining_domestic
 1130464,2019-01-01,1,mining_domestic
 1133798,2019-01-01,1,mining_domestic
-1134115,2019-01-01,1,mining_domestic
 1159275,2019-01-01,1,mining_domestic
 1160661,2019-01-01,1,mining_domestic
 1160791,2019-01-01,1,mining_domestic
@@ -10531,6 +10542,7 @@ cik,date,value,component
 1561180,2020-01-01,1,mining_domestic
 1570132,2020-01-01,1,mining_domestic
 1571371,2020-01-01,1,mining_domestic
+1572386,2020-01-01,1,mining_domestic
 1575051,2020-01-01,1,mining_domestic
 1575659,2020-01-01,1,mining_domestic
 1575858,2020-01-01,1,mining_domestic
@@ -10548,7 +10560,6 @@ cik,date,value,component
 1621563,2020-01-01,1,mining_domestic
 1621906,2020-01-01,1,mining_domestic
 1627223,2020-01-01,1,mining_domestic
-1629210,2020-01-01,1,mining_domestic
 1637558,2020-01-01,1,mining_domestic
 1637880,2020-01-01,1,mining_domestic
 1653710,2020-01-01,1,mining_domestic
@@ -10758,6 +10769,7 @@ cik,date,value,component
 1528129,2021-01-01,1,mining_domestic
 1529628,2021-01-01,1,mining_domestic
 1530804,2021-01-01,1,mining_domestic
+1539680,2021-01-01,1,mining_domestic
 1540684,2021-01-01,1,mining_domestic
 1543418,2021-01-01,1,mining_domestic
 1543637,2021-01-01,1,mining_domestic
@@ -11093,7 +11105,6 @@ cik,date,value,component
 1761534,2022-01-01,1,mining_domestic
 1767057,2022-01-01,1,mining_domestic
 1770561,2022-01-01,1,mining_domestic
-1778784,2022-01-01,1,mining_domestic
 1783879,2022-01-01,1,mining_domestic
 1793330,2022-01-01,1,mining_domestic
 1798562,2022-01-01,1,mining_domestic
@@ -11283,6 +11294,7 @@ cik,date,value,component
 1444839,2023-01-01,1,mining_domestic
 1445942,2023-01-01,1,mining_domestic
 1448597,2023-01-01,1,mining_domestic
+1451448,2023-01-01,1,mining_domestic
 1462056,2023-01-01,1,mining_domestic
 1466593,2023-01-01,1,mining_domestic
 1469115,2023-01-01,1,mining_domestic
@@ -11375,6 +11387,7 @@ cik,date,value,component
 1729997,2023-01-01,1,mining_domestic
 1730346,2023-01-01,1,mining_domestic
 1730869,2023-01-01,1,mining_domestic
+1732406,2023-01-01,1,mining_domestic
 1732409,2023-01-01,1,mining_domestic
 1737372,2023-01-01,1,mining_domestic
 1739445,2023-01-01,1,mining_domestic
@@ -11893,7 +11906,6 @@ cik,date,value,component
 1572386,2025-01-01,1,mining_domestic
 1575858,2025-01-01,1,mining_domestic
 1588489,2025-01-01,1,mining_domestic
-1590584,2025-01-01,1,mining_domestic
 1590715,2025-01-01,1,mining_domestic
 1591956,2025-01-01,1,mining_domestic
 1594204,2025-01-01,1,mining_domestic
